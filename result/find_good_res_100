@@ -1,0 +1,1768 @@
+Click_num: 100
+==========
+function find_good_res:
+{   'res_discipline_id': 11824280,
+    'res_edugrade': u'D',
+    'resource_id': u'1373668',
+    'total_num': 301,
+    'user_edutype': Counter({'-1': 232, u'B': 8, u'C': 4, u'D': 2, 'H': 1, u'Z': 1}),
+    'user_info': [...]}
+each user use time: 4.31
+
+
+{   'res_discipline_id': 11824280,
+    'res_edugrade': u'D',
+    'resource_id': u'1374015',
+    'total_num': 262,
+    'user_edutype': Counter({'-1': 192, u'B': 7, u'C': 4, 'H': 1, u'D': 1}),
+    'user_info': [...]}
+each user use time: 5.38
+
+
+{   'res_discipline_id': 11824280,
+    'res_edugrade': u'D',
+    'resource_id': u'1374086',
+    'total_num': 138,
+    'user_edutype': Counter({'-1': 99, u'B': 10, u'C': 3, 'H': 2, u'E': 1, u'D': 1, u'F': 1}),
+    'user_info': [...]}
+each user use time: 2.17
+
+
+{   'res_discipline_id': 11824280,
+    'res_edugrade': u'D',
+    'resource_id': u'1374488',
+    'total_num': 181,
+    'user_edutype': Counter({'-1': 158, u'B': 10, u'C': 3, u'F': 2, 'H': 1, u'Z': 1}),
+    'user_info': [...]}
+each user use time: 1.35
+
+
+{   'res_discipline_id': 11824280,
+    'res_edugrade': u'D',
+    'resource_id': u'1374540',
+    'total_num': 136,
+    'user_edutype': Counter({'-1': 104, u'B': 3, u'C': 2, u'E': 1, u'D': 1, 'H': 1}),
+    'user_info': [...]}
+each user use time: 4.0
+
+
+{   'res_discipline_id': 11824280,
+    'res_edugrade': u'D',
+    'resource_id': u'1374196',
+    'total_num': 100,
+    'user_edutype': Counter({'-1': 85, u'B': 6, 'H': 1, u'C': 1, u'D': 1}),
+    'user_info': [...]}
+each user use time: 1.67
+
+
+{   'res_discipline_id': 11824280,
+    'res_edugrade': u'D',
+    'resource_id': u'1374166',
+    'total_num': 154,
+    'user_edutype': Counter({'-1': 143, u'B': 6, u'C': 1, u'F': 1}),
+    'user_info': [...]}
+each user use time: 1.38
+
+
+{   'res_discipline_id': 11824280,
+    'res_edugrade': u'D',
+    'resource_id': u'1373804',
+    'total_num': 309,
+    'user_edutype': Counter({'-1': 299, u'B': 5, u'E': 2, u'F': 1}),
+    'user_info': [...]}
+each user use time: 1.25
+
+
+{   'res_discipline_id': -1,
+    'res_edugrade': u'B',
+    'resource_id': u'806358',
+    'total_num': 123,
+    'user_edutype': Counter({'-1': 113, u'B': 5, u'C': 2}),
+    'user_info': [...]}
+each user use time: 1.43
+
+
+{   'res_discipline_id': 11824255,
+    'res_edugrade': u'C',
+    'resource_id': u'1610943',
+    'total_num': 106,
+    'user_edutype': Counter({'-1': 101, u'C': 3, u'D': 1}),
+    'user_info': [...]}
+each user use time: 1.25
+
+
+{   'res_discipline_id': 11824255,
+    'res_edugrade': u'B',
+    'resource_id': u'141844',
+    'total_num': 138,
+    'user_edutype': Counter({'-1': 123, u'B': 6, u'C': 1, u'D': 1}),
+    'user_info': [...]}
+each user use time: 1.88
+
+
+{   'res_discipline_id': -1,
+    'res_edugrade': u'B',
+    'resource_id': u'219600',
+    'total_num': 163,
+    'user_edutype': Counter({'-1': 135, u'B': 16, u'C': 4, u'H': 1, u'D': 1}),
+    'user_info': [...]}
+each user use time: 1.27
+
+
+{   'res_discipline_id': -1,
+    'res_edugrade': u'B',
+    'resource_id': u'630882',
+    'total_num': 259,
+    'user_edutype': Counter({'-1': 206, u'B': 21, u'C': 4, u'D': 1}),
+    'user_info': [...]}
+each user use time: 2.04
+
+
+{   'res_discipline_id': 11824255,
+    'res_edugrade': u'B',
+    'resource_id': u'1731102',
+    'total_num': 703,
+    'user_edutype': Counter({'-1': 614, u'B': 52, u'C': 9, u'D': 2, 'H': 2, u'E': 1, u'F': 1}),
+    'user_info': [...]}
+each user use time: 1.33
+
+
+{   'res_discipline_id': 11824255,
+    'res_edugrade': u'B',
+    'resource_id': u'1731117',
+    'total_num': 820,
+    'user_edutype': Counter({'-1': 717, u'B': 59, u'C': 9, u'D': 3, 'H': 2, u'G': 1, u'Z': 1}),
+    'user_info': [...]}
+each user use time: 1.37
+
+
+{   'res_discipline_id': 11824255,
+    'res_edugrade': u'B',
+    'resource_id': u'1731116',
+    'total_num': 611,
+    'user_edutype': Counter({'-1': 542, u'B': 32, u'C': 8, u'D': 3, u'E': 2}),
+    'user_info': [...]}
+each user use time: 1.53
+
+
+{   'res_discipline_id': 11824255,
+    'res_edugrade': u'B',
+    'resource_id': u'1708270',
+    'total_num': 200,
+    'user_edutype': Counter({'-1': 192, u'B': 4, u'D': 1}),
+    'user_info': [...]}
+each user use time: 1.6
+
+
+{   'res_discipline_id': 11824268,
+    'res_edugrade': u'B',
+    'resource_id': u'1685653',
+    'total_num': 205,
+    'user_edutype': Counter({'-1': 151, u'B': 18, u'C': 3, u'D': 1}),
+    'user_info': [...]}
+each user use time: 2.45
+
+
+{   'res_discipline_id': -1,
+    'res_edugrade': u'B',
+    'resource_id': u'1663897',
+    'total_num': 117,
+    'user_edutype': Counter({'-1': 99, u'B': 9, u'C': 6}),
+    'user_info': [...]}
+each user use time: 1.2
+
+
+{   'res_discipline_id': -1,
+    'res_edugrade': u'C',
+    'resource_id': u'665342',
+    'total_num': 189,
+    'user_edutype': Counter({'-1': 172, u'B': 9, u'C': 3, u'D': 1}),
+    'user_info': [...]}
+each user use time: 1.31
+
+
+{   'res_discipline_id': 11824301,
+    'res_edugrade': u'D',
+    'resource_id': u'1603826',
+    'total_num': 101,
+    'user_edutype': Counter({'-1': 99, u'C': 1, u'B': 1}),
+    'user_info': [...]}
+each user use time: 1.0
+
+
+{   'res_discipline_id': 11824268,
+    'res_edugrade': u'B',
+    'resource_id': u'1742530',
+    'total_num': 102,
+    'user_edutype': Counter({'-1': 100, u'D': 1}),
+    'user_info': [...]}
+each user use time: 2.0
+
+
+{   'res_discipline_id': 11824258,
+    'res_edugrade': u'B',
+    'resource_id': u'1669410',
+    'total_num': 184,
+    'user_edutype': Counter({'-1': 120, u'B': 4, u'C': 2, u'D': 2, 'H': 2, u'E': 1, u'F': 1}),
+    'user_info': [...]}
+each user use time: 5.33
+
+
+{   'res_discipline_id': 11824254,
+    'res_edugrade': u'B',
+    'resource_id': u'1631902',
+    'total_num': 108,
+    'user_edutype': Counter({'-1': 100, u'B': 4, u'D': 1}),
+    'user_info': [...]}
+each user use time: 1.6
+
+
+{   'res_discipline_id': 11824259,
+    'res_edugrade': u'B',
+    'resource_id': u'1610594',
+    'total_num': 162,
+    'user_edutype': Counter({'-1': 155, u'B': 2, u'D': 1}),
+    'user_info': [...]}
+each user use time: 2.33
+
+
+{   'res_discipline_id': -1,
+    'res_edugrade': u'C',
+    'resource_id': u'633285',
+    'total_num': 121,
+    'user_edutype': Counter({'-1': 112, u'B': 4, u'D': 1, u'F': 1}),
+    'user_info': [...]}
+each user use time: 1.5
+
+
+{   'res_discipline_id': 11824262,
+    'res_edugrade': u'B',
+    'resource_id': u'1664184',
+    'total_num': 211,
+    'user_edutype': Counter({'-1': 190, u'B': 11, u'D': 1, u'F': 1}),
+    'user_info': [...]}
+each user use time: 1.62
+
+
+{   'res_discipline_id': 11824291,
+    'res_edugrade': u'D',
+    'resource_id': u'1606360',
+    'total_num': 117,
+    'user_edutype': Counter({'-1': 108, u'B': 4, u'C': 1, u'D': 1}),
+    'user_info': [...]}
+each user use time: 1.5
+
+
+{   'res_discipline_id': 11824255,
+    'res_edugrade': u'B',
+    'resource_id': u'1689574',
+    'total_num': 103,
+    'user_edutype': Counter({'-1': 97, u'B': 3, u'D': 1}),
+    'user_info': [...]}
+each user use time: 1.5
+
+
+{   'res_discipline_id': 11824262,
+    'res_edugrade': u'B',
+    'resource_id': u'1689538',
+    'total_num': 139,
+    'user_edutype': Counter({'-1': 117, u'B': 11, u'C': 1}),
+    'user_info': [...]}
+each user use time: 1.83
+
+
+{   'res_discipline_id': -1,
+    'res_edugrade': u'B',
+    'resource_id': u'1687407',
+    'total_num': 270,
+    'user_edutype': Counter({'-1': 266, u'B': 2}),
+    'user_info': [...]}
+each user use time: 2.0
+
+
+{   'res_discipline_id': -1,
+    'res_edugrade': u'B',
+    'resource_id': u'590824',
+    'total_num': 121,
+    'user_edutype': Counter({'-1': 112, u'C': 2, u'B': 1, u'D': 1}),
+    'user_info': [...]}
+each user use time: 2.25
+
+
+{   'res_discipline_id': 11824280,
+    'res_edugrade': u'E',
+    'resource_id': u'1733003',
+    'total_num': 138,
+    'user_edutype': Counter({'-1': 134, u'C': 1, u'D': 1}),
+    'user_info': [...]}
+each user use time: 2.0
+
+
+{   'res_discipline_id': 11824308,
+    'res_edugrade': u'E',
+    'resource_id': u'1733006',
+    'total_num': 164,
+    'user_edutype': Counter({'-1': 135, u'B': 12, u'C': 1, u'D': 1, u'F': 1, u'H': 1, u'Z': 1}),
+    'user_info': [...]}
+each user use time: 1.71
+
+
+{   'res_discipline_id': 11824280,
+    'res_edugrade': u'D',
+    'resource_id': u'1733005',
+    'total_num': 423,
+    'user_edutype': Counter({'-1': 337, u'B': 30, u'C': 9, u'D': 3, u'E': 1, u'G': 1, 'H': 1}),
+    'user_info': [...]}
+each user use time: 1.91
+
+
+{   'res_discipline_id': 11824280,
+    'res_edugrade': u'D',
+    'resource_id': u'1373601',
+    'total_num': 228,
+    'user_edutype': Counter({'-1': 214, u'C': 2, u'B': 2, u'F': 2, u'D': 1, u'Z': 1}),
+    'user_info': [...]}
+each user use time: 1.75
+
+
+{   'res_discipline_id': 11824247,
+    'res_edugrade': u'B',
+    'resource_id': u'1696414',
+    'total_num': 444,
+    'user_edutype': Counter({'-1': 335, u'B': 36, u'C': 7, 'H': 3, u'D': 2, u'A': 1, u'F': 1}),
+    'user_info': [...]}
+each user use time: 2.18
+
+
+{   'res_discipline_id': 11824261,
+    'res_edugrade': u'B',
+    'resource_id': u'1696404',
+    'total_num': 329,
+    'user_edutype': Counter({'-1': 227, u'B': 18, u'C': 10, u'D': 2, 'H': 2, u'F': 1, u'Z': 1}),
+    'user_info': [...]}
+each user use time: 3.0
+
+
+{   'res_discipline_id': 11824261,
+    'res_edugrade': u'B',
+    'resource_id': u'1696394',
+    'total_num': 738,
+    'user_edutype': Counter({'-1': 534, u'B': 67, u'C': 11, u'E': 2, 'H': 2, u'A': 1, u'D': 1, u'F': 1}),
+    'user_info': [...]}
+each user use time: 2.4
+
+
+{   'res_discipline_id': 11824261,
+    'res_edugrade': u'B',
+    'resource_id': u'1696399',
+    'total_num': 623,
+    'user_edutype': Counter({'-1': 488, u'B': 52, u'C': 5, u'F': 2, 'H': 2, u'D': 1, u'G': 1, u'Z': 1}),
+    'user_info': [...]}
+each user use time: 2.11
+
+
+{   'res_discipline_id': 11824261,
+    'res_edugrade': u'B',
+    'resource_id': u'1696367',
+    'total_num': 182,
+    'user_edutype': Counter({'-1': 143, u'B': 11, u'C': 3, 'H': 2, u'E': 1}),
+    'user_info': [...]}
+each user use time: 2.29
+
+
+{   'res_discipline_id': 11824261,
+    'res_edugrade': u'A',
+    'resource_id': u'1696458',
+    'total_num': 163,
+    'user_edutype': Counter({'-1': 128, u'B': 10, u'C': 3, u'E': 1, u'D': 1, u'H': 1, u'Z': 1}),
+    'user_info': [...]}
+each user use time: 2.06
+
+
+{   'res_discipline_id': 11824249,
+    'res_edugrade': u'A',
+    'resource_id': u'1696446',
+    'total_num': 467,
+    'user_edutype': Counter({'-1': 367, u'B': 39, u'C': 4, u'D': 1, u'F': 1, 'H': 1}),
+    'user_info': [...]}
+each user use time: 2.17
+
+
+{   'res_discipline_id': 11824261,
+    'res_edugrade': u'A',
+    'resource_id': u'1696461',
+    'total_num': 242,
+    'user_edutype': Counter({'-1': 197, u'B': 22, u'C': 2, u'A': 1, u'E': 1, 'H': 1, u'Z': 1}),
+    'user_info': [...]}
+each user use time: 1.61
+
+
+{   'res_discipline_id': 11824261,
+    'res_edugrade': u'A',
+    'resource_id': u'1696448',
+    'total_num': 649,
+    'user_edutype': Counter({'-1': 433, u'B': 88, u'C': 10, 'H': 3, u'D': 1, u'F': 1, u'Z': 1}),
+    'user_info': [...]}
+each user use time: 2.08
+
+
+{   'res_discipline_id': 11824261,
+    'res_edugrade': u'A',
+    'resource_id': u'1696465',
+    'total_num': 135,
+    'user_edutype': Counter({'-1': 119, u'B': 9, u'H': 1, u'C': 1, u'Z': 1}),
+    'user_info': [...]}
+each user use time: 1.33
+
+
+{   'res_discipline_id': 11824249,
+    'res_edugrade': u'A',
+    'resource_id': u'1696450',
+    'total_num': 114,
+    'user_edutype': Counter({'-1': 92, u'B': 6, u'C': 4, u'F': 1}),
+    'user_info': [...]}
+each user use time: 2.0
+
+
+{   'res_discipline_id': 11824261,
+    'res_edugrade': u'A',
+    'resource_id': u'1696459',
+    'total_num': 265,
+    'user_edutype': Counter({'-1': 204, u'B': 15, u'C': 5, 'H': 3, u'D': 1}),
+    'user_info': [...]}
+each user use time: 2.54
+
+
+{   'res_discipline_id': 11824261,
+    'res_edugrade': u'A',
+    'resource_id': u'1696455',
+    'total_num': 517,
+    'user_edutype': Counter({'-1': 334, u'B': 53, u'C': 7, u'G': 2, u'H': 2, u'Z': 2, u'D': 1, u'F': 1}),
+    'user_info': [...]}
+each user use time: 2.69
+
+
+{   'res_discipline_id': 11824261,
+    'res_edugrade': u'B',
+    'resource_id': u'1696470',
+    'total_num': 222,
+    'user_edutype': Counter({'-1': 146, u'B': 14, u'C': 7, u'D': 2, u'Z': 1}),
+    'user_info': [...]}
+each user use time: 3.17
+
+
+{   'res_discipline_id': 11824261,
+    'res_edugrade': u'A',
+    'resource_id': u'1696452',
+    'total_num': 157,
+    'user_edutype': Counter({'-1': 117, u'B': 16, u'C': 3, u'H': 1}),
+    'user_info': [...]}
+each user use time: 2.0
+
+
+{   'res_discipline_id': 11824261,
+    'res_edugrade': u'A',
+    'resource_id': u'1696449',
+    'total_num': 110,
+    'user_edutype': Counter({'-1': 96, u'B': 5, u'C': 1, u'E': 1, u'D': 1}),
+    'user_info': [...]}
+each user use time: 1.75
+
+
+{   'res_discipline_id': 11824261,
+    'res_edugrade': u'B',
+    'resource_id': u'1696472',
+    'total_num': 152,
+    'user_edutype': Counter({'-1': 105, u'B': 12, u'C': 2, u'D': 1, u'F': 1, 'H': 1, u'Z': 1}),
+    'user_info': [...]}
+each user use time: 2.61
+
+
+{   'res_discipline_id': 11824246,
+    'res_edugrade': u'A',
+    'resource_id': u'1696474',
+    'total_num': 291,
+    'user_edutype': Counter({'-1': 210, u'B': 26, u'C': 8, 'H': 2, u'Z': 2, u'D': 1}),
+    'user_info': [...]}
+each user use time: 2.08
+
+
+{   'res_discipline_id': 11824261,
+    'res_edugrade': u'A',
+    'resource_id': u'1696453',
+    'total_num': 121,
+    'user_edutype': Counter({'-1': 93, u'B': 9, 'H': 1}),
+    'user_info': [...]}
+each user use time: 2.8
+
+
+{   'res_discipline_id': 11824248,
+    'res_edugrade': u'A',
+    'resource_id': u'1725478',
+    'total_num': 154,
+    'user_edutype': Counter({'-1': 124, u'B': 13, u'C': 3, 'H': 1}),
+    'user_info': [...]}
+each user use time: 1.76
+
+
+{   'res_discipline_id': 11824255,
+    'res_edugrade': u'B',
+    'resource_id': u'1719589',
+    'total_num': 193,
+    'user_edutype': Counter({'-1': 169, u'B': 10, u'Z': 1, u'D': 1}),
+    'user_info': [...]}
+each user use time: 2.0
+
+
+{   'res_discipline_id': 11824261,
+    'res_edugrade': u'B',
+    'resource_id': u'1709473',
+    'total_num': 287,
+    'user_edutype': Counter({'-1': 199, u'B': 29, u'C': 5, u'D': 3, u'F': 2, u'Z': 2, 'H': 1}),
+    'user_info': [...]}
+each user use time: 2.1
+
+
+{   'res_discipline_id': 11824261,
+    'res_edugrade': u'B',
+    'resource_id': u'1725465',
+    'total_num': 493,
+    'user_edutype': Counter({'-1': 324, u'B': 83, u'C': 5, u'E': 1}),
+    'user_info': [...]}
+each user use time: 1.9
+
+
+{   'res_discipline_id': 11824246,
+    'res_edugrade': u'A',
+    'resource_id': u'1725479',
+    'total_num': 666,
+    'user_edutype': Counter({'-1': 431, u'B': 112, u'C': 3}),
+    'user_info': [...]}
+each user use time: 2.04
+
+
+{   'res_discipline_id': 11824261,
+    'res_edugrade': u'C',
+    'resource_id': u'1732959',
+    'total_num': 126,
+    'user_edutype': Counter({'-1': 86, u'C': 27, u'B': 2}),
+    'user_info': [...]}
+each user use time: 1.38
+
+
+{   'res_discipline_id': 11824247,
+    'res_edugrade': u'B',
+    'resource_id': u'1732968',
+    'total_num': 243,
+    'user_edutype': Counter({'-1': 170, u'C': 26, u'B': 25}),
+    'user_info': [...]}
+each user use time: 1.43
+
+
+{   'res_discipline_id': 11824245,
+    'res_edugrade': u'Z',
+    'resource_id': u'1732062',
+    'total_num': 210,
+    'user_edutype': Counter({'-1': 177, u'B': 16, u'C': 1, u'Z': 1, u'D': 1}),
+    'user_info': [...]}
+each user use time: 1.74
+
+
+{   'res_discipline_id': 11824262,
+    'res_edugrade': u'Z',
+    'resource_id': u'1732063',
+    'total_num': 494,
+    'user_edutype': Counter({'-1': 413, u'B': 33, u'C': 8, u'Z': 2, u'D': 1}),
+    'user_info': [...]}
+each user use time: 1.84
+
+
+{   'res_discipline_id': 11824249,
+    'res_edugrade': u'B',
+    'resource_id': u'1741072',
+    'total_num': 278,
+    'user_edutype': Counter({'-1': 220, u'B': 28, u'C': 8, u'D': 1}),
+    'user_info': [...]}
+each user use time: 1.57
+
+
+{   'res_discipline_id': 11824248,
+    'res_edugrade': u'A',
+    'resource_id': u'1741068',
+    'total_num': 456,
+    'user_edutype': Counter({'-1': 329, u'B': 78, u'C': 3, u'H': 1}),
+    'user_info': [...]}
+each user use time: 1.55
+
+
+{   'res_discipline_id': 11824261,
+    'res_edugrade': u'A',
+    'resource_id': u'1741071',
+    'total_num': 549,
+    'user_edutype': Counter({'-1': 438, u'B': 63, u'C': 7, u'D': 1, u'F': 1, 'H': 1}),
+    'user_info': [...]}
+each user use time: 1.52
+
+
+{   'res_discipline_id': 11824261,
+    'res_edugrade': u'B',
+    'resource_id': u'1709517',
+    'total_num': 308,
+    'user_edutype': Counter({'-1': 256, u'B': 26, u'C': 4, u'D': 2, u'H': 1}),
+    'user_info': [...]}
+each user use time: 1.58
+
+
+{   'res_discipline_id': 11824268,
+    'res_edugrade': u'B',
+    'resource_id': u'1732926',
+    'total_num': 135,
+    'user_edutype': Counter({'-1': 71, u'C': 24, u'B': 12, u'D': 2, u'F': 1}),
+    'user_info': [...]}
+each user use time: 1.64
+
+
+{   'res_discipline_id': 11824261,
+    'res_edugrade': u'B',
+    'resource_id': u'1732929',
+    'total_num': 142,
+    'user_edutype': Counter({'-1': 91, u'C': 25, u'B': 12, u'F': 1}),
+    'user_info': [...]}
+each user use time: 1.34
+
+
+{   'res_discipline_id': 11824246,
+    'res_edugrade': u'Z',
+    'resource_id': u'1732252',
+    'total_num': 125,
+    'user_edutype': Counter({'-1': 109, u'B': 8, u'E': 1, u'D': 1}),
+    'user_info': [...]}
+each user use time: 1.6
+
+
+{   'res_discipline_id': 11824249,
+    'res_edugrade': u'A',
+    'resource_id': u'1696450',
+    'total_num': 114,
+    'user_edutype': Counter({'-1': 92, u'B': 6, u'C': 4, u'F': 1}),
+    'user_info': [...]}
+each user use time: 2.0
+
+
+{   'res_discipline_id': 11824261,
+    'res_edugrade': u'B',
+    'resource_id': u'1696401',
+    'total_num': 317,
+    'user_edutype': Counter({'-1': 232, u'B': 24, u'C': 9, u'D': 1, u'H': 1, u'Z': 1}),
+    'user_info': [...]}
+each user use time: 2.36
+
+
+{   'res_discipline_id': 11824252,
+    'res_edugrade': u'A',
+    'resource_id': u'1741087',
+    'total_num': 111,
+    'user_edutype': Counter({'-1': 105, u'B': 4, u'C': 1}),
+    'user_info': [...]}
+each user use time: 1.2
+
+
+{   'res_discipline_id': 11824261,
+    'res_edugrade': u'A',
+    'resource_id': u'1742832',
+    'total_num': 368,
+    'user_edutype': Counter({'-1': 356, u'B': 10}),
+    'user_info': [...]}
+each user use time: 1.2
+
+
+{   'res_discipline_id': 11824261,
+    'res_edugrade': u'B',
+    'resource_id': u'1742834',
+    'total_num': 196,
+    'user_edutype': Counter({'-1': 191, u'B': 2, u'C': 1, u'F': 1}),
+    'user_info': [...]}
+each user use time: 1.25
+
+
+{   'res_discipline_id': 11824261,
+    'res_edugrade': u'B',
+    'resource_id': u'1742770',
+    'total_num': 186,
+    'user_edutype': Counter({'-1': 186}),
+    'user_info': [...]}
+
+
+{   'res_discipline_id': 11824262,
+    'res_edugrade': u'Z',
+    'resource_id': u'1732282',
+    'total_num': 115,
+    'user_edutype': Counter({'-1': 107, u'B': 3, u'C': 1}),
+    'user_info': [...]}
+each user use time: 2.0
+
+
+{   'res_discipline_id': 11824262,
+    'res_edugrade': u'Z',
+    'resource_id': u'1732262',
+    'total_num': 114,
+    'user_edutype': Counter({'-1': 99, u'B': 5, u'C': 1}),
+    'user_info': [...]}
+each user use time: 2.5
+
+
+{   'res_discipline_id': 11824245,
+    'res_edugrade': u'Z',
+    'resource_id': u'1742892',
+    'total_num': 130,
+    'user_edutype': Counter({'-1': 127, u'B': 2}),
+    'user_info': [...]}
+each user use time: 1.5
+
+
+{   'res_discipline_id': 11824248,
+    'res_edugrade': u'B',
+    'resource_id': u'1685711',
+    'total_num': 171,
+    'user_edutype': Counter({'-1': 140, u'C': 10, u'B': 2, u'F': 2, u'D': 1, u'Z': 1}),
+    'user_info': [...]}
+each user use time: 1.94
+
+
+{   'res_discipline_id': 11824246,
+    'res_edugrade': u'C',
+    'resource_id': u'1627470',
+    'total_num': 115,
+    'user_edutype': Counter({'-1': 97, u'C': 6, u'Z': 1, u'D': 1, u'B': 1}),
+    'user_info': [...]}
+each user use time: 2.0
+
+
+{   'res_discipline_id': 11824255,
+    'res_edugrade': u'C',
+    'resource_id': u'1670572',
+    'total_num': 896,
+    'user_edutype': Counter({'-1': 679, u'B': 44, u'C': 20, u'F': 3, 'H': 3, u'E': 1, u'D': 1, u'Z': 1}),
+    'user_info': [...]}
+each user use time: 2.97
+
+
+{   'res_discipline_id': -1,
+    'res_edugrade': u'C',
+    'resource_id': u'632734',
+    'total_num': 166,
+    'user_edutype': Counter({'-1': 122, u'C': 20, 'H': 1, u'B': 1, u'D': 1}),
+    'user_info': [...]}
+each user use time: 1.91
+
+
+{   'res_discipline_id': 11824252,
+    'res_edugrade': u'C',
+    'resource_id': u'1594724',
+    'total_num': 183,
+    'user_edutype': Counter({'-1': 165, u'C': 7, u'B': 1}),
+    'user_info': [...]}
+each user use time: 2.25
+
+
+{   'res_discipline_id': 11824255,
+    'res_edugrade': u'C',
+    'resource_id': u'1667171',
+    'total_num': 271,
+    'user_edutype': Counter({'-1': 260, u'C': 4, 'H': 1, u'D': 1}),
+    'user_info': [...]}
+each user use time: 1.83
+
+
+{   'res_discipline_id': 11824261,
+    'res_edugrade': u'C',
+    'resource_id': u'1620548',
+    'total_num': 106,
+    'user_edutype': Counter({'-1': 100, u'C': 2, u'D': 1}),
+    'user_info': [...]}
+each user use time: 2.0
+
+
+{   'res_discipline_id': 11824262,
+    'res_edugrade': u'B',
+    'resource_id': u'1731118',
+    'total_num': 270,
+    'user_edutype': Counter({'-1': 174, u'C': 49, u'D': 2, u'B': 1}),
+    'user_info': [...]}
+each user use time: 1.85
+
+
+{   'res_discipline_id': 11824262,
+    'res_edugrade': u'B',
+    'resource_id': u'1731120',
+    'total_num': 387,
+    'user_edutype': Counter({'-1': 302, u'C': 33, u'B': 14, u'E': 1, u'D': 1, u'F': 1}),
+    'user_info': [...]}
+each user use time: 1.7
+
+
+{   'res_discipline_id': 11824246,
+    'res_edugrade': u'C',
+    'resource_id': u'1696600',
+    'total_num': 111,
+    'user_edutype': Counter({'-1': 95, u'C': 7, u'D': 1}),
+    'user_info': [...]}
+each user use time: 2.0
+
+
+{   'res_discipline_id': 11824255,
+    'res_edugrade': u'C',
+    'resource_id': u'1632141',
+    'total_num': 265,
+    'user_edutype': Counter({'-1': 217, u'C': 25, u'B': 2, u'E': 1, u'D': 1}),
+    'user_info': [...]}
+each user use time: 1.66
+
+
+{   'res_discipline_id': 11824255,
+    'res_edugrade': u'C',
+    'resource_id': u'1664028',
+    'total_num': 174,
+    'user_edutype': Counter({'-1': 132, u'C': 23}),
+    'user_info': [...]}
+each user use time: 1.83
+
+
+{   'res_discipline_id': 11824254,
+    'res_edugrade': u'C',
+    'resource_id': u'1689210',
+    'total_num': 220,
+    'user_edutype': Counter({'-1': 172, u'C': 23}),
+    'user_info': [...]}
+each user use time: 2.09
+
+
+{   'res_discipline_id': 11824254,
+    'res_edugrade': u'C',
+    'resource_id': u'1687858',
+    'total_num': 155,
+    'user_edutype': Counter({'-1': 125, u'C': 18}),
+    'user_info': [...]}
+each user use time: 1.67
+
+
+{   'res_discipline_id': -1,
+    'res_edugrade': u'C',
+    'resource_id': u'632734',
+    'total_num': 166,
+    'user_edutype': Counter({'-1': 122, u'C': 20, 'H': 1, u'B': 1, u'D': 1}),
+    'user_info': [...]}
+each user use time: 1.91
+
+
+{   'res_discipline_id': 11824245,
+    'res_edugrade': u'C',
+    'resource_id': u'1630536',
+    'total_num': 163,
+    'user_edutype': Counter({'-1': 128, u'C': 15, u'B': 1}),
+    'user_info': [...]}
+each user use time: 2.19
+
+
+{   'res_discipline_id': 11824245,
+    'res_edugrade': u'C',
+    'resource_id': u'1690425',
+    'total_num': 276,
+    'user_edutype': Counter({'-1': 208, u'C': 31, u'D': 1}),
+    'user_info': [...]}
+each user use time: 2.13
+
+
+{   'res_discipline_id': 11824268,
+    'res_edugrade': u'B',
+    'resource_id': u'1682910',
+    'total_num': 128,
+    'user_edutype': Counter({'-1': 104, u'C': 9, u'B': 1}),
+    'user_info': [...]}
+each user use time: 2.4
+
+
+{   'res_discipline_id': 11824254,
+    'res_edugrade': u'C',
+    'resource_id': u'1647107',
+    'total_num': 106,
+    'user_edutype': Counter({'-1': 103, u'C': 2}),
+    'user_info': [...]}
+each user use time: 1.5
+
+
+{   'res_discipline_id': 11824252,
+    'res_edugrade': u'C',
+    'resource_id': u'1663440',
+    'total_num': 179,
+    'user_edutype': Counter({'-1': 171, u'C': 3}),
+    'user_info': [...]}
+each user use time: 2.67
+
+
+{   'res_discipline_id': -1,
+    'res_edugrade': u'C',
+    'resource_id': u'1662039',
+    'total_num': 1005,
+    'user_edutype': Counter({'-1': 868, u'B': 70, u'C': 13, u'H': 1, u'D': 1}),
+    'user_info': [...]}
+each user use time: 1.61
+
+
+{   'res_discipline_id': 11824252,
+    'res_edugrade': u'C',
+    'resource_id': u'1666786',
+    'total_num': 186,
+    'user_edutype': Counter({'-1': 177, u'B': 3, u'C': 1}),
+    'user_info': [...]}
+each user use time: 2.25
+
+
+{   'res_discipline_id': 11824255,
+    'res_edugrade': u'C',
+    'resource_id': u'1631453',
+    'total_num': 208,
+    'user_edutype': Counter({'-1': 199, u'C': 4, 'H': 1}),
+    'user_info': [...]}
+each user use time: 1.8
+
+
+{   'res_discipline_id': 11824255,
+    'res_edugrade': u'C',
+    'resource_id': u'1667171',
+    'total_num': 271,
+    'user_edutype': Counter({'-1': 260, u'C': 4, 'H': 1, u'D': 1}),
+    'user_info': [...]}
+each user use time: 1.83
+
+
+{   'res_discipline_id': 11824254,
+    'res_edugrade': u'C',
+    'resource_id': u'1623426',
+    'total_num': 103,
+    'user_edutype': Counter({'-1': 95, u'C': 5}),
+    'user_info': [...]}
+each user use time: 1.6
+
+
+{   'res_discipline_id': 11824245,
+    'res_edugrade': u'C',
+    'resource_id': u'1594676',
+    'total_num': 161,
+    'user_edutype': Counter({'-1': 159, u'C': 1}),
+    'user_info': [...]}
+each user use time: 2.0
+
+
+{   'res_discipline_id': 11824252,
+    'res_edugrade': u'C',
+    'resource_id': u'1663440',
+    'total_num': 179,
+    'user_edutype': Counter({'-1': 171, u'C': 3}),
+    'user_info': [...]}
+each user use time: 2.67
+
+
+{   'res_discipline_id': 11824252,
+    'res_edugrade': u'C',
+    'resource_id': u'1594729',
+    'total_num': 117,
+    'user_edutype': Counter({'-1': 114, u'B': 1}),
+    'user_info': [...]}
+each user use time: 3.0
+
+
+{   'res_discipline_id': 11824255,
+    'res_edugrade': u'B',
+    'resource_id': u'1696038',
+    'total_num': 113,
+    'user_edutype': Counter({'-1': 101, u'B': 8, u'C': 1, u'E': 1, u'F': 1}),
+    'user_info': [...]}
+each user use time: 1.09
+
+
+{   'res_discipline_id': 11824253,
+    'res_edugrade': u'B',
+    'resource_id': u'1696290',
+    'total_num': 112,
+    'user_edutype': Counter({'-1': 101, u'B': 7, u'C': 3, u'Z': 1}),
+    'user_info': [...]}
+each user use time: 1.0
+
+
+{   'res_discipline_id': 11824254,
+    'res_edugrade': u'B',
+    'resource_id': u'1696253',
+    'total_num': 116,
+    'user_edutype': Counter({'-1': 106, u'C': 3, u'B': 3, u'Z': 1, u'D': 1}),
+    'user_info': [...]}
+each user use time: 1.25
+
+
+{   'res_discipline_id': 11824255,
+    'res_edugrade': u'B',
+    'resource_id': u'1696352',
+    'total_num': 216,
+    'user_edutype': Counter({'-1': 197, u'B': 11, u'C': 2, u'E': 1, u'D': 1, u'F': 1}),
+    'user_info': [...]}
+each user use time: 1.19
+
+
+{   'res_discipline_id': 11824255,
+    'res_edugrade': u'C',
+    'resource_id': u'1696374',
+    'total_num': 630,
+    'user_edutype': Counter({'-1': 536, u'B': 54, u'C': 17, u'D': 2, u'F': 1}),
+    'user_info': [...]}
+each user use time: 1.27
+
+
+{   'res_discipline_id': 11824255,
+    'res_edugrade': u'B',
+    'resource_id': u'1696353',
+    'total_num': 149,
+    'user_edutype': Counter({'-1': 129, u'B': 8, u'C': 3, u'D': 2, u'F': 2, 'H': 1}),
+    'user_info': [...]}
+each user use time: 1.25
+
+
+{   'res_discipline_id': 11824245,
+    'res_edugrade': u'B',
+    'resource_id': u'1696166',
+    'total_num': 102,
+    'user_edutype': Counter({'-1': 93, u'B': 7, u'C': 2}),
+    'user_info': [...]}
+each user use time: 1.0
+
+
+{   'res_discipline_id': 11824255,
+    'res_edugrade': u'B',
+    'resource_id': u'1696018',
+    'total_num': 117,
+    'user_edutype': Counter({'-1': 103, u'B': 12, u'C': 1}),
+    'user_info': [...]}
+each user use time: 1.08
+
+
+{   'res_discipline_id': 11824245,
+    'res_edugrade': u'B',
+    'resource_id': u'1696054',
+    'total_num': 151,
+    'user_edutype': Counter({'-1': 134, u'B': 13, 'H': 1, u'C': 1}),
+    'user_info': [...]}
+each user use time: 1.13
+
+
+{   'res_discipline_id': 11824253,
+    'res_edugrade': u'B',
+    'resource_id': u'1696082',
+    'total_num': 111,
+    'user_edutype': Counter({'-1': 106, u'B': 3, u'D': 1}),
+    'user_info': [...]}
+each user use time: 1.25
+
+
+{   'res_discipline_id': 11824253,
+    'res_edugrade': u'B',
+    'resource_id': u'1696096',
+    'total_num': 365,
+    'user_edutype': Counter({'-1': 330, u'B': 16, u'C': 5, u'D': 1, u'F': 1}),
+    'user_info': [...]}
+each user use time: 1.52
+
+
+{   'res_discipline_id': 11824255,
+    'res_edugrade': u'B',
+    'resource_id': u'1696153',
+    'total_num': 123,
+    'user_edutype': Counter({'-1': 111, u'B': 8, u'C': 1, u'D': 1}),
+    'user_info': [...]}
+each user use time: 1.2
+
+
+{   'res_discipline_id': 11824245,
+    'res_edugrade': u'B',
+    'resource_id': u'1741004',
+    'total_num': 600,
+    'user_edutype': Counter({'-1': 449, u'B': 90, u'C': 9, u'D': 4, u'F': 1}),
+    'user_info': [...]}
+each user use time: 1.45
+
+
+{   'res_discipline_id': 11824245,
+    'res_edugrade': u'B',
+    'resource_id': u'1696083',
+    'total_num': 119,
+    'user_edutype': Counter({'-1': 112, u'B': 4, u'C': 1, u'D': 1, u'F': 1}),
+    'user_info': [...]}
+each user use time: 1.0
+
+
+{   'res_discipline_id': 11824245,
+    'res_edugrade': u'B',
+    'resource_id': u'1696100',
+    'total_num': 136,
+    'user_edutype': Counter({'-1': 126, u'B': 5, u'C': 4}),
+    'user_info': [...]}
+each user use time: 1.11
+
+
+{   'res_discipline_id': 11824254,
+    'res_edugrade': u'B',
+    'resource_id': u'1741000',
+    'total_num': 227,
+    'user_edutype': Counter({'-1': 190, u'B': 15, u'C': 12, u'D': 2, u'E': 1, u'F': 1}),
+    'user_info': [...]}
+each user use time: 1.19
+
+
+{   'res_discipline_id': 11824262,
+    'res_edugrade': u'B',
+    'resource_id': u'1696056',
+    'total_num': 126,
+    'user_edutype': Counter({'-1': 117, u'B': 5, u'C': 3, u'D': 1}),
+    'user_info': [...]}
+each user use time: 1.0
+
+
+{   'res_discipline_id': 11824262,
+    'res_edugrade': u'B',
+    'resource_id': u'1696036',
+    'total_num': 101,
+    'user_edutype': Counter({'-1': 92, u'C': 4, u'B': 4}),
+    'user_info': [...]}
+each user use time: 1.13
+
+
+{   'res_discipline_id': 11824245,
+    'res_edugrade': u'B',
+    'resource_id': u'1696083',
+    'total_num': 119,
+    'user_edutype': Counter({'-1': 112, u'B': 4, u'C': 1, u'D': 1, u'F': 1}),
+    'user_info': [...]}
+each user use time: 1.0
+
+
+{   'res_discipline_id': 11824245,
+    'res_edugrade': u'B',
+    'resource_id': u'1696100',
+    'total_num': 136,
+    'user_edutype': Counter({'-1': 126, u'B': 5, u'C': 4}),
+    'user_info': [...]}
+each user use time: 1.11
+
+
+{   'res_discipline_id': 11824262,
+    'res_edugrade': u'B',
+    'resource_id': u'1696061',
+    'total_num': 112,
+    'user_edutype': Counter({'-1': 100, u'B': 7, u'C': 2, u'E': 1}),
+    'user_info': [...]}
+each user use time: 1.2
+
+
+{   'res_discipline_id': 11824255,
+    'res_edugrade': u'B',
+    'resource_id': u'1696352',
+    'total_num': 216,
+    'user_edutype': Counter({'-1': 197, u'B': 11, u'C': 2, u'E': 1, u'D': 1, u'F': 1}),
+    'user_info': [...]}
+each user use time: 1.19
+
+
+{   'res_discipline_id': 11824260,
+    'res_edugrade': u'B',
+    'resource_id': u'1742817',
+    'total_num': 151,
+    'user_edutype': Counter({'-1': 118, u'C': 3, u'B': 3, u'D': 1, u'H': 1, u'Z': 1}),
+    'user_info': [...]}
+each user use time: 3.67
+
+
+{   'res_discipline_id': 11824244,
+    'res_edugrade': u'A',
+    'resource_id': u'1742818',
+    'total_num': 184,
+    'user_edutype': Counter({'-1': 163, u'C': 5, u'B': 5, u'F': 2, u'E': 1, u'D': 1, u'H': 1}),
+    'user_info': [...]}
+each user use time: 1.4
+
+
+{   'res_discipline_id': 11824260,
+    'res_edugrade': u'B',
+    'resource_id': u'1742819',
+    'total_num': 103,
+    'user_edutype': Counter({'-1': 91, u'B': 4, u'C': 3, u'E': 1, u'D': 1, u'F': 1}),
+    'user_info': [...]}
+each user use time: 1.2
+
+
+{   'res_discipline_id': 11824260,
+    'res_edugrade': u'B',
+    'resource_id': u'1742824',
+    'total_num': 119,
+    'user_edutype': Counter({'-1': 102, u'B': 5, u'C': 2, u'D': 2, u'E': 1, u'Z': 1}),
+    'user_info': [...]}
+each user use time: 1.55
+
+
+{   'res_discipline_id': 11824260,
+    'res_edugrade': u'E',
+    'resource_id': u'1742611',
+    'total_num': 173,
+    'user_edutype': Counter({'-1': 156, u'C': 1, u'E': 1, u'D': 1, u'F': 1}),
+    'user_info': [...]}
+each user use time: 4.25
+
+
+{   'res_discipline_id': 11824244,
+    'res_edugrade': u'B',
+    'resource_id': u'1742217',
+    'total_num': 124,
+    'user_edutype': Counter({'-1': 112, u'B': 10, u'C': 2}),
+    'user_info': [...]}
+each user use time: 1.0
+
+
+{   'res_discipline_id': 11824244,
+    'res_edugrade': u'B',
+    'resource_id': u'1742216',
+    'total_num': 108,
+    'user_edutype': Counter({'-1': 96, u'B': 5, u'C': 2, u'D': 1}),
+    'user_info': [...]}
+each user use time: 1.5
+
+
+{   'res_discipline_id': 11824246,
+    'res_edugrade': u'B',
+    'resource_id': u'9073',
+    'total_num': 124,
+    'user_edutype': Counter({'-1': 99, u'B': 7, u'C': 3, u'A': 1, u'D': 1, 'H': 1}),
+    'user_info': [...]}
+each user use time: 1.92
+
+
+{   'res_discipline_id': 11824247,
+    'res_edugrade': u'B',
+    'resource_id': u'520735',
+    'total_num': 238,
+    'user_edutype': Counter({'-1': 191, u'B': 17, u'C': 3, u'D': 1}),
+    'user_info': [...]}
+each user use time: 2.24
+
+
+{   'res_discipline_id': -1,
+    'res_edugrade': u'B',
+    'resource_id': u'504806',
+    'total_num': 150,
+    'user_edutype': Counter({'-1': 142, u'B': 3}),
+    'user_info': [...]}
+each user use time: 2.67
+
+
+{   'res_discipline_id': -1,
+    'res_edugrade': u'B',
+    'resource_id': u'669342',
+    'total_num': 119,
+    'user_edutype': Counter({'-1': 92, u'B': 9, u'D': 1}),
+    'user_info': [...]}
+each user use time: 2.7
+
+
+{   'res_discipline_id': 11824255,
+    'res_edugrade': u'B',
+    'resource_id': u'1677356',
+    'total_num': 1857,
+    'user_edutype': Counter({'-1': 1524, u'B': 102, u'C': 13, u'D': 3, u'Z': 3, u'F': 2, u'H': 1}),
+    'user_info': [...]}
+each user use time: 2.69
+
+
+{   'res_discipline_id': 11824253,
+    'res_edugrade': u'B',
+    'resource_id': u'1621077',
+    'total_num': 267,
+    'user_edutype': Counter({'-1': 196, u'B': 32, u'C': 2, u'D': 1}),
+    'user_info': [...]}
+each user use time: 2.03
+
+
+{   'res_discipline_id': 11824244,
+    'res_edugrade': u'B',
+    'resource_id': u'1620360',
+    'total_num': 258,
+    'user_edutype': Counter({'-1': 183, u'B': 35, u'C': 1, u'E': 1, u'D': 1}),
+    'user_info': [...]}
+each user use time: 1.97
+
+
+{   'res_discipline_id': 11824253,
+    'res_edugrade': u'B',
+    'resource_id': u'1610917',
+    'total_num': 267,
+    'user_edutype': Counter({'-1': 200, u'B': 30, u'C': 1, u'D': 1}),
+    'user_info': [...]}
+each user use time: 2.09
+
+
+{   'res_discipline_id': 11824253,
+    'res_edugrade': u'B',
+    'resource_id': u'1619983',
+    'total_num': 190,
+    'user_edutype': Counter({'-1': 157, u'B': 14, u'C': 1, u'D': 1}),
+    'user_info': [...]}
+each user use time: 2.06
+
+
+{   'res_discipline_id': 11824253,
+    'res_edugrade': u'B',
+    'resource_id': u'1619966',
+    'total_num': 148,
+    'user_edutype': Counter({'-1': 109, u'B': 14, u'C': 2, u'E': 1, u'D': 1}),
+    'user_info': [...]}
+each user use time: 2.17
+
+
+{   'res_discipline_id': 11824253,
+    'res_edugrade': u'B',
+    'resource_id': u'1619988',
+    'total_num': 117,
+    'user_edutype': Counter({'-1': 86, u'B': 13, u'F': 2, u'D': 1}),
+    'user_info': [...]}
+each user use time: 1.94
+
+
+{   'res_discipline_id': 11824255,
+    'res_edugrade': u'B',
+    'resource_id': u'1670555',
+    'total_num': 244,
+    'user_edutype': Counter({'-1': 176, u'B': 27, u'C': 2, u'E': 1, u'D': 1}),
+    'user_info': [...]}
+each user use time: 2.19
+
+
+{   'res_discipline_id': 11824260,
+    'res_edugrade': u'B',
+    'resource_id': u'1685567',
+    'total_num': 125,
+    'user_edutype': Counter({'-1': 93, u'B': 9, u'C': 1, u'Z': 1, u'D': 1}),
+    'user_info': [...]}
+each user use time: 2.67
+
+
+{   'res_discipline_id': 11824252,
+    'res_edugrade': u'B',
+    'resource_id': u'1669904',
+    'total_num': 129,
+    'user_edutype': Counter({'-1': 100, u'B': 7, u'C': 1, u'D': 1}),
+    'user_info': [...]}
+each user use time: 3.22
+
+
+{   'res_discipline_id': -1,
+    'res_edugrade': u'B',
+    'resource_id': u'611597',
+    'total_num': 628,
+    'user_edutype': Counter({'-1': 532, u'B': 27, u'C': 20, u'D': 1, 'H': 1, u'Z': 1}),
+    'user_info': [...]}
+each user use time: 1.92
+
+
+{   'res_discipline_id': -1,
+    'res_edugrade': u'B',
+    'resource_id': u'512288',
+    'total_num': 183,
+    'user_edutype': Counter({'-1': 153, u'C': 9, u'B': 3, u'D': 2, u'E': 1}),
+    'user_info': [...]}
+each user use time: 2.0
+
+
+{   'res_discipline_id': 11824245,
+    'res_edugrade': u'B',
+    'resource_id': u'1717063',
+    'total_num': 103,
+    'user_edutype': Counter({'-1': 89, u'B': 10, u'C': 1, u'Z': 1, u'D': 1}),
+    'user_info': [...]}
+each user use time: 1.08
+
+
+{   'res_discipline_id': 11824255,
+    'res_edugrade': u'B',
+    'resource_id': u'1630342',
+    'total_num': 141,
+    'user_edutype': Counter({'-1': 120, u'B': 8, u'C': 1, u'Z': 1, u'D': 1}),
+    'user_info': [...]}
+each user use time: 1.91
+
+
+{   'res_discipline_id': 11824255,
+    'res_edugrade': u'B',
+    'resource_id': u'1592820',
+    'total_num': 160,
+    'user_edutype': Counter({'-1': 136, u'B': 9, u'C': 1, u'Z': 1, u'D': 1}),
+    'user_info': [...]}
+each user use time: 2.0
+
+
+{   'res_discipline_id': 11824261,
+    'res_edugrade': u'B',
+    'resource_id': u'1610405',
+    'total_num': 116,
+    'user_edutype': Counter({'-1': 102, u'B': 8, u'C': 1}),
+    'user_info': [...]}
+each user use time: 1.56
+
+
+{   'res_discipline_id': -1,
+    'res_edugrade': u'B',
+    'resource_id': u'817629',
+    'total_num': 197,
+    'user_edutype': Counter({'-1': 180, u'B': 7, u'C': 2, u'D': 1}),
+    'user_info': [...]}
+each user use time: 1.7
+
+
+{   'res_discipline_id': 11824254,
+    'res_edugrade': u'B',
+    'resource_id': u'1685532',
+    'total_num': 1484,
+    'user_edutype': Counter({'-1': 1216, u'B': 127, u'C': 6, u'D': 3, u'E': 1, u'F': 1, u'H': 1}),
+    'user_info': [...]}
+each user use time: 1.93
+
+
+{   'res_discipline_id': -1,
+    'res_edugrade': u'B',
+    'resource_id': u'585127',
+    'total_num': 351,
+    'user_edutype': Counter({'-1': 289, u'B': 33, u'C': 1, u'D': 1}),
+    'user_info': [...]}
+each user use time: 1.77
+
+
+{   'res_discipline_id': -1,
+    'res_edugrade': u'B',
+    'resource_id': u'813843',
+    'total_num': 131,
+    'user_edutype': Counter({'-1': 96, u'B': 15, u'C': 1, u'D': 1}),
+    'user_info': [...]}
+each user use time: 2.06
+
+
+{   'res_discipline_id': 11824245,
+    'res_edugrade': u'B',
+    'resource_id': u'1731124',
+    'total_num': 148,
+    'user_edutype': Counter({'-1': 95, u'B': 30, u'D': 1}),
+    'user_info': [...]}
+each user use time: 1.71
+
+
+{   'res_discipline_id': -1,
+    'res_edugrade': u'B',
+    'resource_id': u'592681',
+    'total_num': 246,
+    'user_edutype': Counter({'-1': 175, u'B': 37, u'D': 1}),
+    'user_info': [...]}
+each user use time: 1.87
+
+
+{   'res_discipline_id': 11824248,
+    'res_edugrade': u'B',
+    'resource_id': u'1592862',
+    'total_num': 131,
+    'user_edutype': Counter({'-1': 70, u'B': 22, u'D': 1}),
+    'user_info': [...]}
+each user use time: 2.65
+
+
+{   'res_discipline_id': 11824246,
+    'res_edugrade': u'B',
+    'resource_id': u'1649241',
+    'total_num': 172,
+    'user_edutype': Counter({'-1': 141, u'B': 17, u'C': 1}),
+    'user_info': [...]}
+each user use time: 1.72
+
+
+{   'res_discipline_id': 11824254,
+    'res_edugrade': u'B',
+    'resource_id': u'1685532',
+    'total_num': 1484,
+    'user_edutype': Counter({'-1': 1216, u'B': 127, u'C': 6, u'D': 3, u'E': 1, u'F': 1, u'H': 1}),
+    'user_info': [...]}
+each user use time: 1.93
+
+
+{   'res_discipline_id': 11824262,
+    'res_edugrade': u'B',
+    'resource_id': u'1731121',
+    'total_num': 252,
+    'user_edutype': Counter({'-1': 175, u'B': 42, u'D': 1}),
+    'user_info': [...]}
+each user use time: 1.79
+
+
+{   'res_discipline_id': 11824255,
+    'res_edugrade': u'B',
+    'resource_id': u'1731115',
+    'total_num': 768,
+    'user_edutype': Counter({'-1': 540, u'B': 105, 'H': 2, u'C': 1, u'D': 1}),
+    'user_info': [...]}
+each user use time: 2.09
+
+
+{   'res_discipline_id': 11824253,
+    'res_edugrade': u'B',
+    'resource_id': u'1709460',
+    'total_num': 720,
+    'user_edutype': Counter({'-1': 594, u'B': 109, u'C': 2, u'D': 1, u'F': 1}),
+    'user_info': [...]}
+each user use time: 1.12
+
+
+{   'res_discipline_id': 11824255,
+    'res_edugrade': u'B',
+    'resource_id': u'1689672',
+    'total_num': 415,
+    'user_edutype': Counter({'-1': 306, u'B': 57, u'C': 2, u'F': 1}),
+    'user_info': [...]}
+each user use time: 1.82
+
+
+{   'res_discipline_id': 11824254,
+    'res_edugrade': u'B',
+    'resource_id': u'1664050',
+    'total_num': 661,
+    'user_edutype': Counter({'-1': 497, u'B': 85, u'C': 3}),
+    'user_info': [...]}
+each user use time: 1.86
+
+
+{   'res_discipline_id': 11824262,
+    'res_edugrade': u'B',
+    'resource_id': u'1663832',
+    'total_num': 280,
+    'user_edutype': Counter({'-1': 204, u'B': 34, u'C': 1}),
+    'user_info': [...]}
+each user use time: 2.17
+
+
+{   'res_discipline_id': -1,
+    'res_edugrade': u'B',
+    'resource_id': u'570149',
+    'total_num': 297,
+    'user_edutype': Counter({'-1': 241, u'B': 31, u'C': 1}),
+    'user_info': [...]}
+each user use time: 1.75
+
+
+{   'res_discipline_id': 11824268,
+    'res_edugrade': u'B',
+    'resource_id': u'1669967',
+    'total_num': 301,
+    'user_edutype': Counter({'-1': 188, u'B': 52, u'C': 1, u'D': 1}),
+    'user_info': [...]}
+each user use time: 2.09
+
+
+{   'res_discipline_id': 11824245,
+    'res_edugrade': u'B',
+    'resource_id': u'1629655',
+    'total_num': 480,
+    'user_edutype': Counter({'-1': 359, u'B': 59, u'C': 2, u'D': 1}),
+    'user_info': [...]}
+each user use time: 1.95
+
+
+{   'res_discipline_id': 11824262,
+    'res_edugrade': u'B',
+    'resource_id': u'1631102',
+    'total_num': 235,
+    'user_edutype': Counter({'-1': 209, u'B': 11, u'C': 1, u'D': 1}),
+    'user_info': [...]}
+each user use time: 2.0
+
+
+{   'res_discipline_id': -1,
+    'res_edugrade': u'B',
+    'resource_id': u'217323',
+    'total_num': 114,
+    'user_edutype': Counter({'-1': 107, u'B': 2, u'C': 1, u'D': 1}),
+    'user_info': [...]}
+each user use time: 1.75
+
+
+{   'res_discipline_id': 11824254,
+    'res_edugrade': u'B',
+    'resource_id': u'1665281',
+    'total_num': 193,
+    'user_edutype': Counter({'-1': 175, u'B': 7, u'D': 1}),
+    'user_info': [...]}
+each user use time: 2.25
+
+
+{   'res_discipline_id': 11824268,
+    'res_edugrade': u'B',
+    'resource_id': u'1742529',
+    'total_num': 409,
+    'user_edutype': Counter({'-1': 403, u'C': 1, u'B': 1}),
+    'user_info': [...]}
+each user use time: 3.0
+
+
+{   'res_discipline_id': 11824268,
+    'res_edugrade': u'B',
+    'resource_id': u'1682619',
+    'total_num': 130,
+    'user_edutype': Counter({'-1': 119, u'B': 4, u'D': 1}),
+    'user_info': [...]}
+each user use time: 2.2
+
+
+{   'res_discipline_id': 11824262,
+    'res_edugrade': u'B',
+    'resource_id': u'1628109',
+    'total_num': 276,
+    'user_edutype': Counter({'-1': 256, u'B': 8, u'C': 2}),
+    'user_info': [...]}
+each user use time: 2.0
+
+
+{   'res_discipline_id': 11824268,
+    'res_edugrade': u'B',
+    'resource_id': u'1683632',
+    'total_num': 144,
+    'user_edutype': Counter({'-1': 125, u'B': 6, u'H': 1, u'C': 1, u'D': 1}),
+    'user_info': [...]}
+each user use time: 2.11
+
+
+{   'res_discipline_id': 11824254,
+    'res_edugrade': u'B',
+    'resource_id': u'1688901',
+    'total_num': 105,
+    'user_edutype': Counter({'-1': 84, u'B': 10, u'C': 1}),
+    'user_info': [...]}
+each user use time: 1.91
+
+
+{   'res_discipline_id': 11824245,
+    'res_edugrade': u'B',
+    'resource_id': u'1696054',
+    'total_num': 151,
+    'user_edutype': Counter({'-1': 134, u'B': 13, 'H': 1, u'C': 1}),
+    'user_info': [...]}
+each user use time: 1.13
+
+
+{   'res_discipline_id': 11824254,
+    'res_edugrade': u'B',
+    'resource_id': u'1589238',
+    'total_num': 138,
+    'user_edutype': Counter({'-1': 117, u'B': 10, u'C': 1}),
+    'user_info': [...]}
+each user use time: 1.91
+
+
+{   'res_discipline_id': 11824254,
+    'res_edugrade': u'B',
+    'resource_id': u'1577290',
+    'total_num': 126,
+    'user_edutype': Counter({'-1': 110, u'B': 7, u'C': 1}),
+    'user_info': [...]}
+each user use time: 2.0
+
+
+{   'res_discipline_id': 11824255,
+    'res_edugrade': u'B',
+    'resource_id': u'793123',
+    'total_num': 135,
+    'user_edutype': Counter({'-1': 118, u'B': 9, u'D': 1}),
+    'user_info': [...]}
+each user use time: 1.7
+
+
+{   'res_discipline_id': 11824254,
+    'res_edugrade': u'B',
+    'resource_id': u'1642132',
+    'total_num': 120,
+    'user_edutype': Counter({'-1': 113, u'B': 4, u'C': 1, u'D': 1}),
+    'user_info': [...]}
+each user use time: 1.17
+
+
+{   'res_discipline_id': 11824254,
+    'res_edugrade': u'B',
+    'resource_id': u'1732150',
+    'total_num': 100,
+    'user_edutype': Counter({'-1': 92, u'B': 2, u'H': 1, u'C': 1}),
+    'user_info': [...]}
+each user use time: 2.0
+
+
+{   'res_discipline_id': 11824247,
+    'res_edugrade': u'C',
+    'resource_id': u'1649467',
+    'total_num': 121,
+    'user_edutype': Counter({'-1': 95, u'B': 6, u'C': 3}),
+    'user_info': [...]}
+each user use time: 2.89
+
+
+{   'res_discipline_id': 11824268,
+    'res_edugrade': u'B',
+    'resource_id': u'1682683',
+    'total_num': 154,
+    'user_edutype': Counter({'-1': 140, u'B': 6, u'C': 1}),
+    'user_info': [...]}
+each user use time: 2.0
+
+
+{   'res_discipline_id': 11824254,
+    'res_edugrade': u'B',
+    'resource_id': u'1687888',
+    'total_num': 127,
+    'user_edutype': Counter({'-1': 118, u'B': 4, u'C': 1}),
+    'user_info': [...]}
+each user use time: 1.8
+
+
+{   'res_discipline_id': -1,
+    'res_edugrade': u'B',
+    'resource_id': u'589514',
+    'total_num': 190,
+    'user_edutype': Counter({'-1': 175, u'B': 6, u'C': 1}),
+    'user_info': [...]}
+each user use time: 2.14
+
+
+B 122
+C 30
+11824255 28
+11824261 27
+-1 22
+A 20
+11824254 17
+11824245 16
+11824262 14
+D 12
+11824280 11
+11824268 9
+11824253 9
+11824246 7
+11824252 7
+Z 6
+11824260 5
+11824244 4
+11824247 4
+11824248 4
+11824249 4
+E 3
+11824258 1
+11824259 1
+11824291 1
+11824301 1
+11824308 1
+__main__ End !
+0:00:01.331874

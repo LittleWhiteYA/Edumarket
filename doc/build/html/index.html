@@ -1,0 +1,405 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>Welcome to edumarket’s documentation! &mdash; edumarket 1.0 documentation</title>
+    
+    <link rel="stylesheet" href="_static/alabaster.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    './',
+        VERSION:     '1.0',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  true
+      };
+    </script>
+    <script type="text/javascript" src="_static/jquery.js"></script>
+    <script type="text/javascript" src="_static/underscore.js"></script>
+    <script type="text/javascript" src="_static/doctools.js"></script>
+    <link rel="top" title="edumarket 1.0 documentation" href="#" />
+   
+  
+  <meta name="viewport" content="width=device-width, initial-scale=0.9, maximum-scale=0.9" />
+
+  </head>
+  <body role="document">  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body" role="main">
+            
+  <div class="section" id="welcome-to-edumarket-s-documentation">
+<h1>Welcome to edumarket&#8217;s documentation!<a class="headerlink" href="#welcome-to-edumarket-s-documentation" title="Permalink to this headline">¶</a></h1>
+<p>Contents:</p>
+<div class="toctree-wrapper compound">
+<ul class="simple">
+</ul>
+</div>
+<span class="target" id="module-recommend_res"></span><dl class="class">
+<dt id="recommend_res.recommendSystem">
+<em class="property">class </em><code class="descclassname">recommend_res.</code><code class="descname">recommendSystem</code><span class="sig-paren">(</span><em>db</em><span class="sig-paren">)</span><a class="headerlink" href="#recommend_res.recommendSystem" title="Permalink to this definition">¶</a></dt>
+<dd><dl class="method">
+<dt id="recommend_res.recommendSystem._recommendSystem__log_split_by_time">
+<code class="descname">_recommendSystem__log_split_by_time</code><span class="sig-paren">(</span><em>res_collectname</em>, <em>log_collectname='Search_log'</em><span class="sig-paren">)</span><a class="headerlink" href="#recommend_res.recommendSystem._recommendSystem__log_split_by_time" title="Permalink to this definition">¶</a></dt>
+<dd><p>This function split user log by time.
+See all users using situation each two weeks and
+print the results.</p>
+<dl class="docutils">
+<dt>Args:</dt>
+<dd>res_collectname (str): records of recommend resources&#8217; collection name.
+log_collectname (str): search_log collection name.</dd>
+<dt>Returns:</dt>
+<dd>No return value.</dd>
+</dl>
+<p>The result example is at ../result/recommend_0810.</p>
+</dd></dl>
+
+<dl class="method">
+<dt id="recommend_res.recommendSystem._recommendSystem__print_data">
+<code class="descname">_recommendSystem__print_data</code><span class="sig-paren">(</span><em>res_collectname</em>, <em>rec_res_list</em>, <em>dateCount</em>, <em>res_to_date</em><span class="sig-paren">)</span><a class="headerlink" href="#recommend_res.recommendSystem._recommendSystem__print_data" title="Permalink to this definition">¶</a></dt>
+<dd><p>This function prints the result each two weeks and calculate the changing percent                       in first and second two weeks.
+This function also prints the result.</p>
+<dl class="docutils">
+<dt>Args:</dt>
+<dd>res_collectname (str): collection name which stores recommended data information.
+rec_res_list (list): recommended resources list from source collections(res_collectname).
+dateCount (dict): count users using time each two weeks from all recommended collections.
+res_to_date (defaultdict(dict)): the resource which in rec_res_list and                                                                                                  split users used time each two weeks.</dd>
+<dt>Returns:</dt>
+<dd>No return value.</dd>
+</dl>
+</dd></dl>
+
+<dl class="method">
+<dt id="recommend_res.recommendSystem.check_rec_res_location">
+<code class="descname">check_rec_res_location</code><span class="sig-paren">(</span><em>rec_res</em>, <em>hot_res_list</em><span class="sig-paren">)</span><a class="headerlink" href="#recommend_res.recommendSystem.check_rec_res_location" title="Permalink to this definition">¶</a></dt>
+<dd><p>This function checks the influence to the resources which is recommended in different locations.</p>
+<dl class="docutils">
+<dt>Args:</dt>
+<dd>rec_res (list): recommended resources list.
+hot_res_list (list): popular resources list.</dd>
+<dt>Returns:</dt>
+<dd>No return value.</dd>
+</dl>
+</dd></dl>
+
+<dl class="method">
+<dt id="recommend_res.recommendSystem.find_good_res">
+<code class="descname">find_good_res</code><span class="sig-paren">(</span><em>recommend_res</em>, <em>hot_res_list</em><span class="sig-paren">)</span><a class="headerlink" href="#recommend_res.recommendSystem.find_good_res" title="Permalink to this definition">¶</a></dt>
+<dd><p>This function uses recommend resources from records of recommend resources and                  hot resources list from analysizing users&#8217; log to do cross-analysis.
+This will find out which resource is users&#8217; favourites and also a good resources                        which recommended by our team.
+This function also prints the results.</p>
+<dl class="docutils">
+<dt>Args:</dt>
+<dd>recommend_res (list): top resources in records of recommend resources.
+hot_res_list (list): the hot resource list according to users&#8217; log.</dd>
+<dt>Returns:</dt>
+<dd>No return value.</dd>
+</dl>
+<p>The results example is at ../result/find_good_res_100 which sets click_num = 100.</p>
+</dd></dl>
+
+<dl class="method">
+<dt id="recommend_res.recommendSystem.get_recommend_res">
+<code class="descname">get_recommend_res</code><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#recommend_res.recommendSystem.get_recommend_res" title="Permalink to this definition">¶</a></dt>
+<dd><p>This function returns the recommended resources list which can be created                       by private function or read by pickle file.</p>
+<dl class="docutils">
+<dt>Args:</dt>
+<dd>Don&#8217;t need argument.</dd>
+<dt>Returns:</dt>
+<dd>Returns recommended resources list.</dd>
+</dl>
+</dd></dl>
+
+</dd></dl>
+
+<span class="target" id="module-user_SocialNetwork"></span><dl class="class">
+<dt id="user_SocialNetwork.user_SocialNetwork">
+<em class="property">class </em><code class="descclassname">user_SocialNetwork.</code><code class="descname">user_SocialNetwork</code><span class="sig-paren">(</span><em>db</em>, <em>join_collname='JOIN_ResToUser'</em><span class="sig-paren">)</span><a class="headerlink" href="#user_SocialNetwork.user_SocialNetwork" title="Permalink to this definition">¶</a></dt>
+<dd><dl class="method">
+<dt id="user_SocialNetwork.user_SocialNetwork.count_userEdu_to_resEdu">
+<code class="descname">count_userEdu_to_resEdu</code><span class="sig-paren">(</span><em>hot_res_list</em><span class="sig-paren">)</span><a class="headerlink" href="#user_SocialNetwork.user_SocialNetwork.count_userEdu_to_resEdu" title="Permalink to this definition">¶</a></dt>
+<dd><p>This function counts different edutype&#8217;s user using different edugrade&#8217;s resources.
+This function also prints the results.</p>
+<dl class="docutils">
+<dt>Args:</dt>
+<dd>hot_res_list (list): this list contains all hot resources&#8217; informations.</dd>
+<dt>Returns:</dt>
+<dd>No return value.</dd>
+</dl>
+<p>The results example is at ../result/userEdu_to_resEdu_100 which sets hot_res_list&#8217;s res_clicked_num = 100.</p>
+</dd></dl>
+
+<dl class="method">
+<dt id="user_SocialNetwork.user_SocialNetwork.find_hot_resources">
+<code class="descname">find_hot_resources</code><span class="sig-paren">(</span><em>res_clicked_num</em><span class="sig-paren">)</span><a class="headerlink" href="#user_SocialNetwork.user_SocialNetwork.find_hot_resources" title="Permalink to this definition">¶</a></dt>
+<dd><p>This function finds out the resources which most of users like and
+prints the results.</p>
+<dl class="docutils">
+<dt>Args:</dt>
+<dd>res_clicked_num (int): the number which differentiates resource is popular or not.</dd>
+<dt>Returns:</dt>
+<dd>hot_res_list (list): the hot resources list</dd>
+</dl>
+<p>The hot_res_list results example is at ../result/hot_res_list_100 which sets res_clicked_num = 100.</p>
+</dd></dl>
+
+<dl class="method">
+<dt id="user_SocialNetwork.user_SocialNetwork.find_member_network">
+<code class="descname">find_member_network</code><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#user_SocialNetwork.user_SocialNetwork.find_member_network" title="Permalink to this definition">¶</a></dt>
+<dd><p>This function finds the relation between uploader and member, 
+finds all member who used uploader&#8217;s resources and prints the results.</p>
+<dl class="docutils">
+<dt>Args:</dt>
+<dd>Don&#8217;t have arguments.</dd>
+<dt>Returns:</dt>
+<dd>No return value.</dd>
+</dl>
+<p>the result example is at ../result/upID_FLR.</p>
+</dd></dl>
+
+<dl class="method">
+<dt id="user_SocialNetwork.user_SocialNetwork.find_userlinks">
+<code class="descname">find_userlinks</code><span class="sig-paren">(</span><em>hot_res_list</em>, <em>link_number</em><span class="sig-paren">)</span><a class="headerlink" href="#user_SocialNetwork.user_SocialNetwork.find_userlinks" title="Permalink to this definition">¶</a></dt>
+<dd><p>This function finds the link between two users.
+Two users will have a link If they use the same resource.
+This function also prints the results.</p>
+<dl class="docutils">
+<dt>Args:</dt>
+<dd>hot_res_list (list): this list contains all hot resources&#8217; informations.
+link_number (int): this link number decides how many time                                                                       does resources was clicked by both users could define as a link.</dd>
+<dt>Returns:</dt>
+<dd>No return value.</dd>
+</dl>
+<p>The results example is at ../result/link_100 which sets hot_res_list&#8217;s res_clicked_num = 100.</p>
+</dd></dl>
+
+<dl class="method">
+<dt id="user_SocialNetwork.user_SocialNetwork.get_hot_res_list">
+<code class="descname">get_hot_res_list</code><span class="sig-paren">(</span><em>res_clicked_num</em><span class="sig-paren">)</span><a class="headerlink" href="#user_SocialNetwork.user_SocialNetwork.get_hot_res_list" title="Permalink to this definition">¶</a></dt>
+<dd><p>This function gets hot resources list by running function &#8220;find_hot_resources&#8221; or                       reading pickle file.</p>
+<dl class="docutils">
+<dt>Args:</dt>
+<dd>res_clicked_num (int): the number which differentiates resource is popular or not.</dd>
+<dt>Returns:</dt>
+<dd>hot_res_list (list): the hot resources list.</dd>
+</dl>
+</dd></dl>
+
+</dd></dl>
+
+<span class="target" id="module-find_loyal_member"></span><dl class="function">
+<dt id="find_loyal_member.find_loyal_members">
+<code class="descclassname">find_loyal_member.</code><code class="descname">find_loyal_members</code><span class="sig-paren">(</span><em>db</em><span class="sig-paren">)</span><a class="headerlink" href="#find_loyal_member.find_loyal_members" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<dl class="function">
+<dt id="find_loyal_member.read_keywords">
+<code class="descclassname">find_loyal_member.</code><code class="descname">read_keywords</code><span class="sig-paren">(</span><em>keyword_weight</em>, <em>filename='keywordResult.txt'</em><span class="sig-paren">)</span><a class="headerlink" href="#find_loyal_member.read_keywords" title="Permalink to this definition">¶</a></dt>
+<dd><p>This function reads keywords of resources from keyword file.</p>
+<dl class="docutils">
+<dt>Args:</dt>
+<dd>keyword_weight (int): this weight filter some keyword weight below it.
+filename (str): the keyword file name, &#8220;keywordResult.txt&#8221; is default.</dd>
+<dt>Returns:</dt>
+<dd>res_to_keys (dict): return a dictionary, key is resource id, and value is a dict                                                                contains keywords and keywords&#8217; number.</dd>
+</dl>
+</dd></dl>
+
+<span class="target" id="module-join_MR"></span><dl class="function">
+<dt id="join_MR.join_res_and_user_MR">
+<code class="descclassname">join_MR.</code><code class="descname">join_res_and_user_MR</code><span class="sig-paren">(</span><em>db</em>, <em>join_collectname</em><span class="sig-paren">)</span><a class="headerlink" href="#join_MR.join_res_and_user_MR" title="Permalink to this definition">¶</a></dt>
+<dd><p>This function uses mongoDB&#8217;s MapReduce to join resource informations and user informations.
+The join collection uses resource id as key,            user id who uses or uploads it and resource informations as a dict of value.</p>
+<dl class="docutils">
+<dt>Args:</dt>
+<dd>db (database)
+join_collectname (str): expected joined collection name</dd>
+<dt>Returns:</dt>
+<dd>True: if join succeed.</dd>
+</dl>
+</dd></dl>
+
+<dl class="function">
+<dt id="join_MR.join_user_and_res_MR">
+<code class="descclassname">join_MR.</code><code class="descname">join_user_and_res_MR</code><span class="sig-paren">(</span><em>db</em>, <em>join_collectname</em><span class="sig-paren">)</span><a class="headerlink" href="#join_MR.join_user_and_res_MR" title="Permalink to this definition">¶</a></dt>
+<dd><p>This function uses MongoDB&#8217;s MapReduce to join user informations and resource informations.
+The join collection uses user id as key, resources used by the user and when to use as a list of value.</p>
+<dl class="docutils">
+<dt>Args:</dt>
+<dd>db (database)
+join_collectname (str): expected joined collection name</dd>
+<dt>Returns:</dt>
+<dd>True: if join succeed.</dd>
+</dl>
+</dd></dl>
+
+<span class="target" id="module-get_info"></span><dl class="function">
+<dt id="get_info.getMemberInfo">
+<code class="descclassname">get_info.</code><code class="descname">getMemberInfo</code><span class="sig-paren">(</span><em>db</em>, <em>member_collectname='memberInfo'</em><span class="sig-paren">)</span><a class="headerlink" href="#get_info.getMemberInfo" title="Permalink to this definition">¶</a></dt>
+<dd><p>This function is a generator.
+First, get a list of sorted user id and then return a list of member information according              the list of user id.</p>
+<dl class="docutils">
+<dt>Args:</dt>
+<dd>member_collectname (str): collection which contains member informations.</dd>
+<dt>Returns:</dt>
+<dd>member_list (list):     a list of member informations.</dd>
+</dl>
+</dd></dl>
+
+<dl class="function">
+<dt id="get_info.getResourceInfo">
+<code class="descclassname">get_info.</code><code class="descname">getResourceInfo</code><span class="sig-paren">(</span><em>db</em>, <em>res_collectname='Resources_type'</em><span class="sig-paren">)</span><a class="headerlink" href="#get_info.getResourceInfo" title="Permalink to this definition">¶</a></dt>
+<dd><p>This function is a generator.
+First, get a list of sorted resource id and then return a list of resource information according                the list of resource id.</p>
+<dl class="docutils">
+<dt>Args:</dt>
+<dd>res_collectname (str): collection which contains resource informations.</dd>
+<dt>Returns:</dt>
+<dd>member_list (list):     a list of resource informations.</dd>
+</dl>
+</dd></dl>
+
+<dl class="function">
+<dt id="get_info.get_all_res">
+<code class="descclassname">get_info.</code><code class="descname">get_all_res</code><span class="sig-paren">(</span><em>db</em>, <em>res_collectname='Resources_type'</em><span class="sig-paren">)</span><a class="headerlink" href="#get_info.get_all_res" title="Permalink to this definition">¶</a></dt>
+<dd><p>This function gets all resource informations and split by resource&#8217;s edugrade.</p>
+<dl class="docutils">
+<dt>Args:</dt>
+<dd>res_collectname (str): collection which contains all resources informations.</dd>
+<dt>Returns:</dt>
+<dd>all_res (default(dict)): a dict, level one splits by edugrade, level two stores the discipline id.</dd>
+</dl>
+</dd></dl>
+
+<dl class="function">
+<dt id="get_info.get_obj_to_res">
+<code class="descclassname">get_info.</code><code class="descname">get_obj_to_res</code><span class="sig-paren">(</span><em>db</em>, <em>upload_collectname='Resources_objfile'</em><span class="sig-paren">)</span><a class="headerlink" href="#get_info.get_obj_to_res" title="Permalink to this definition">¶</a></dt>
+<dd><p>This function maps objectfile id to resource id.</p>
+<dl class="docutils">
+<dt>Args:</dt>
+<dd>upload_collectname (str): collection which contains objectfile id&#8217;s resource id.</dd>
+<dt>Returns:</dt>
+<dd>obj_to_res (dict): a dict which key is objectfile id and value is objectfile id&#8217;s resource id.</dd>
+</dl>
+</dd></dl>
+
+<dl class="function">
+<dt id="get_info.get_res_to_discipline">
+<code class="descclassname">get_info.</code><code class="descname">get_res_to_discipline</code><span class="sig-paren">(</span><em>db</em>, <em>domain_collectname='domain'</em><span class="sig-paren">)</span><a class="headerlink" href="#get_info.get_res_to_discipline" title="Permalink to this definition">¶</a></dt>
+<dd><p>This function maps resource id to discipline id.</p>
+<dl class="docutils">
+<dt>Args:</dt>
+<dd>domain_collectname (str): collection which contains resource&#8217;s discipline id.</dd>
+<dt>Returns:</dt>
+<dd>res_to_discipline (dict): a dict which key is resource id and value is resource id&#8217;s discipline id.</dd>
+</dl>
+</dd></dl>
+
+<span class="target" id="module-insertCSV"></span><dl class="function">
+<dt id="insertCSV.getResources">
+<code class="descclassname">insertCSV.</code><code class="descname">getResources</code><span class="sig-paren">(</span><em>filename</em>, <em>rows</em><span class="sig-paren">)</span><a class="headerlink" href="#insertCSV.getResources" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<dl class="function">
+<dt id="insertCSV.getResources2">
+<code class="descclassname">insertCSV.</code><code class="descname">getResources2</code><span class="sig-paren">(</span><em>filename</em>, <em>rows</em><span class="sig-paren">)</span><a class="headerlink" href="#insertCSV.getResources2" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<dl class="function">
+<dt id="insertCSV.insertCollection">
+<code class="descclassname">insertCSV.</code><code class="descname">insertCollection</code><span class="sig-paren">(</span><em>collect_name</em>, <em>res_list</em><span class="sig-paren">)</span><a class="headerlink" href="#insertCSV.insertCollection" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<dl class="function">
+<dt id="insertCSV.isDate">
+<code class="descclassname">insertCSV.</code><code class="descname">isDate</code><span class="sig-paren">(</span><em>date_txt</em><span class="sig-paren">)</span><a class="headerlink" href="#insertCSV.isDate" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<dl class="function">
+<dt id="insertCSV.readCSV">
+<code class="descclassname">insertCSV.</code><code class="descname">readCSV</code><span class="sig-paren">(</span><em>filename</em><span class="sig-paren">)</span><a class="headerlink" href="#insertCSV.readCSV" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<dl class="function">
+<dt id="insertCSV.split_ResourceID">
+<code class="descclassname">insertCSV.</code><code class="descname">split_ResourceID</code><span class="sig-paren">(</span><em>url_link</em><span class="sig-paren">)</span><a class="headerlink" href="#insertCSV.split_ResourceID" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+</div>
+<div class="section" id="indices-and-tables">
+<h1>Indices and tables<a class="headerlink" href="#indices-and-tables" title="Permalink to this headline">¶</a></h1>
+<ul class="simple">
+<li><a class="reference internal" href="genindex.html"><span>Index</span></a></li>
+<li><a class="reference internal" href="py-modindex.html"><span>Module Index</span></a></li>
+<li><a class="reference internal" href="search.html"><span>Search Page</span></a></li>
+</ul>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+  <h3><a href="#">Table Of Contents</a></h3>
+  <ul>
+<li><a class="reference internal" href="#">Welcome to edumarket&#8217;s documentation!</a></li>
+<li><a class="reference internal" href="#indices-and-tables">Indices and tables</a></li>
+</ul>
+<div class="relations">
+<h3>Related Topics</h3>
+<ul>
+  <li><a href="#">Documentation overview</a><ul>
+  </ul></li>
+</ul>
+</div>
+  <div role="note" aria-label="source link">
+    <h3>This Page</h3>
+    <ul class="this-page-menu">
+      <li><a href="_sources/index.txt"
+            rel="nofollow">Show Source</a></li>
+    </ul>
+   </div>
+<div id="searchbox" style="display: none" role="search">
+  <h3>Quick search</h3>
+    <form class="search" action="search.html" method="get">
+      <input type="text" name="q" />
+      <input type="submit" value="Go" />
+      <input type="hidden" name="check_keywords" value="yes" />
+      <input type="hidden" name="area" value="default" />
+    </form>
+    <p class="searchtip" style="font-size: 90%">
+    Enter search terms or a module, class or function name.
+    </p>
+</div>
+<script type="text/javascript">$('#searchbox').show(0);</script>
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="footer">
+      &copy;2016, littlewhiteYA.
+      
+      |
+      Powered by <a href="http://sphinx-doc.org/">Sphinx 1.3.6</a>
+      &amp; <a href="https://github.com/bitprophet/alabaster">Alabaster 0.7.7</a>
+      
+      |
+      <a href="_sources/index.txt"
+          rel="nofollow">Page source</a>
+    </div>
+
+    
+
+    
+  </body>
+</html>

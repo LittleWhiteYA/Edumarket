@@ -1,0 +1,1746 @@
+Home_WebEduResources
+ResourceSerial: 1373668, start: 2014-10-26 00:00:00, End: 2015-04-27 00:00:00
+Week: 2014-10-16 00:00:00, numbers / total: 9 / 28, num / total percent: 0.0% / 0.0%
+Week: 2014-11-01 00:00:00, numbers / total: 44 / 156, num / total percent: +388.89% / +457.14%
+Week: 2014-11-16 00:00:00, numbers / total: 68 / 250, num / total percent: +54.55% / +60.26%
+Week: 2014-12-01 00:00:00, numbers / total: 98 / 280, num / total percent: +44.12% / +12.0%
+Week: 2014-12-16 00:00:00, numbers / total: 30 / 149, num / total percent: -69.39% / -46.79%
+Week: 2015-01-16 00:00:00, numbers / total: 1 / 109, num / total percent: 0.0% / 0.0%
+Week: 2015-05-01 00:00:00, numbers / total: 6 / 166, num / total percent: 0.0% / 0.0%
+Week: 2015-05-16 00:00:00, numbers / total: 1 / 201, num / total percent: -83.33% / +21.08%
+Week: 2015-06-01 00:00:00, numbers / total: 6 / 301, num / total percent: +500.0% / +49.75%
+Week: 2015-06-16 00:00:00, numbers / total: 8 / 195, num / total percent: +33.33% / -35.22%
+Week: 2015-07-01 00:00:00, numbers / total: 5 / 241, num / total percent: -37.5% / +23.59%
+Week: 2015-07-16 00:00:00, numbers / total: 1 / 256, num / total percent: -80.0% / +6.22%
+Week: 2015-09-01 00:00:00, numbers / total: 3 / 445, num / total percent: 0.0% / 0.0%
+Week: 2015-10-16 00:00:00, numbers / total: 3 / 490, num / total percent: 0.0% / 0.0%
+Week: 2015-11-16 00:00:00, numbers / total: 1 / 495, num / total percent: 0.0% / 0.0%
+Week: 2015-12-16 00:00:00, numbers / total: 1 / 330, num / total percent: 0.0% / 0.0%
+Week: 2016-01-16 00:00:00, numbers / total: 3 / 201, num / total percent: 0.0% / 0.0%
+Week: 2016-02-01 00:00:00, numbers / total: 2 / 147, num / total percent: -33.33% / -26.87%
+Week: 2016-03-16 00:00:00, numbers / total: 1 / 346, num / total percent: 0.0% / 0.0%
+Week: 2016-04-01 00:00:00, numbers / total: 8 / 287, num / total percent: +700.0% / -17.05%
+Week: 2016-05-01 00:00:00, numbers / total: 2 / 342, num / total percent: 0.0% / 0.0%
+{'FirstWeek_Change': 3.8889, 'SecWeek_TotalChange': 0.6026, 'endDate': datetime.datetime(2015, 4, 27, 0, 0), 'startDate': datetime.datetime(2014, 10, 26, 0, 0), 'res_id': 1373668, 'source': u'Home_WebEduResources', 'SecWeek_Change': 0.5455, 'FirstWeek_TotalChange': 4.5714}
+===============
+ResourceSerial: 1374015, start: 2014-10-26 00:00:00, End: 2015-04-27 00:00:00
+Week: 2014-10-16 00:00:00, numbers / total: 8 / 28, num / total percent: 0.0% / 0.0%
+Week: 2014-11-01 00:00:00, numbers / total: 33 / 156, num / total percent: +312.5% / +457.14%
+Week: 2014-11-16 00:00:00, numbers / total: 94 / 250, num / total percent: +184.85% / +60.26%
+Week: 2014-12-01 00:00:00, numbers / total: 66 / 280, num / total percent: -29.79% / +12.0%
+Week: 2014-12-16 00:00:00, numbers / total: 11 / 149, num / total percent: -83.33% / -46.79%
+Week: 2015-05-01 00:00:00, numbers / total: 3 / 166, num / total percent: 0.0% / 0.0%
+Week: 2015-05-16 00:00:00, numbers / total: 5 / 201, num / total percent: +66.67% / +21.08%
+Week: 2015-06-01 00:00:00, numbers / total: 2 / 301, num / total percent: -60.0% / +49.75%
+Week: 2015-06-16 00:00:00, numbers / total: 5 / 195, num / total percent: +150.0% / -35.22%
+Week: 2015-07-01 00:00:00, numbers / total: 5 / 241, num / total percent: 0.0% / +23.59%
+Week: 2015-07-16 00:00:00, numbers / total: 1 / 256, num / total percent: -80.0% / +6.22%
+Week: 2015-08-01 00:00:00, numbers / total: 3 / 196, num / total percent: +200.0% / -23.44%
+Week: 2015-09-01 00:00:00, numbers / total: 2 / 445, num / total percent: 0.0% / 0.0%
+Week: 2015-09-16 00:00:00, numbers / total: 6 / 722, num / total percent: +200.0% / +62.25%
+Week: 2015-10-01 00:00:00, numbers / total: 1 / 502, num / total percent: -83.33% / -30.47%
+Week: 2015-11-01 00:00:00, numbers / total: 1 / 605, num / total percent: 0.0% / 0.0%
+Week: 2015-11-16 00:00:00, numbers / total: 1 / 495, num / total percent: 0.0% / -18.18%
+Week: 2015-12-01 00:00:00, numbers / total: 2 / 377, num / total percent: +100.0% / -23.84%
+Week: 2015-12-16 00:00:00, numbers / total: 4 / 330, num / total percent: +100.0% / -12.47%
+Week: 2016-01-16 00:00:00, numbers / total: 2 / 201, num / total percent: 0.0% / 0.0%
+Week: 2016-03-01 00:00:00, numbers / total: 3 / 352, num / total percent: 0.0% / 0.0%
+Week: 2016-03-16 00:00:00, numbers / total: 3 / 346, num / total percent: 0.0% / -1.7%
+Week: 2016-04-16 00:00:00, numbers / total: 1 / 342, num / total percent: 0.0% / 0.0%
+{'FirstWeek_Change': 3.125, 'SecWeek_TotalChange': 0.6026, 'endDate': datetime.datetime(2015, 4, 27, 0, 0), 'startDate': datetime.datetime(2014, 10, 26, 0, 0), 'res_id': 1374015, 'source': u'Home_WebEduResources', 'SecWeek_Change': 1.8485, 'FirstWeek_TotalChange': 4.5714}
+===============
+ResourceSerial: 1374086, start: 2014-10-26 00:00:00, End: 2015-04-27 00:00:00
+Week: 2014-10-16 00:00:00, numbers / total: 3 / 28, num / total percent: 0.0% / 0.0%
+Week: 2014-11-01 00:00:00, numbers / total: 4 / 156, num / total percent: +33.33% / +457.14%
+Week: 2014-11-16 00:00:00, numbers / total: 2 / 250, num / total percent: -50.0% / +60.26%
+Week: 2014-12-01 00:00:00, numbers / total: 7 / 280, num / total percent: +250.0% / +12.0%
+Week: 2014-12-16 00:00:00, numbers / total: 4 / 149, num / total percent: -42.86% / -46.79%
+Week: 2015-01-01 00:00:00, numbers / total: 10 / 56, num / total percent: +150.0% / -62.42%
+Week: 2015-01-16 00:00:00, numbers / total: 5 / 109, num / total percent: -50.0% / +94.64%
+Week: 2015-02-01 00:00:00, numbers / total: 9 / 106, num / total percent: +80.0% / -2.75%
+Week: 2015-02-16 00:00:00, numbers / total: 4 / 51, num / total percent: -55.56% / -51.89%
+Week: 2015-03-01 00:00:00, numbers / total: 14 / 91, num / total percent: +250.0% / +78.43%
+Week: 2015-03-16 00:00:00, numbers / total: 33 / 169, num / total percent: +135.71% / +85.71%
+Week: 2015-04-01 00:00:00, numbers / total: 23 / 106, num / total percent: -30.3% / -37.28%
+Week: 2015-04-16 00:00:00, numbers / total: 6 / 148, num / total percent: -73.91% / +39.62%
+Week: 2015-05-01 00:00:00, numbers / total: 1 / 166, num / total percent: -83.33% / +12.16%
+Week: 2015-05-16 00:00:00, numbers / total: 2 / 201, num / total percent: +100.0% / +21.08%
+Week: 2015-06-16 00:00:00, numbers / total: 1 / 195, num / total percent: 0.0% / 0.0%
+Week: 2015-07-01 00:00:00, numbers / total: 2 / 241, num / total percent: +100.0% / +23.59%
+Week: 2015-07-16 00:00:00, numbers / total: 1 / 256, num / total percent: -50.0% / +6.22%
+Week: 2015-10-01 00:00:00, numbers / total: 2 / 502, num / total percent: 0.0% / 0.0%
+Week: 2016-01-01 00:00:00, numbers / total: 1 / 363, num / total percent: 0.0% / 0.0%
+Week: 2016-01-16 00:00:00, numbers / total: 2 / 201, num / total percent: +100.0% / -44.63%
+Week: 2016-02-16 00:00:00, numbers / total: 1 / 304, num / total percent: 0.0% / 0.0%
+Week: 2016-04-16 00:00:00, numbers / total: 1 / 342, num / total percent: 0.0% / 0.0%
+{'FirstWeek_Change': 0.3333, 'SecWeek_TotalChange': 0.6026, 'endDate': datetime.datetime(2015, 4, 27, 0, 0), 'startDate': datetime.datetime(2014, 10, 26, 0, 0), 'res_id': 1374086, 'source': u'Home_WebEduResources', 'SecWeek_Change': -0.5, 'FirstWeek_TotalChange': 4.5714}
+===============
+ResourceSerial: 1374488, start: 2014-10-26 00:00:00, End: 2015-04-27 00:00:00
+Week: 2014-10-16 00:00:00, numbers / total: 1 / 28, num / total percent: 0.0% / 0.0%
+Week: 2014-11-01 00:00:00, numbers / total: 7 / 156, num / total percent: +600.0% / +457.14%
+Week: 2014-11-16 00:00:00, numbers / total: 2 / 250, num / total percent: -71.43% / +60.26%
+Week: 2014-12-01 00:00:00, numbers / total: 16 / 280, num / total percent: +700.0% / +12.0%
+Week: 2014-12-16 00:00:00, numbers / total: 20 / 149, num / total percent: +25.0% / -46.79%
+Week: 2015-01-01 00:00:00, numbers / total: 6 / 56, num / total percent: -70.0% / -62.42%
+Week: 2015-01-16 00:00:00, numbers / total: 12 / 109, num / total percent: +100.0% / +94.64%
+Week: 2015-02-01 00:00:00, numbers / total: 5 / 106, num / total percent: -58.33% / -2.75%
+Week: 2015-02-16 00:00:00, numbers / total: 12 / 51, num / total percent: +140.0% / -51.89%
+Week: 2015-03-01 00:00:00, numbers / total: 16 / 91, num / total percent: +33.33% / +78.43%
+Week: 2015-03-16 00:00:00, numbers / total: 28 / 169, num / total percent: +75.0% / +85.71%
+Week: 2015-04-01 00:00:00, numbers / total: 7 / 106, num / total percent: -75.0% / -37.28%
+Week: 2015-04-16 00:00:00, numbers / total: 18 / 148, num / total percent: +157.14% / +39.62%
+Week: 2015-05-01 00:00:00, numbers / total: 2 / 166, num / total percent: -88.89% / +12.16%
+Week: 2015-05-16 00:00:00, numbers / total: 6 / 201, num / total percent: +200.0% / +21.08%
+Week: 2015-06-01 00:00:00, numbers / total: 2 / 301, num / total percent: -66.67% / +49.75%
+Week: 2015-06-16 00:00:00, numbers / total: 1 / 195, num / total percent: -50.0% / -35.22%
+Week: 2015-09-16 00:00:00, numbers / total: 2 / 722, num / total percent: 0.0% / 0.0%
+Week: 2015-10-01 00:00:00, numbers / total: 1 / 502, num / total percent: -50.0% / -30.47%
+Week: 2015-11-01 00:00:00, numbers / total: 4 / 605, num / total percent: 0.0% / 0.0%
+Week: 2015-12-01 00:00:00, numbers / total: 5 / 377, num / total percent: 0.0% / 0.0%
+Week: 2015-12-16 00:00:00, numbers / total: 3 / 330, num / total percent: -40.0% / -12.47%
+Week: 2016-01-01 00:00:00, numbers / total: 1 / 363, num / total percent: -66.67% / +10.0%
+Week: 2016-01-16 00:00:00, numbers / total: 1 / 201, num / total percent: 0.0% / -44.63%
+Week: 2016-02-01 00:00:00, numbers / total: 1 / 147, num / total percent: 0.0% / -26.87%
+Week: 2016-03-01 00:00:00, numbers / total: 1 / 352, num / total percent: 0.0% / 0.0%
+Week: 2016-03-16 00:00:00, numbers / total: 1 / 346, num / total percent: 0.0% / -1.7%
+{'FirstWeek_Change': 6.0, 'SecWeek_TotalChange': 0.6026, 'endDate': datetime.datetime(2015, 4, 27, 0, 0), 'startDate': datetime.datetime(2014, 10, 26, 0, 0), 'res_id': 1374488, 'source': u'Home_WebEduResources', 'SecWeek_Change': -0.7143, 'FirstWeek_TotalChange': 4.5714}
+===============
+ResourceSerial: 1374540, start: 2014-10-26 00:00:00, End: 2015-04-27 00:00:00
+Week: 2014-10-16 00:00:00, numbers / total: 2 / 28, num / total percent: 0.0% / 0.0%
+Week: 2014-11-01 00:00:00, numbers / total: 28 / 156, num / total percent: +1300.0% / +457.14%
+Week: 2014-11-16 00:00:00, numbers / total: 28 / 250, num / total percent: 0.0% / +60.26%
+Week: 2014-12-01 00:00:00, numbers / total: 30 / 280, num / total percent: +7.14% / +12.0%
+Week: 2014-12-16 00:00:00, numbers / total: 7 / 149, num / total percent: -76.67% / -46.79%
+Week: 2015-04-16 00:00:00, numbers / total: 1 / 148, num / total percent: 0.0% / 0.0%
+Week: 2015-05-01 00:00:00, numbers / total: 1 / 166, num / total percent: 0.0% / +12.16%
+Week: 2015-05-16 00:00:00, numbers / total: 5 / 201, num / total percent: +400.0% / +21.08%
+Week: 2015-06-01 00:00:00, numbers / total: 1 / 301, num / total percent: -80.0% / +49.75%
+Week: 2015-06-16 00:00:00, numbers / total: 3 / 195, num / total percent: +200.0% / -35.22%
+Week: 2015-07-01 00:00:00, numbers / total: 3 / 241, num / total percent: 0.0% / +23.59%
+Week: 2015-07-16 00:00:00, numbers / total: 1 / 256, num / total percent: -66.67% / +6.22%
+Week: 2015-08-16 00:00:00, numbers / total: 2 / 362, num / total percent: 0.0% / 0.0%
+Week: 2015-09-01 00:00:00, numbers / total: 1 / 445, num / total percent: -50.0% / +22.93%
+Week: 2015-10-01 00:00:00, numbers / total: 2 / 502, num / total percent: 0.0% / 0.0%
+Week: 2015-10-16 00:00:00, numbers / total: 9 / 490, num / total percent: +350.0% / -2.39%
+Week: 2015-11-01 00:00:00, numbers / total: 4 / 605, num / total percent: -55.56% / +23.47%
+Week: 2015-11-16 00:00:00, numbers / total: 3 / 495, num / total percent: -25.0% / -18.18%
+Week: 2015-12-16 00:00:00, numbers / total: 2 / 330, num / total percent: 0.0% / 0.0%
+Week: 2016-03-01 00:00:00, numbers / total: 1 / 352, num / total percent: 0.0% / 0.0%
+Week: 2016-04-16 00:00:00, numbers / total: 1 / 342, num / total percent: 0.0% / 0.0%
+Week: 2016-05-16 00:00:00, numbers / total: 1 / 203, num / total percent: 0.0% / 0.0%
+{'FirstWeek_Change': 13.0, 'SecWeek_TotalChange': 0.6026, 'endDate': datetime.datetime(2015, 4, 27, 0, 0), 'startDate': datetime.datetime(2014, 10, 26, 0, 0), 'res_id': 1374540, 'source': u'Home_WebEduResources', 'SecWeek_Change': 0.0, 'FirstWeek_TotalChange': 4.5714}
+===============
+ResourceSerial: 1374196, start: 2014-10-26 00:00:00, End: 2015-04-27 00:00:00
+Week: 2014-10-16 00:00:00, numbers / total: 4 / 28, num / total percent: 0.0% / 0.0%
+Week: 2014-11-01 00:00:00, numbers / total: 10 / 156, num / total percent: +150.0% / +457.14%
+Week: 2014-11-16 00:00:00, numbers / total: 6 / 250, num / total percent: -40.0% / +60.26%
+Week: 2014-12-01 00:00:00, numbers / total: 8 / 280, num / total percent: +33.33% / +12.0%
+Week: 2014-12-16 00:00:00, numbers / total: 17 / 149, num / total percent: +112.5% / -46.79%
+Week: 2015-01-16 00:00:00, numbers / total: 2 / 109, num / total percent: 0.0% / 0.0%
+Week: 2015-02-01 00:00:00, numbers / total: 3 / 106, num / total percent: +50.0% / -2.75%
+Week: 2015-02-16 00:00:00, numbers / total: 1 / 51, num / total percent: -66.67% / -51.89%
+Week: 2015-03-01 00:00:00, numbers / total: 10 / 91, num / total percent: +900.0% / +78.43%
+Week: 2015-03-16 00:00:00, numbers / total: 10 / 169, num / total percent: 0.0% / +85.71%
+Week: 2015-04-01 00:00:00, numbers / total: 4 / 106, num / total percent: -60.0% / -37.28%
+Week: 2015-04-16 00:00:00, numbers / total: 9 / 148, num / total percent: +125.0% / +39.62%
+Week: 2015-05-01 00:00:00, numbers / total: 2 / 166, num / total percent: -77.78% / +12.16%
+Week: 2015-05-16 00:00:00, numbers / total: 1 / 201, num / total percent: -50.0% / +21.08%
+Week: 2015-06-01 00:00:00, numbers / total: 2 / 301, num / total percent: +100.0% / +49.75%
+Week: 2015-06-16 00:00:00, numbers / total: 2 / 195, num / total percent: 0.0% / -35.22%
+Week: 2015-07-01 00:00:00, numbers / total: 3 / 241, num / total percent: +50.0% / +23.59%
+Week: 2015-08-16 00:00:00, numbers / total: 1 / 362, num / total percent: 0.0% / 0.0%
+Week: 2015-11-01 00:00:00, numbers / total: 3 / 605, num / total percent: 0.0% / 0.0%
+Week: 2015-11-16 00:00:00, numbers / total: 1 / 495, num / total percent: -66.67% / -18.18%
+Week: 2016-04-01 00:00:00, numbers / total: 1 / 287, num / total percent: 0.0% / 0.0%
+{'FirstWeek_Change': 1.5, 'SecWeek_TotalChange': 0.6026, 'endDate': datetime.datetime(2015, 4, 27, 0, 0), 'startDate': datetime.datetime(2014, 10, 26, 0, 0), 'res_id': 1374196, 'source': u'Home_WebEduResources', 'SecWeek_Change': -0.4, 'FirstWeek_TotalChange': 4.5714}
+===============
+ResourceSerial: 1374166, start: 2014-10-26 00:00:00, End: 2015-04-27 00:00:00
+Week: 2014-11-16 00:00:00, numbers / total: 2 / 250, num / total percent: 0.0% / 0.0%
+Week: 2014-12-01 00:00:00, numbers / total: 5 / 280, num / total percent: +150.0% / +12.0%
+Week: 2014-12-16 00:00:00, numbers / total: 5 / 149, num / total percent: 0.0% / -46.79%
+Week: 2015-01-01 00:00:00, numbers / total: 6 / 56, num / total percent: +20.0% / -62.42%
+Week: 2015-01-16 00:00:00, numbers / total: 10 / 109, num / total percent: +66.67% / +94.64%
+Week: 2015-02-01 00:00:00, numbers / total: 6 / 106, num / total percent: -40.0% / -2.75%
+Week: 2015-02-16 00:00:00, numbers / total: 9 / 51, num / total percent: +50.0% / -51.89%
+Week: 2015-03-01 00:00:00, numbers / total: 9 / 91, num / total percent: 0.0% / +78.43%
+Week: 2015-03-16 00:00:00, numbers / total: 29 / 169, num / total percent: +222.22% / +85.71%
+Week: 2015-04-01 00:00:00, numbers / total: 13 / 106, num / total percent: -55.17% / -37.28%
+Week: 2015-04-16 00:00:00, numbers / total: 11 / 148, num / total percent: -15.38% / +39.62%
+Week: 2015-05-01 00:00:00, numbers / total: 2 / 166, num / total percent: -81.82% / +12.16%
+Week: 2015-06-01 00:00:00, numbers / total: 2 / 301, num / total percent: 0.0% / 0.0%
+Week: 2015-06-16 00:00:00, numbers / total: 4 / 195, num / total percent: +100.0% / -35.22%
+Week: 2015-07-01 00:00:00, numbers / total: 11 / 241, num / total percent: +175.0% / +23.59%
+Week: 2015-07-16 00:00:00, numbers / total: 3 / 256, num / total percent: -72.73% / +6.22%
+Week: 2015-08-16 00:00:00, numbers / total: 5 / 362, num / total percent: 0.0% / 0.0%
+Week: 2015-09-01 00:00:00, numbers / total: 2 / 445, num / total percent: -60.0% / +22.93%
+Week: 2015-09-16 00:00:00, numbers / total: 6 / 722, num / total percent: +200.0% / +62.25%
+Week: 2015-10-01 00:00:00, numbers / total: 4 / 502, num / total percent: -33.33% / -30.47%
+Week: 2015-11-16 00:00:00, numbers / total: 2 / 495, num / total percent: 0.0% / 0.0%
+Week: 2016-01-01 00:00:00, numbers / total: 2 / 363, num / total percent: 0.0% / 0.0%
+Week: 2016-01-16 00:00:00, numbers / total: 1 / 201, num / total percent: -50.0% / -44.63%
+Week: 2016-02-01 00:00:00, numbers / total: 2 / 147, num / total percent: +100.0% / -26.87%
+Week: 2016-03-16 00:00:00, numbers / total: 1 / 346, num / total percent: 0.0% / 0.0%
+Week: 2016-04-16 00:00:00, numbers / total: 2 / 342, num / total percent: 0.0% / 0.0%
+{'startDate': datetime.datetime(2014, 10, 26, 0, 0), 'SecWeek_TotalChange': 0.0, 'endDate': datetime.datetime(2015, 4, 27, 0, 0), 'source': u'Home_WebEduResources', 'SecWeek_Change': 0.0, 'res_id': 1374166}
+===============
+ResourceSerial: 1374461, start: 2014-10-26 00:00:00, End: 2015-04-27 00:00:00
+Week: 2014-11-16 00:00:00, numbers / total: 2 / 250, num / total percent: 0.0% / 0.0%
+Week: 2014-12-01 00:00:00, numbers / total: 4 / 280, num / total percent: +100.0% / +12.0%
+Week: 2014-12-16 00:00:00, numbers / total: 16 / 149, num / total percent: +300.0% / -46.79%
+Week: 2015-01-01 00:00:00, numbers / total: 4 / 56, num / total percent: -75.0% / -62.42%
+Week: 2015-01-16 00:00:00, numbers / total: 4 / 109, num / total percent: 0.0% / +94.64%
+Week: 2015-02-01 00:00:00, numbers / total: 3 / 106, num / total percent: -25.0% / -2.75%
+Week: 2015-03-01 00:00:00, numbers / total: 6 / 91, num / total percent: 0.0% / 0.0%
+Week: 2015-03-16 00:00:00, numbers / total: 9 / 169, num / total percent: +50.0% / +85.71%
+Week: 2015-04-01 00:00:00, numbers / total: 5 / 106, num / total percent: -44.44% / -37.28%
+Week: 2015-04-16 00:00:00, numbers / total: 4 / 148, num / total percent: -20.0% / +39.62%
+Week: 2015-07-01 00:00:00, numbers / total: 3 / 241, num / total percent: 0.0% / 0.0%
+Week: 2015-08-16 00:00:00, numbers / total: 2 / 362, num / total percent: 0.0% / 0.0%
+Week: 2015-09-01 00:00:00, numbers / total: 1 / 445, num / total percent: -50.0% / +22.93%
+Week: 2015-09-16 00:00:00, numbers / total: 3 / 722, num / total percent: +200.0% / +62.25%
+Week: 2015-10-01 00:00:00, numbers / total: 2 / 502, num / total percent: -33.33% / -30.47%
+Week: 2015-11-16 00:00:00, numbers / total: 2 / 495, num / total percent: 0.0% / 0.0%
+Week: 2015-12-01 00:00:00, numbers / total: 2 / 377, num / total percent: 0.0% / -23.84%
+Week: 2016-02-16 00:00:00, numbers / total: 1 / 304, num / total percent: 0.0% / 0.0%
+Week: 2016-04-01 00:00:00, numbers / total: 1 / 287, num / total percent: 0.0% / 0.0%
+{'startDate': datetime.datetime(2014, 10, 26, 0, 0), 'SecWeek_TotalChange': 0.0, 'endDate': datetime.datetime(2015, 4, 27, 0, 0), 'source': u'Home_WebEduResources', 'SecWeek_Change': 0.0, 'res_id': 1374461}
+===============
+ResourceSerial: 1373804, start: 2014-10-26 00:00:00, End: 2015-04-27 00:00:00
+Week: 2014-11-01 00:00:00, numbers / total: 7 / 156, num / total percent: 0.0% / 0.0%
+Week: 2014-11-16 00:00:00, numbers / total: 4 / 250, num / total percent: -42.86% / +60.26%
+Week: 2014-12-01 00:00:00, numbers / total: 15 / 280, num / total percent: +275.0% / +12.0%
+Week: 2014-12-16 00:00:00, numbers / total: 10 / 149, num / total percent: -33.33% / -46.79%
+Week: 2015-01-01 00:00:00, numbers / total: 16 / 56, num / total percent: +60.0% / -62.42%
+Week: 2015-01-16 00:00:00, numbers / total: 9 / 109, num / total percent: -43.75% / +94.64%
+Week: 2015-02-01 00:00:00, numbers / total: 50 / 106, num / total percent: +455.56% / -2.75%
+Week: 2015-02-16 00:00:00, numbers / total: 15 / 51, num / total percent: -70.0% / -51.89%
+Week: 2015-03-01 00:00:00, numbers / total: 11 / 91, num / total percent: -26.67% / +78.43%
+Week: 2015-03-16 00:00:00, numbers / total: 24 / 169, num / total percent: +118.18% / +85.71%
+Week: 2015-04-01 00:00:00, numbers / total: 15 / 106, num / total percent: -37.5% / -37.28%
+Week: 2015-04-16 00:00:00, numbers / total: 20 / 148, num / total percent: +33.33% / +39.62%
+Week: 2015-05-01 00:00:00, numbers / total: 11 / 166, num / total percent: -45.0% / +12.16%
+Week: 2015-05-16 00:00:00, numbers / total: 15 / 201, num / total percent: +36.36% / +21.08%
+Week: 2015-06-01 00:00:00, numbers / total: 29 / 301, num / total percent: +93.33% / +49.75%
+Week: 2015-06-16 00:00:00, numbers / total: 10 / 195, num / total percent: -65.52% / -35.22%
+Week: 2015-07-01 00:00:00, numbers / total: 13 / 241, num / total percent: +30.0% / +23.59%
+Week: 2015-07-16 00:00:00, numbers / total: 7 / 256, num / total percent: -46.15% / +6.22%
+Week: 2015-09-01 00:00:00, numbers / total: 11 / 445, num / total percent: 0.0% / 0.0%
+Week: 2015-10-01 00:00:00, numbers / total: 3 / 502, num / total percent: 0.0% / 0.0%
+Week: 2015-11-01 00:00:00, numbers / total: 2 / 605, num / total percent: 0.0% / 0.0%
+Week: 2015-11-16 00:00:00, numbers / total: 4 / 495, num / total percent: +100.0% / -18.18%
+Week: 2015-12-01 00:00:00, numbers / total: 1 / 377, num / total percent: -75.0% / -23.84%
+Week: 2016-02-01 00:00:00, numbers / total: 2 / 147, num / total percent: 0.0% / 0.0%
+Week: 2016-02-16 00:00:00, numbers / total: 4 / 304, num / total percent: +100.0% / +106.8%
+Week: 2016-03-16 00:00:00, numbers / total: 1 / 346, num / total percent: 0.0% / 0.0%
+{'FirstWeek_Change': 0.0, 'SecWeek_TotalChange': 0.6026, 'endDate': datetime.datetime(2015, 4, 27, 0, 0), 'startDate': datetime.datetime(2014, 10, 26, 0, 0), 'res_id': 1373804, 'source': u'Home_WebEduResources', 'SecWeek_Change': -0.4286, 'FirstWeek_TotalChange': 0.0}
+===============
+ResourceSerial: 1374139, start: 2014-10-26 00:00:00, End: 2015-04-27 00:00:00
+Week: 2014-12-16 00:00:00, numbers / total: 5 / 149, num / total percent: 0.0% / 0.0%
+Week: 2015-01-01 00:00:00, numbers / total: 1 / 56, num / total percent: -80.0% / -62.42%
+Week: 2015-01-16 00:00:00, numbers / total: 5 / 109, num / total percent: +400.0% / +94.64%
+Week: 2015-02-01 00:00:00, numbers / total: 9 / 106, num / total percent: +80.0% / -2.75%
+Week: 2015-03-01 00:00:00, numbers / total: 7 / 91, num / total percent: 0.0% / 0.0%
+Week: 2015-03-16 00:00:00, numbers / total: 6 / 169, num / total percent: -14.29% / +85.71%
+Week: 2015-04-01 00:00:00, numbers / total: 3 / 106, num / total percent: -50.0% / -37.28%
+Week: 2015-04-16 00:00:00, numbers / total: 6 / 148, num / total percent: +100.0% / +39.62%
+Week: 2015-06-16 00:00:00, numbers / total: 1 / 195, num / total percent: 0.0% / 0.0%
+Week: 2015-07-16 00:00:00, numbers / total: 3 / 256, num / total percent: 0.0% / 0.0%
+Week: 2015-08-01 00:00:00, numbers / total: 8 / 196, num / total percent: +166.67% / -23.44%
+Week: 2015-09-01 00:00:00, numbers / total: 5 / 445, num / total percent: 0.0% / 0.0%
+Week: 2015-09-16 00:00:00, numbers / total: 6 / 722, num / total percent: +20.0% / +62.25%
+Week: 2015-10-01 00:00:00, numbers / total: 11 / 502, num / total percent: +83.33% / -30.47%
+Week: 2015-11-01 00:00:00, numbers / total: 2 / 605, num / total percent: 0.0% / 0.0%
+Week: 2015-11-16 00:00:00, numbers / total: 1 / 495, num / total percent: -50.0% / -18.18%
+Week: 2015-12-01 00:00:00, numbers / total: 2 / 377, num / total percent: +100.0% / -23.84%
+Week: 2015-12-16 00:00:00, numbers / total: 1 / 330, num / total percent: -50.0% / -12.47%
+Week: 2016-02-16 00:00:00, numbers / total: 2 / 304, num / total percent: 0.0% / 0.0%
+Week: 2016-04-16 00:00:00, numbers / total: 1 / 342, num / total percent: 0.0% / 0.0%
+{'source': u'Home_WebEduResources', 'res_id': 1374139, 'endDate': datetime.datetime(2015, 4, 27, 0, 0), 'startDate': datetime.datetime(2014, 10, 26, 0, 0)}
+===============
+ResourceSerial: 1374629, start: 2014-10-26 00:00:00, End: 2015-04-27 00:00:00
+Week: 2014-12-16 00:00:00, numbers / total: 3 / 149, num / total percent: 0.0% / 0.0%
+Week: 2015-01-16 00:00:00, numbers / total: 4 / 109, num / total percent: 0.0% / 0.0%
+Week: 2015-02-01 00:00:00, numbers / total: 4 / 106, num / total percent: 0.0% / -2.75%
+Week: 2015-02-16 00:00:00, numbers / total: 2 / 51, num / total percent: -50.0% / -51.89%
+Week: 2015-03-16 00:00:00, numbers / total: 8 / 169, num / total percent: 0.0% / 0.0%
+Week: 2015-04-01 00:00:00, numbers / total: 2 / 106, num / total percent: -75.0% / -37.28%
+Week: 2015-04-16 00:00:00, numbers / total: 7 / 148, num / total percent: +250.0% / +39.62%
+Week: 2015-07-16 00:00:00, numbers / total: 3 / 256, num / total percent: 0.0% / 0.0%
+Week: 2015-09-01 00:00:00, numbers / total: 1 / 445, num / total percent: 0.0% / 0.0%
+Week: 2015-10-16 00:00:00, numbers / total: 1 / 490, num / total percent: 0.0% / 0.0%
+Week: 2016-04-01 00:00:00, numbers / total: 1 / 287, num / total percent: 0.0% / 0.0%
+{'source': u'Home_WebEduResources', 'res_id': 1374629, 'endDate': datetime.datetime(2015, 4, 27, 0, 0), 'startDate': datetime.datetime(2014, 10, 26, 0, 0)}
+===============
+ResourceSerial: 806358, start: 2015-04-28 00:00:00, End: 2015-05-22 00:00:00
+Week: 2015-04-16 00:00:00, numbers / total: 8 / 148, num / total percent: 0.0% / 0.0%
+Week: 2015-05-01 00:00:00, numbers / total: 38 / 166, num / total percent: +375.0% / +12.16%
+Week: 2015-05-16 00:00:00, numbers / total: 16 / 201, num / total percent: -57.89% / +21.08%
+Week: 2016-04-01 00:00:00, numbers / total: 18 / 287, num / total percent: 0.0% / 0.0%
+Week: 2016-04-16 00:00:00, numbers / total: 17 / 342, num / total percent: -5.56% / +19.16%
+Week: 2016-05-01 00:00:00, numbers / total: 26 / 342, num / total percent: +52.94% / 0.0%
+{'FirstWeek_Change': 3.75, 'SecWeek_TotalChange': 0.2108, 'endDate': datetime.datetime(2015, 5, 22, 0, 0), 'startDate': datetime.datetime(2015, 4, 28, 0, 0), 'res_id': 806358, 'source': u'Home_WebEduResources', 'SecWeek_Change': -0.5789, 'FirstWeek_TotalChange': 0.1216}
+===============
+ResourceSerial: 119928, start: 2015-04-28 00:00:00, End: 2015-05-22 00:00:00
+Week: 2015-04-16 00:00:00, numbers / total: 1 / 148, num / total percent: 0.0% / 0.0%
+Week: 2015-05-01 00:00:00, numbers / total: 14 / 166, num / total percent: +1300.0% / +12.16%
+Week: 2015-05-16 00:00:00, numbers / total: 4 / 201, num / total percent: -71.43% / +21.08%
+Week: 2015-08-01 00:00:00, numbers / total: 2 / 196, num / total percent: 0.0% / 0.0%
+{'FirstWeek_Change': 13.0, 'SecWeek_TotalChange': 0.2108, 'endDate': datetime.datetime(2015, 5, 22, 0, 0), 'startDate': datetime.datetime(2015, 4, 28, 0, 0), 'res_id': 119928, 'source': u'Home_WebEduResources', 'SecWeek_Change': -0.7143, 'FirstWeek_TotalChange': 0.1216}
+===============
+ResourceSerial: 662393, start: 2015-04-28 00:00:00, End: 2015-05-22 00:00:00
+Week: 2015-03-16 00:00:00, numbers / total: 2 / 169, num / total percent: 0.0% / 0.0%
+Week: 2015-04-01 00:00:00, numbers / total: 2 / 106, num / total percent: 0.0% / -37.28%
+Week: 2015-04-16 00:00:00, numbers / total: 2 / 148, num / total percent: 0.0% / +39.62%
+Week: 2015-05-01 00:00:00, numbers / total: 14 / 166, num / total percent: +600.0% / +12.16%
+Week: 2015-05-16 00:00:00, numbers / total: 3 / 201, num / total percent: -78.57% / +21.08%
+Week: 2015-07-01 00:00:00, numbers / total: 1 / 241, num / total percent: 0.0% / 0.0%
+Week: 2015-08-01 00:00:00, numbers / total: 1 / 196, num / total percent: 0.0% / 0.0%
+Week: 2016-04-16 00:00:00, numbers / total: 1 / 342, num / total percent: 0.0% / 0.0%
+Week: 2016-05-01 00:00:00, numbers / total: 2 / 342, num / total percent: +100.0% / 0.0%
+{'FirstWeek_Change': 6.0, 'SecWeek_TotalChange': 0.2108, 'endDate': datetime.datetime(2015, 5, 22, 0, 0), 'startDate': datetime.datetime(2015, 4, 28, 0, 0), 'res_id': 662393, 'source': u'Home_WebEduResources', 'SecWeek_Change': -0.7857, 'FirstWeek_TotalChange': 0.1216}
+===============
+ResourceSerial: 1601277, start: 2015-04-28 00:00:00, End: 2015-05-22 00:00:00
+Week: 2015-04-16 00:00:00, numbers / total: 5 / 148, num / total percent: 0.0% / 0.0%
+Week: 2015-05-01 00:00:00, numbers / total: 2 / 166, num / total percent: -60.0% / +12.16%
+Week: 2015-05-16 00:00:00, numbers / total: 5 / 201, num / total percent: +150.0% / +21.08%
+{'FirstWeek_Change': -0.6, 'SecWeek_TotalChange': 0.2108, 'endDate': datetime.datetime(2015, 5, 22, 0, 0), 'startDate': datetime.datetime(2015, 4, 28, 0, 0), 'res_id': 1601277, 'source': u'Home_WebEduResources', 'SecWeek_Change': 1.5, 'FirstWeek_TotalChange': 0.1216}
+===============
+ResourceSerial: 806338, start: 2015-04-28 00:00:00, End: 2015-05-22 00:00:00
+Week: 2015-04-16 00:00:00, numbers / total: 4 / 148, num / total percent: 0.0% / 0.0%
+Week: 2015-05-01 00:00:00, numbers / total: 8 / 166, num / total percent: +100.0% / +12.16%
+Week: 2015-05-16 00:00:00, numbers / total: 12 / 201, num / total percent: +50.0% / +21.08%
+Week: 2016-03-16 00:00:00, numbers / total: 1 / 346, num / total percent: 0.0% / 0.0%
+Week: 2016-05-01 00:00:00, numbers / total: 6 / 342, num / total percent: 0.0% / 0.0%
+Week: 2016-05-16 00:00:00, numbers / total: 10 / 203, num / total percent: +66.67% / -40.64%
+{'FirstWeek_Change': 1.0, 'SecWeek_TotalChange': 0.2108, 'endDate': datetime.datetime(2015, 5, 22, 0, 0), 'startDate': datetime.datetime(2015, 4, 28, 0, 0), 'res_id': 806338, 'source': u'Home_WebEduResources', 'SecWeek_Change': 0.5, 'FirstWeek_TotalChange': 0.1216}
+===============
+ResourceSerial: 220870, start: 2015-04-28 00:00:00, End: 2015-05-22 00:00:00
+Week: 2015-05-01 00:00:00, numbers / total: 6 / 166, num / total percent: 0.0% / 0.0%
+Week: 2015-05-16 00:00:00, numbers / total: 5 / 201, num / total percent: -16.67% / +21.08%
+Week: 2015-08-01 00:00:00, numbers / total: 1 / 196, num / total percent: 0.0% / 0.0%
+Week: 2015-12-01 00:00:00, numbers / total: 1 / 377, num / total percent: 0.0% / 0.0%
+Week: 2016-01-01 00:00:00, numbers / total: 1 / 363, num / total percent: 0.0% / 0.0%
+Week: 2016-03-01 00:00:00, numbers / total: 1 / 352, num / total percent: 0.0% / 0.0%
+Week: 2016-04-01 00:00:00, numbers / total: 1 / 287, num / total percent: 0.0% / 0.0%
+Week: 2016-05-01 00:00:00, numbers / total: 5 / 342, num / total percent: 0.0% / 0.0%
+Week: 2016-05-16 00:00:00, numbers / total: 1 / 203, num / total percent: -80.0% / -40.64%
+{'FirstWeek_Change': 0.0, 'SecWeek_TotalChange': 0.2108, 'endDate': datetime.datetime(2015, 5, 22, 0, 0), 'startDate': datetime.datetime(2015, 4, 28, 0, 0), 'res_id': 220870, 'source': u'Home_WebEduResources', 'SecWeek_Change': -0.1667, 'FirstWeek_TotalChange': 0.0}
+===============
+ResourceSerial: 664147, start: 2015-04-28 00:00:00, End: 2015-05-22 00:00:00
+Week: 2014-11-16 00:00:00, numbers / total: 2 / 250, num / total percent: 0.0% / 0.0%
+Week: 2015-02-16 00:00:00, numbers / total: 3 / 51, num / total percent: 0.0% / 0.0%
+Week: 2015-04-16 00:00:00, numbers / total: 5 / 148, num / total percent: 0.0% / 0.0%
+Week: 2015-05-01 00:00:00, numbers / total: 12 / 166, num / total percent: +140.0% / +12.16%
+Week: 2015-05-16 00:00:00, numbers / total: 10 / 201, num / total percent: -16.67% / +21.08%
+Week: 2015-08-16 00:00:00, numbers / total: 1 / 362, num / total percent: 0.0% / 0.0%
+Week: 2015-09-16 00:00:00, numbers / total: 3 / 722, num / total percent: 0.0% / 0.0%
+Week: 2015-10-01 00:00:00, numbers / total: 1 / 502, num / total percent: -66.67% / -30.47%
+Week: 2015-12-01 00:00:00, numbers / total: 4 / 377, num / total percent: 0.0% / 0.0%
+Week: 2016-01-01 00:00:00, numbers / total: 2 / 363, num / total percent: 0.0% / 0.0%
+Week: 2016-02-01 00:00:00, numbers / total: 2 / 147, num / total percent: 0.0% / 0.0%
+Week: 2016-02-16 00:00:00, numbers / total: 1 / 304, num / total percent: -50.0% / +106.8%
+Week: 2016-03-01 00:00:00, numbers / total: 5 / 352, num / total percent: +400.0% / +15.79%
+Week: 2016-03-16 00:00:00, numbers / total: 2 / 346, num / total percent: -60.0% / -1.7%
+Week: 2016-04-01 00:00:00, numbers / total: 2 / 287, num / total percent: 0.0% / -17.05%
+Week: 2016-04-16 00:00:00, numbers / total: 2 / 342, num / total percent: 0.0% / +19.16%
+Week: 2016-05-16 00:00:00, numbers / total: 3 / 203, num / total percent: 0.0% / 0.0%
+{'FirstWeek_Change': 1.4, 'SecWeek_TotalChange': 0.2108, 'endDate': datetime.datetime(2015, 5, 22, 0, 0), 'startDate': datetime.datetime(2015, 4, 28, 0, 0), 'res_id': 664147, 'source': u'Home_WebEduResources', 'SecWeek_Change': -0.1667, 'FirstWeek_TotalChange': 0.1216}
+===============
+ResourceSerial: 1698787, start: 2015-04-28 00:00:00, End: 2015-05-22 00:00:00
+Week: 2015-04-16 00:00:00, numbers / total: 2 / 148, num / total percent: 0.0% / 0.0%
+Week: 2015-05-01 00:00:00, numbers / total: 1 / 166, num / total percent: -50.0% / +12.16%
+{'FirstWeek_Change': -0.5, 'endDate': datetime.datetime(2015, 5, 22, 0, 0), 'startDate': datetime.datetime(2015, 4, 28, 0, 0), 'res_id': 1698787, 'source': u'Home_WebEduResources', 'FirstWeek_TotalChange': 0.1216}
+===============
+ResourceSerial: 1621574, start: 2015-04-28 00:00:00, End: 2015-05-22 00:00:00
+Week: 2015-04-16 00:00:00, numbers / total: 4 / 148, num / total percent: 0.0% / 0.0%
+Week: 2015-05-01 00:00:00, numbers / total: 11 / 166, num / total percent: +175.0% / +12.16%
+Week: 2015-05-16 00:00:00, numbers / total: 6 / 201, num / total percent: -45.45% / +21.08%
+Week: 2015-06-01 00:00:00, numbers / total: 2 / 301, num / total percent: -66.67% / +49.75%
+Week: 2015-10-01 00:00:00, numbers / total: 1 / 502, num / total percent: 0.0% / 0.0%
+Week: 2016-03-16 00:00:00, numbers / total: 1 / 346, num / total percent: 0.0% / 0.0%
+Week: 2016-04-01 00:00:00, numbers / total: 2 / 287, num / total percent: +100.0% / -17.05%
+{'FirstWeek_Change': 1.75, 'SecWeek_TotalChange': 0.2108, 'endDate': datetime.datetime(2015, 5, 22, 0, 0), 'startDate': datetime.datetime(2015, 4, 28, 0, 0), 'res_id': 1621574, 'source': u'Home_WebEduResources', 'SecWeek_Change': -0.4545, 'FirstWeek_TotalChange': 0.1216}
+===============
+ResourceSerial: 1631168, start: 2015-04-28 00:00:00, End: 2015-05-22 00:00:00
+Week: 2014-11-16 00:00:00, numbers / total: 3 / 250, num / total percent: 0.0% / 0.0%
+Week: 2015-04-16 00:00:00, numbers / total: 2 / 148, num / total percent: 0.0% / 0.0%
+Week: 2015-05-01 00:00:00, numbers / total: 2 / 166, num / total percent: 0.0% / +12.16%
+Week: 2015-10-01 00:00:00, numbers / total: 2 / 502, num / total percent: 0.0% / 0.0%
+Week: 2015-11-01 00:00:00, numbers / total: 1 / 605, num / total percent: 0.0% / 0.0%
+Week: 2015-11-16 00:00:00, numbers / total: 1 / 495, num / total percent: 0.0% / -18.18%
+Week: 2016-03-01 00:00:00, numbers / total: 1 / 352, num / total percent: 0.0% / 0.0%
+Week: 2016-05-01 00:00:00, numbers / total: 2 / 342, num / total percent: 0.0% / 0.0%
+{'FirstWeek_Change': 0.0, 'endDate': datetime.datetime(2015, 5, 22, 0, 0), 'startDate': datetime.datetime(2015, 4, 28, 0, 0), 'res_id': 1631168, 'source': u'Home_WebEduResources', 'FirstWeek_TotalChange': 0.1216}
+===============
+ResourceSerial: 1603847, start: 2015-05-23 00:00:00, End: 2015-06-23 00:00:00
+Week: 2014-11-16 00:00:00, numbers / total: 2 / 250, num / total percent: 0.0% / 0.0%
+Week: 2015-01-16 00:00:00, numbers / total: 2 / 109, num / total percent: 0.0% / 0.0%
+Week: 2015-03-01 00:00:00, numbers / total: 2 / 91, num / total percent: 0.0% / 0.0%
+Week: 2015-04-16 00:00:00, numbers / total: 2 / 148, num / total percent: 0.0% / 0.0%
+Week: 2015-05-16 00:00:00, numbers / total: 10 / 201, num / total percent: 0.0% / 0.0%
+Week: 2015-06-01 00:00:00, numbers / total: 37 / 301, num / total percent: +270.0% / +49.75%
+Week: 2015-06-16 00:00:00, numbers / total: 20 / 195, num / total percent: -45.95% / -35.22%
+Week: 2015-09-16 00:00:00, numbers / total: 2 / 722, num / total percent: 0.0% / 0.0%
+Week: 2015-10-01 00:00:00, numbers / total: 6 / 502, num / total percent: +200.0% / -30.47%
+Week: 2016-02-01 00:00:00, numbers / total: 4 / 147, num / total percent: 0.0% / 0.0%
+Week: 2016-03-16 00:00:00, numbers / total: 1 / 346, num / total percent: 0.0% / 0.0%
+{'FirstWeek_Change': 2.7, 'SecWeek_TotalChange': -0.3522, 'endDate': datetime.datetime(2015, 6, 23, 0, 0), 'startDate': datetime.datetime(2015, 5, 23, 0, 0), 'res_id': 1603847, 'source': u'Home_WebEduResources', 'SecWeek_Change': -0.4595, 'FirstWeek_TotalChange': 0.4975}
+===============
+ResourceSerial: 1603837, start: 2015-05-23 00:00:00, End: 2015-06-23 00:00:00
+Week: 2014-11-01 00:00:00, numbers / total: 1 / 156, num / total percent: 0.0% / 0.0%
+Week: 2015-05-16 00:00:00, numbers / total: 10 / 201, num / total percent: 0.0% / 0.0%
+Week: 2015-06-01 00:00:00, numbers / total: 28 / 301, num / total percent: +180.0% / +49.75%
+Week: 2015-06-16 00:00:00, numbers / total: 4 / 195, num / total percent: -85.71% / -35.22%
+Week: 2015-10-01 00:00:00, numbers / total: 1 / 502, num / total percent: 0.0% / 0.0%
+{'FirstWeek_Change': 1.8, 'SecWeek_TotalChange': -0.3522, 'endDate': datetime.datetime(2015, 6, 23, 0, 0), 'startDate': datetime.datetime(2015, 5, 23, 0, 0), 'res_id': 1603837, 'source': u'Home_WebEduResources', 'SecWeek_Change': -0.8571, 'FirstWeek_TotalChange': 0.4975}
+===============
+ResourceSerial: 1603789, start: 2015-05-23 00:00:00, End: 2015-06-23 00:00:00
+Week: 2015-05-16 00:00:00, numbers / total: 5 / 201, num / total percent: 0.0% / 0.0%
+Week: 2015-06-01 00:00:00, numbers / total: 14 / 301, num / total percent: +180.0% / +49.75%
+Week: 2015-06-16 00:00:00, numbers / total: 1 / 195, num / total percent: -92.86% / -35.22%
+Week: 2015-11-16 00:00:00, numbers / total: 2 / 495, num / total percent: 0.0% / 0.0%
+Week: 2015-12-16 00:00:00, numbers / total: 1 / 330, num / total percent: 0.0% / 0.0%
+Week: 2016-02-16 00:00:00, numbers / total: 2 / 304, num / total percent: 0.0% / 0.0%
+{'FirstWeek_Change': 1.8, 'SecWeek_TotalChange': -0.3522, 'endDate': datetime.datetime(2015, 6, 23, 0, 0), 'startDate': datetime.datetime(2015, 5, 23, 0, 0), 'res_id': 1603789, 'source': u'Home_WebEduResources', 'SecWeek_Change': -0.9286, 'FirstWeek_TotalChange': 0.4975}
+===============
+ResourceSerial: 1632349, start: 2015-05-23 00:00:00, End: 2015-06-23 00:00:00
+Week: 2014-11-16 00:00:00, numbers / total: 3 / 250, num / total percent: 0.0% / 0.0%
+Week: 2015-05-16 00:00:00, numbers / total: 5 / 201, num / total percent: 0.0% / 0.0%
+Week: 2015-06-01 00:00:00, numbers / total: 29 / 301, num / total percent: +480.0% / +49.75%
+Week: 2015-06-16 00:00:00, numbers / total: 8 / 195, num / total percent: -72.41% / -35.22%
+Week: 2015-07-01 00:00:00, numbers / total: 2 / 241, num / total percent: -75.0% / +23.59%
+Week: 2015-09-01 00:00:00, numbers / total: 1 / 445, num / total percent: 0.0% / 0.0%
+Week: 2015-09-16 00:00:00, numbers / total: 13 / 722, num / total percent: +1200.0% / +62.25%
+Week: 2015-10-01 00:00:00, numbers / total: 12 / 502, num / total percent: -7.69% / -30.47%
+Week: 2015-10-16 00:00:00, numbers / total: 2 / 490, num / total percent: -83.33% / -2.39%
+Week: 2015-11-01 00:00:00, numbers / total: 2 / 605, num / total percent: 0.0% / +23.47%
+Week: 2015-12-16 00:00:00, numbers / total: 6 / 330, num / total percent: 0.0% / 0.0%
+Week: 2016-01-01 00:00:00, numbers / total: 2 / 363, num / total percent: -66.67% / +10.0%
+Week: 2016-02-01 00:00:00, numbers / total: 2 / 147, num / total percent: 0.0% / 0.0%
+Week: 2016-02-16 00:00:00, numbers / total: 3 / 304, num / total percent: +50.0% / +106.8%
+Week: 2016-04-16 00:00:00, numbers / total: 2 / 342, num / total percent: 0.0% / 0.0%
+Week: 2016-05-01 00:00:00, numbers / total: 3 / 342, num / total percent: +50.0% / 0.0%
+Week: 2016-05-16 00:00:00, numbers / total: 1 / 203, num / total percent: -66.67% / -40.64%
+{'FirstWeek_Change': 4.8, 'SecWeek_TotalChange': -0.3522, 'endDate': datetime.datetime(2015, 6, 23, 0, 0), 'startDate': datetime.datetime(2015, 5, 23, 0, 0), 'res_id': 1632349, 'source': u'Home_WebEduResources', 'SecWeek_Change': -0.7241, 'FirstWeek_TotalChange': 0.4975}
+===============
+ResourceSerial: 611831, start: 2015-05-23 00:00:00, End: 2015-06-23 00:00:00
+Week: 2014-11-01 00:00:00, numbers / total: 2 / 156, num / total percent: 0.0% / 0.0%
+Week: 2014-11-16 00:00:00, numbers / total: 2 / 250, num / total percent: 0.0% / +60.26%
+Week: 2015-05-16 00:00:00, numbers / total: 7 / 201, num / total percent: 0.0% / 0.0%
+Week: 2015-06-01 00:00:00, numbers / total: 9 / 301, num / total percent: +28.57% / +49.75%
+Week: 2015-06-16 00:00:00, numbers / total: 8 / 195, num / total percent: -11.11% / -35.22%
+Week: 2015-07-01 00:00:00, numbers / total: 4 / 241, num / total percent: -50.0% / +23.59%
+Week: 2015-08-16 00:00:00, numbers / total: 2 / 362, num / total percent: 0.0% / 0.0%
+Week: 2015-12-16 00:00:00, numbers / total: 3 / 330, num / total percent: 0.0% / 0.0%
+Week: 2016-01-01 00:00:00, numbers / total: 2 / 363, num / total percent: -33.33% / +10.0%
+Week: 2016-01-16 00:00:00, numbers / total: 2 / 201, num / total percent: 0.0% / -44.63%
+Week: 2016-02-01 00:00:00, numbers / total: 2 / 147, num / total percent: 0.0% / -26.87%
+Week: 2016-03-16 00:00:00, numbers / total: 4 / 346, num / total percent: 0.0% / 0.0%
+{'FirstWeek_Change': 0.2857, 'SecWeek_TotalChange': -0.3522, 'endDate': datetime.datetime(2015, 6, 23, 0, 0), 'startDate': datetime.datetime(2015, 5, 23, 0, 0), 'res_id': 611831, 'source': u'Home_WebEduResources', 'SecWeek_Change': -0.1111, 'FirstWeek_TotalChange': 0.4975}
+===============
+ResourceSerial: 1666312, start: 2015-05-23 00:00:00, End: 2015-06-23 00:00:00
+Week: 2014-11-16 00:00:00, numbers / total: 2 / 250, num / total percent: 0.0% / 0.0%
+Week: 2015-05-16 00:00:00, numbers / total: 4 / 201, num / total percent: 0.0% / 0.0%
+Week: 2015-06-01 00:00:00, numbers / total: 16 / 301, num / total percent: +300.0% / +49.75%
+Week: 2015-06-16 00:00:00, numbers / total: 5 / 195, num / total percent: -68.75% / -35.22%
+Week: 2015-07-01 00:00:00, numbers / total: 2 / 241, num / total percent: -60.0% / +23.59%
+Week: 2015-09-16 00:00:00, numbers / total: 4 / 722, num / total percent: 0.0% / 0.0%
+Week: 2015-10-16 00:00:00, numbers / total: 1 / 490, num / total percent: 0.0% / 0.0%
+Week: 2016-01-01 00:00:00, numbers / total: 2 / 363, num / total percent: 0.0% / 0.0%
+Week: 2016-02-01 00:00:00, numbers / total: 2 / 147, num / total percent: 0.0% / 0.0%
+Week: 2016-03-16 00:00:00, numbers / total: 2 / 346, num / total percent: 0.0% / 0.0%
+{'FirstWeek_Change': 3.0, 'SecWeek_TotalChange': -0.3522, 'endDate': datetime.datetime(2015, 6, 23, 0, 0), 'startDate': datetime.datetime(2015, 5, 23, 0, 0), 'res_id': 1666312, 'source': u'Home_WebEduResources', 'SecWeek_Change': -0.6875, 'FirstWeek_TotalChange': 0.4975}
+===============
+ResourceSerial: 1664317, start: 2015-05-23 00:00:00, End: 2015-06-23 00:00:00
+Week: 2015-05-16 00:00:00, numbers / total: 3 / 201, num / total percent: 0.0% / 0.0%
+Week: 2015-06-01 00:00:00, numbers / total: 11 / 301, num / total percent: +266.67% / +49.75%
+Week: 2015-06-16 00:00:00, numbers / total: 2 / 195, num / total percent: -81.82% / -35.22%
+Week: 2015-12-16 00:00:00, numbers / total: 2 / 330, num / total percent: 0.0% / 0.0%
+Week: 2016-01-16 00:00:00, numbers / total: 4 / 201, num / total percent: 0.0% / 0.0%
+{'FirstWeek_Change': 2.6667, 'SecWeek_TotalChange': -0.3522, 'endDate': datetime.datetime(2015, 6, 23, 0, 0), 'startDate': datetime.datetime(2015, 5, 23, 0, 0), 'res_id': 1664317, 'source': u'Home_WebEduResources', 'SecWeek_Change': -0.8182, 'FirstWeek_TotalChange': 0.4975}
+===============
+ResourceSerial: 1593761, start: 2015-05-23 00:00:00, End: 2015-06-23 00:00:00
+Week: 2015-05-16 00:00:00, numbers / total: 2 / 201, num / total percent: 0.0% / 0.0%
+Week: 2015-06-01 00:00:00, numbers / total: 17 / 301, num / total percent: +750.0% / +49.75%
+Week: 2015-09-16 00:00:00, numbers / total: 1 / 722, num / total percent: 0.0% / 0.0%
+Week: 2015-11-16 00:00:00, numbers / total: 1 / 495, num / total percent: 0.0% / 0.0%
+Week: 2015-12-01 00:00:00, numbers / total: 2 / 377, num / total percent: +100.0% / -23.84%
+Week: 2016-01-16 00:00:00, numbers / total: 2 / 201, num / total percent: 0.0% / 0.0%
+Week: 2016-04-01 00:00:00, numbers / total: 2 / 287, num / total percent: 0.0% / 0.0%
+Week: 2016-04-16 00:00:00, numbers / total: 1 / 342, num / total percent: -50.0% / +19.16%
+{'FirstWeek_Change': 7.5, 'endDate': datetime.datetime(2015, 6, 23, 0, 0), 'startDate': datetime.datetime(2015, 5, 23, 0, 0), 'res_id': 1593761, 'source': u'Home_WebEduResources', 'FirstWeek_TotalChange': 0.4975}
+===============
+ResourceSerial: 1594391, start: 2015-05-23 00:00:00, End: 2015-06-23 00:00:00
+Week: 2015-05-16 00:00:00, numbers / total: 3 / 201, num / total percent: 0.0% / 0.0%
+Week: 2015-06-01 00:00:00, numbers / total: 10 / 301, num / total percent: +233.33% / +49.75%
+Week: 2016-01-01 00:00:00, numbers / total: 2 / 363, num / total percent: 0.0% / 0.0%
+{'FirstWeek_Change': 2.3333, 'endDate': datetime.datetime(2015, 6, 23, 0, 0), 'startDate': datetime.datetime(2015, 5, 23, 0, 0), 'res_id': 1594391, 'source': u'Home_WebEduResources', 'FirstWeek_TotalChange': 0.4975}
+===============
+ResourceSerial: 1633360, start: 2015-05-23 00:00:00, End: 2015-06-23 00:00:00
+Week: 2014-12-01 00:00:00, numbers / total: 1 / 280, num / total percent: 0.0% / 0.0%
+Week: 2014-12-16 00:00:00, numbers / total: 2 / 149, num / total percent: +100.0% / -46.79%
+Week: 2015-05-16 00:00:00, numbers / total: 2 / 201, num / total percent: 0.0% / 0.0%
+Week: 2015-06-01 00:00:00, numbers / total: 16 / 301, num / total percent: +700.0% / +49.75%
+Week: 2015-06-16 00:00:00, numbers / total: 2 / 195, num / total percent: -87.5% / -35.22%
+Week: 2015-09-16 00:00:00, numbers / total: 1 / 722, num / total percent: 0.0% / 0.0%
+Week: 2015-10-16 00:00:00, numbers / total: 2 / 490, num / total percent: 0.0% / 0.0%
+Week: 2015-11-01 00:00:00, numbers / total: 2 / 605, num / total percent: 0.0% / +23.47%
+Week: 2015-12-01 00:00:00, numbers / total: 3 / 377, num / total percent: 0.0% / 0.0%
+Week: 2015-12-16 00:00:00, numbers / total: 1 / 330, num / total percent: -66.67% / -12.47%
+Week: 2016-05-01 00:00:00, numbers / total: 1 / 342, num / total percent: 0.0% / 0.0%
+{'FirstWeek_Change': 7.0, 'SecWeek_TotalChange': -0.3522, 'endDate': datetime.datetime(2015, 6, 23, 0, 0), 'startDate': datetime.datetime(2015, 5, 23, 0, 0), 'res_id': 1633360, 'source': u'Home_WebEduResources', 'SecWeek_Change': -0.875, 'FirstWeek_TotalChange': 0.4975}
+===============
+ResourceSerial: 1603781, start: 2015-06-11 00:00:00, End: 2015-07-21 00:00:00
+Week: 2015-05-01 00:00:00, numbers / total: 1 / 166, num / total percent: 0.0% / 0.0%
+Week: 2015-05-16 00:00:00, numbers / total: 1 / 201, num / total percent: 0.0% / +21.08%
+Week: 2015-06-01 00:00:00, numbers / total: 9 / 301, num / total percent: +800.0% / +49.75%
+Week: 2015-06-16 00:00:00, numbers / total: 10 / 195, num / total percent: +11.11% / -35.22%
+Week: 2015-07-01 00:00:00, numbers / total: 33 / 241, num / total percent: +230.0% / +23.59%
+Week: 2015-07-16 00:00:00, numbers / total: 8 / 256, num / total percent: -75.76% / +6.22%
+Week: 2015-11-16 00:00:00, numbers / total: 2 / 495, num / total percent: 0.0% / 0.0%
+Week: 2016-01-01 00:00:00, numbers / total: 1 / 363, num / total percent: 0.0% / 0.0%
+Week: 2016-02-01 00:00:00, numbers / total: 1 / 147, num / total percent: 0.0% / 0.0%
+Week: 2016-02-16 00:00:00, numbers / total: 1 / 304, num / total percent: 0.0% / +106.8%
+Week: 2016-03-16 00:00:00, numbers / total: 1 / 346, num / total percent: 0.0% / 0.0%
+Week: 2016-04-01 00:00:00, numbers / total: 1 / 287, num / total percent: 0.0% / -17.05%
+Week: 2016-04-16 00:00:00, numbers / total: 4 / 342, num / total percent: +300.0% / +19.16%
+Week: 2016-05-16 00:00:00, numbers / total: 1 / 203, num / total percent: 0.0% / 0.0%
+{'FirstWeek_Change': 0.1111, 'SecWeek_TotalChange': 0.2359, 'endDate': datetime.datetime(2015, 7, 21, 0, 0), 'startDate': datetime.datetime(2015, 6, 11, 0, 0), 'res_id': 1603781, 'source': u'Home_WebEduResources', 'SecWeek_Change': 2.3, 'FirstWeek_TotalChange': -0.3522}
+===============
+ResourceSerial: 1603829, start: 2015-06-11 00:00:00, End: 2015-07-21 00:00:00
+Week: 2015-05-16 00:00:00, numbers / total: 2 / 201, num / total percent: 0.0% / 0.0%
+Week: 2015-06-16 00:00:00, numbers / total: 1 / 195, num / total percent: 0.0% / 0.0%
+Week: 2015-07-01 00:00:00, numbers / total: 7 / 241, num / total percent: +600.0% / +23.59%
+Week: 2015-07-16 00:00:00, numbers / total: 9 / 256, num / total percent: +28.57% / +6.22%
+Week: 2016-03-16 00:00:00, numbers / total: 2 / 346, num / total percent: 0.0% / 0.0%
+Week: 2016-05-16 00:00:00, numbers / total: 7 / 203, num / total percent: 0.0% / 0.0%
+{'FirstWeek_Change': 0.0, 'SecWeek_TotalChange': 0.2359, 'endDate': datetime.datetime(2015, 7, 21, 0, 0), 'startDate': datetime.datetime(2015, 6, 11, 0, 0), 'res_id': 1603829, 'source': u'Home_WebEduResources', 'SecWeek_Change': 6.0, 'FirstWeek_TotalChange': 0.0}
+===============
+ResourceSerial: 1701949, start: 2015-06-11 00:00:00, End: 2015-07-21 00:00:00
+Week: 2015-05-16 00:00:00, numbers / total: 2 / 201, num / total percent: 0.0% / 0.0%
+Week: 2015-06-16 00:00:00, numbers / total: 3 / 195, num / total percent: 0.0% / 0.0%
+Week: 2015-07-01 00:00:00, numbers / total: 11 / 241, num / total percent: +266.67% / +23.59%
+{'FirstWeek_Change': 0.0, 'SecWeek_TotalChange': 0.2359, 'endDate': datetime.datetime(2015, 7, 21, 0, 0), 'startDate': datetime.datetime(2015, 6, 11, 0, 0), 'res_id': 1701949, 'source': u'Home_WebEduResources', 'SecWeek_Change': 2.6667, 'FirstWeek_TotalChange': 0.0}
+===============
+ResourceSerial: 1702160, start: 2015-06-24 00:00:00, End: 2015-07-21 00:00:00
+Week: 2015-06-16 00:00:00, numbers / total: 5 / 195, num / total percent: 0.0% / 0.0%
+Week: 2015-07-01 00:00:00, numbers / total: 14 / 241, num / total percent: +180.0% / +23.59%
+Week: 2015-07-16 00:00:00, numbers / total: 2 / 256, num / total percent: -85.71% / +6.22%
+{'FirstWeek_Change': 1.8, 'SecWeek_TotalChange': 0.0622, 'endDate': datetime.datetime(2015, 7, 21, 0, 0), 'startDate': datetime.datetime(2015, 6, 24, 0, 0), 'res_id': 1702160, 'source': u'Home_WebEduResources', 'SecWeek_Change': -0.8571, 'FirstWeek_TotalChange': 0.2359}
+===============
+ResourceSerial: 1636289, start: 2015-06-24 00:00:00, End: 2015-07-21 00:00:00
+Week: 2015-05-16 00:00:00, numbers / total: 1 / 201, num / total percent: 0.0% / 0.0%
+Week: 2015-06-16 00:00:00, numbers / total: 5 / 195, num / total percent: 0.0% / 0.0%
+Week: 2015-07-01 00:00:00, numbers / total: 5 / 241, num / total percent: 0.0% / +23.59%
+Week: 2015-07-16 00:00:00, numbers / total: 3 / 256, num / total percent: -40.0% / +6.22%
+Week: 2015-09-01 00:00:00, numbers / total: 5 / 445, num / total percent: 0.0% / 0.0%
+Week: 2015-09-16 00:00:00, numbers / total: 3 / 722, num / total percent: -40.0% / +62.25%
+Week: 2016-03-16 00:00:00, numbers / total: 2 / 346, num / total percent: 0.0% / 0.0%
+Week: 2016-04-01 00:00:00, numbers / total: 2 / 287, num / total percent: 0.0% / -17.05%
+{'FirstWeek_Change': 0.0, 'SecWeek_TotalChange': 0.0622, 'endDate': datetime.datetime(2015, 7, 21, 0, 0), 'startDate': datetime.datetime(2015, 6, 24, 0, 0), 'res_id': 1636289, 'source': u'Home_WebEduResources', 'SecWeek_Change': -0.4, 'FirstWeek_TotalChange': 0.2359}
+===============
+ResourceSerial: 217336, start: 2015-06-24 00:00:00, End: 2015-07-21 00:00:00
+Week: 2015-06-16 00:00:00, numbers / total: 4 / 195, num / total percent: 0.0% / 0.0%
+Week: 2015-07-01 00:00:00, numbers / total: 7 / 241, num / total percent: +75.0% / +23.59%
+Week: 2015-09-01 00:00:00, numbers / total: 2 / 445, num / total percent: 0.0% / 0.0%
+Week: 2016-04-01 00:00:00, numbers / total: 1 / 287, num / total percent: 0.0% / 0.0%
+{'FirstWeek_Change': 0.75, 'endDate': datetime.datetime(2015, 7, 21, 0, 0), 'startDate': datetime.datetime(2015, 6, 24, 0, 0), 'res_id': 217336, 'source': u'Home_WebEduResources', 'FirstWeek_TotalChange': 0.2359}
+===============
+ResourceSerial: 1662209, start: 2015-06-24 00:00:00, End: 2015-07-21 00:00:00
+Week: 2015-06-16 00:00:00, numbers / total: 6 / 195, num / total percent: 0.0% / 0.0%
+Week: 2015-07-01 00:00:00, numbers / total: 8 / 241, num / total percent: +33.33% / +23.59%
+Week: 2015-07-16 00:00:00, numbers / total: 2 / 256, num / total percent: -75.0% / +6.22%
+Week: 2015-08-16 00:00:00, numbers / total: 2 / 362, num / total percent: 0.0% / 0.0%
+Week: 2015-09-01 00:00:00, numbers / total: 2 / 445, num / total percent: 0.0% / +22.93%
+Week: 2015-10-01 00:00:00, numbers / total: 3 / 502, num / total percent: 0.0% / 0.0%
+Week: 2015-11-16 00:00:00, numbers / total: 2 / 495, num / total percent: 0.0% / 0.0%
+Week: 2015-12-16 00:00:00, numbers / total: 2 / 330, num / total percent: 0.0% / 0.0%
+Week: 2016-01-16 00:00:00, numbers / total: 1 / 201, num / total percent: 0.0% / 0.0%
+Week: 2016-04-16 00:00:00, numbers / total: 2 / 342, num / total percent: 0.0% / 0.0%
+{'FirstWeek_Change': 0.3333, 'SecWeek_TotalChange': 0.0622, 'endDate': datetime.datetime(2015, 7, 21, 0, 0), 'startDate': datetime.datetime(2015, 6, 24, 0, 0), 'res_id': 1662209, 'source': u'Home_WebEduResources', 'SecWeek_Change': -0.75, 'FirstWeek_TotalChange': 0.2359}
+===============
+ResourceSerial: 1667681, start: 2015-06-24 00:00:00, End: 2015-07-21 00:00:00
+Week: 2014-12-01 00:00:00, numbers / total: 3 / 280, num / total percent: 0.0% / 0.0%
+Week: 2015-01-01 00:00:00, numbers / total: 5 / 56, num / total percent: 0.0% / 0.0%
+Week: 2015-03-01 00:00:00, numbers / total: 2 / 91, num / total percent: 0.0% / 0.0%
+Week: 2015-06-16 00:00:00, numbers / total: 5 / 195, num / total percent: 0.0% / 0.0%
+Week: 2015-07-01 00:00:00, numbers / total: 11 / 241, num / total percent: +120.0% / +23.59%
+Week: 2015-07-16 00:00:00, numbers / total: 1 / 256, num / total percent: -90.91% / +6.22%
+Week: 2015-09-16 00:00:00, numbers / total: 9 / 722, num / total percent: 0.0% / 0.0%
+Week: 2015-10-01 00:00:00, numbers / total: 2 / 502, num / total percent: -77.78% / -30.47%
+Week: 2015-12-01 00:00:00, numbers / total: 2 / 377, num / total percent: 0.0% / 0.0%
+Week: 2016-04-16 00:00:00, numbers / total: 1 / 342, num / total percent: 0.0% / 0.0%
+{'FirstWeek_Change': 1.2, 'SecWeek_TotalChange': 0.0622, 'endDate': datetime.datetime(2015, 7, 21, 0, 0), 'startDate': datetime.datetime(2015, 6, 24, 0, 0), 'res_id': 1667681, 'source': u'Home_WebEduResources', 'SecWeek_Change': -0.9091, 'FirstWeek_TotalChange': 0.2359}
+===============
+ResourceSerial: 1714912, start: 2015-06-24 00:00:00, End: 2015-07-21 00:00:00
+Week: 2015-06-16 00:00:00, numbers / total: 2 / 195, num / total percent: 0.0% / 0.0%
+Week: 2015-07-01 00:00:00, numbers / total: 3 / 241, num / total percent: +50.0% / +23.59%
+Week: 2015-07-16 00:00:00, numbers / total: 1 / 256, num / total percent: -66.67% / +6.22%
+{'FirstWeek_Change': 0.5, 'SecWeek_TotalChange': 0.0622, 'endDate': datetime.datetime(2015, 7, 21, 0, 0), 'startDate': datetime.datetime(2015, 6, 24, 0, 0), 'res_id': 1714912, 'source': u'Home_WebEduResources', 'SecWeek_Change': -0.6667, 'FirstWeek_TotalChange': 0.2359}
+===============
+ResourceSerial: 1582936, start: 2015-06-24 00:00:00, End: 2015-07-21 00:00:00
+Week: 2015-06-16 00:00:00, numbers / total: 2 / 195, num / total percent: 0.0% / 0.0%
+Week: 2015-07-01 00:00:00, numbers / total: 1 / 241, num / total percent: -50.0% / +23.59%
+{'FirstWeek_Change': -0.5, 'endDate': datetime.datetime(2015, 7, 21, 0, 0), 'startDate': datetime.datetime(2015, 6, 24, 0, 0), 'res_id': 1582936, 'source': u'Home_WebEduResources', 'FirstWeek_TotalChange': 0.2359}
+===============
+ResourceSerial: 1603785, start: 2015-07-22 00:00:00, End: 2015-08-21 00:00:00
+Week: 2015-05-16 00:00:00, numbers / total: 1 / 201, num / total percent: 0.0% / 0.0%
+Week: 2015-07-16 00:00:00, numbers / total: 13 / 256, num / total percent: 0.0% / 0.0%
+Week: 2015-08-01 00:00:00, numbers / total: 21 / 196, num / total percent: +61.54% / -23.44%
+Week: 2015-08-16 00:00:00, numbers / total: 10 / 362, num / total percent: -52.38% / +84.69%
+Week: 2016-01-01 00:00:00, numbers / total: 2 / 363, num / total percent: 0.0% / 0.0%
+Week: 2016-01-16 00:00:00, numbers / total: 1 / 201, num / total percent: -50.0% / -44.63%
+Week: 2016-02-16 00:00:00, numbers / total: 1 / 304, num / total percent: 0.0% / 0.0%
+Week: 2016-04-16 00:00:00, numbers / total: 1 / 342, num / total percent: 0.0% / 0.0%
+{'FirstWeek_Change': 0.6154, 'SecWeek_TotalChange': 0.8469, 'endDate': datetime.datetime(2015, 8, 21, 0, 0), 'startDate': datetime.datetime(2015, 7, 22, 0, 0), 'res_id': 1603785, 'source': u'Home_WebEduResources', 'SecWeek_Change': -0.5238, 'FirstWeek_TotalChange': -0.2344}
+===============
+ResourceSerial: 1603864, start: 2015-07-22 00:00:00, End: 2015-08-21 00:00:00
+Week: 2015-05-16 00:00:00, numbers / total: 1 / 201, num / total percent: 0.0% / 0.0%
+Week: 2015-07-16 00:00:00, numbers / total: 17 / 256, num / total percent: 0.0% / 0.0%
+Week: 2015-08-01 00:00:00, numbers / total: 20 / 196, num / total percent: +17.65% / -23.44%
+Week: 2015-08-16 00:00:00, numbers / total: 5 / 362, num / total percent: -75.0% / +84.69%
+Week: 2015-10-16 00:00:00, numbers / total: 1 / 490, num / total percent: 0.0% / 0.0%
+Week: 2015-11-01 00:00:00, numbers / total: 1 / 605, num / total percent: 0.0% / +23.47%
+Week: 2016-03-16 00:00:00, numbers / total: 8 / 346, num / total percent: 0.0% / 0.0%
+Week: 2016-04-01 00:00:00, numbers / total: 1 / 287, num / total percent: -87.5% / -17.05%
+Week: 2016-04-16 00:00:00, numbers / total: 1 / 342, num / total percent: 0.0% / +19.16%
+{'FirstWeek_Change': 0.1765, 'SecWeek_TotalChange': 0.8469, 'endDate': datetime.datetime(2015, 8, 21, 0, 0), 'startDate': datetime.datetime(2015, 7, 22, 0, 0), 'res_id': 1603864, 'source': u'Home_WebEduResources', 'SecWeek_Change': -0.75, 'FirstWeek_TotalChange': -0.2344}
+===============
+ResourceSerial: 1603760, start: 2015-07-22 00:00:00, End: 2015-08-21 00:00:00
+Week: 2014-11-01 00:00:00, numbers / total: 2 / 156, num / total percent: 0.0% / 0.0%
+Week: 2015-02-01 00:00:00, numbers / total: 4 / 106, num / total percent: 0.0% / 0.0%
+Week: 2015-05-16 00:00:00, numbers / total: 2 / 201, num / total percent: 0.0% / 0.0%
+Week: 2015-07-16 00:00:00, numbers / total: 8 / 256, num / total percent: 0.0% / 0.0%
+Week: 2015-08-01 00:00:00, numbers / total: 12 / 196, num / total percent: +50.0% / -23.44%
+Week: 2015-08-16 00:00:00, numbers / total: 6 / 362, num / total percent: -50.0% / +84.69%
+Week: 2015-12-01 00:00:00, numbers / total: 2 / 377, num / total percent: 0.0% / 0.0%
+Week: 2016-01-16 00:00:00, numbers / total: 2 / 201, num / total percent: 0.0% / 0.0%
+Week: 2016-02-01 00:00:00, numbers / total: 2 / 147, num / total percent: 0.0% / -26.87%
+Week: 2016-04-01 00:00:00, numbers / total: 1 / 287, num / total percent: 0.0% / 0.0%
+Week: 2016-05-01 00:00:00, numbers / total: 2 / 342, num / total percent: 0.0% / 0.0%
+{'FirstWeek_Change': 0.5, 'SecWeek_TotalChange': 0.8469, 'endDate': datetime.datetime(2015, 8, 21, 0, 0), 'startDate': datetime.datetime(2015, 7, 22, 0, 0), 'res_id': 1603760, 'source': u'Home_WebEduResources', 'SecWeek_Change': -0.5, 'FirstWeek_TotalChange': -0.2344}
+===============
+ResourceSerial: 1700295, start: 2015-07-22 00:00:00, End: 2015-08-21 00:00:00
+Week: 2015-07-16 00:00:00, numbers / total: 2 / 256, num / total percent: 0.0% / 0.0%
+Week: 2015-08-01 00:00:00, numbers / total: 5 / 196, num / total percent: +150.0% / -23.44%
+{'FirstWeek_Change': 1.5, 'endDate': datetime.datetime(2015, 8, 21, 0, 0), 'startDate': datetime.datetime(2015, 7, 22, 0, 0), 'res_id': 1700295, 'source': u'Home_WebEduResources', 'FirstWeek_TotalChange': -0.2344}
+===============
+ResourceSerial: 1698973, start: 2015-07-22 00:00:00, End: 2015-08-21 00:00:00
+Week: 2015-07-16 00:00:00, numbers / total: 3 / 256, num / total percent: 0.0% / 0.0%
+Week: 2015-08-01 00:00:00, numbers / total: 1 / 196, num / total percent: -66.67% / -23.44%
+Week: 2015-08-16 00:00:00, numbers / total: 1 / 362, num / total percent: 0.0% / +84.69%
+{'FirstWeek_Change': -0.6667, 'SecWeek_TotalChange': 0.8469, 'endDate': datetime.datetime(2015, 8, 21, 0, 0), 'startDate': datetime.datetime(2015, 7, 22, 0, 0), 'res_id': 1698973, 'source': u'Home_WebEduResources', 'SecWeek_Change': 0.0, 'FirstWeek_TotalChange': -0.2344}
+===============
+ResourceSerial: 1610943, start: 2015-07-22 00:00:00, End: 2015-08-21 00:00:00
+Week: 2014-11-16 00:00:00, numbers / total: 4 / 250, num / total percent: 0.0% / 0.0%
+Week: 2015-02-01 00:00:00, numbers / total: 4 / 106, num / total percent: 0.0% / 0.0%
+Week: 2015-03-16 00:00:00, numbers / total: 8 / 169, num / total percent: 0.0% / 0.0%
+Week: 2015-04-01 00:00:00, numbers / total: 22 / 106, num / total percent: +175.0% / -37.28%
+Week: 2015-04-16 00:00:00, numbers / total: 6 / 148, num / total percent: -72.73% / +39.62%
+Week: 2015-05-01 00:00:00, numbers / total: 3 / 166, num / total percent: -50.0% / +12.16%
+Week: 2015-06-01 00:00:00, numbers / total: 2 / 301, num / total percent: 0.0% / 0.0%
+Week: 2015-06-16 00:00:00, numbers / total: 1 / 195, num / total percent: -50.0% / -35.22%
+Week: 2015-07-16 00:00:00, numbers / total: 11 / 256, num / total percent: 0.0% / 0.0%
+Week: 2015-08-01 00:00:00, numbers / total: 13 / 196, num / total percent: +18.18% / -23.44%
+Week: 2015-08-16 00:00:00, numbers / total: 8 / 362, num / total percent: -38.46% / +84.69%
+Week: 2015-11-16 00:00:00, numbers / total: 3 / 495, num / total percent: 0.0% / 0.0%
+Week: 2016-02-16 00:00:00, numbers / total: 3 / 304, num / total percent: 0.0% / 0.0%
+Week: 2016-03-16 00:00:00, numbers / total: 2 / 346, num / total percent: 0.0% / 0.0%
+Week: 2016-04-01 00:00:00, numbers / total: 4 / 287, num / total percent: +100.0% / -17.05%
+Week: 2016-04-16 00:00:00, numbers / total: 5 / 342, num / total percent: +25.0% / +19.16%
+Week: 2016-05-01 00:00:00, numbers / total: 6 / 342, num / total percent: +20.0% / 0.0%
+Week: 2016-05-16 00:00:00, numbers / total: 1 / 203, num / total percent: -83.33% / -40.64%
+{'FirstWeek_Change': 0.1818, 'SecWeek_TotalChange': 0.8469, 'endDate': datetime.datetime(2015, 8, 21, 0, 0), 'startDate': datetime.datetime(2015, 7, 22, 0, 0), 'res_id': 1610943, 'source': u'Home_WebEduResources', 'SecWeek_Change': -0.3846, 'FirstWeek_TotalChange': -0.2344}
+===============
+ResourceSerial: 1633359, start: 2015-07-22 00:00:00, End: 2015-08-20 00:00:00
+Week: 2014-11-16 00:00:00, numbers / total: 2 / 250, num / total percent: 0.0% / 0.0%
+Week: 2015-01-01 00:00:00, numbers / total: 1 / 56, num / total percent: 0.0% / 0.0%
+Week: 2015-01-16 00:00:00, numbers / total: 4 / 109, num / total percent: +300.0% / +94.64%
+Week: 2015-03-16 00:00:00, numbers / total: 3 / 169, num / total percent: 0.0% / 0.0%
+Week: 2015-04-01 00:00:00, numbers / total: 4 / 106, num / total percent: +33.33% / -37.28%
+Week: 2015-07-16 00:00:00, numbers / total: 22 / 256, num / total percent: 0.0% / 0.0%
+Week: 2015-08-01 00:00:00, numbers / total: 18 / 196, num / total percent: -18.18% / -23.44%
+Week: 2015-08-16 00:00:00, numbers / total: 3 / 362, num / total percent: -83.33% / +84.69%
+Week: 2015-09-16 00:00:00, numbers / total: 1 / 722, num / total percent: 0.0% / 0.0%
+Week: 2015-10-16 00:00:00, numbers / total: 6 / 490, num / total percent: 0.0% / 0.0%
+Week: 2016-01-16 00:00:00, numbers / total: 4 / 201, num / total percent: 0.0% / 0.0%
+Week: 2016-02-01 00:00:00, numbers / total: 2 / 147, num / total percent: -50.0% / -26.87%
+Week: 2016-04-16 00:00:00, numbers / total: 4 / 342, num / total percent: 0.0% / 0.0%
+Week: 2016-05-01 00:00:00, numbers / total: 2 / 342, num / total percent: -50.0% / 0.0%
+Week: 2016-05-16 00:00:00, numbers / total: 2 / 203, num / total percent: 0.0% / -40.64%
+{'FirstWeek_Change': -0.1818, 'SecWeek_TotalChange': 0.8469, 'endDate': datetime.datetime(2015, 8, 20, 0, 0), 'startDate': datetime.datetime(2015, 7, 22, 0, 0), 'res_id': 1633359, 'source': u'Home_WebEduResources', 'SecWeek_Change': -0.8333, 'FirstWeek_TotalChange': -0.2344}
+===============
+ResourceSerial: 141844, start: 2015-07-22 00:00:00, End: 2015-08-20 00:00:00
+Week: 2014-11-16 00:00:00, numbers / total: 3 / 250, num / total percent: 0.0% / 0.0%
+Week: 2014-12-16 00:00:00, numbers / total: 1 / 149, num / total percent: 0.0% / 0.0%
+Week: 2015-05-16 00:00:00, numbers / total: 4 / 201, num / total percent: 0.0% / 0.0%
+Week: 2015-06-16 00:00:00, numbers / total: 2 / 195, num / total percent: 0.0% / 0.0%
+Week: 2015-07-16 00:00:00, numbers / total: 20 / 256, num / total percent: 0.0% / 0.0%
+Week: 2015-08-01 00:00:00, numbers / total: 43 / 196, num / total percent: +115.0% / -23.44%
+Week: 2015-08-16 00:00:00, numbers / total: 15 / 362, num / total percent: -65.12% / +84.69%
+Week: 2015-09-01 00:00:00, numbers / total: 6 / 445, num / total percent: -60.0% / +22.93%
+Week: 2015-09-16 00:00:00, numbers / total: 2 / 722, num / total percent: -66.67% / +62.25%
+Week: 2015-10-01 00:00:00, numbers / total: 6 / 502, num / total percent: +200.0% / -30.47%
+Week: 2015-10-16 00:00:00, numbers / total: 1 / 490, num / total percent: -83.33% / -2.39%
+Week: 2015-11-01 00:00:00, numbers / total: 11 / 605, num / total percent: +1000.0% / +23.47%
+Week: 2015-11-16 00:00:00, numbers / total: 1 / 495, num / total percent: -90.91% / -18.18%
+Week: 2015-12-01 00:00:00, numbers / total: 2 / 377, num / total percent: +100.0% / -23.84%
+Week: 2015-12-16 00:00:00, numbers / total: 2 / 330, num / total percent: 0.0% / -12.47%
+Week: 2016-01-01 00:00:00, numbers / total: 3 / 363, num / total percent: +50.0% / +10.0%
+Week: 2016-01-16 00:00:00, numbers / total: 1 / 201, num / total percent: -66.67% / -44.63%
+Week: 2016-02-01 00:00:00, numbers / total: 2 / 147, num / total percent: +100.0% / -26.87%
+Week: 2016-03-16 00:00:00, numbers / total: 8 / 346, num / total percent: 0.0% / 0.0%
+Week: 2016-04-01 00:00:00, numbers / total: 2 / 287, num / total percent: -75.0% / -17.05%
+Week: 2016-05-01 00:00:00, numbers / total: 3 / 342, num / total percent: 0.0% / 0.0%
+{'FirstWeek_Change': 1.15, 'SecWeek_TotalChange': 0.8469, 'endDate': datetime.datetime(2015, 8, 20, 0, 0), 'startDate': datetime.datetime(2015, 7, 22, 0, 0), 'res_id': 141844, 'source': u'Home_WebEduResources', 'SecWeek_Change': -0.6512, 'FirstWeek_TotalChange': -0.2344}
+===============
+ResourceSerial: 1730703, start: 2015-07-22 00:00:00, End: 2015-08-20 00:00:00
+Week: 2015-07-16 00:00:00, numbers / total: 7 / 256, num / total percent: 0.0% / 0.0%
+Week: 2015-08-01 00:00:00, numbers / total: 2 / 196, num / total percent: -71.43% / -23.44%
+Week: 2015-08-16 00:00:00, numbers / total: 2 / 362, num / total percent: 0.0% / +84.69%
+Week: 2015-09-01 00:00:00, numbers / total: 8 / 445, num / total percent: +300.0% / +22.93%
+Week: 2015-09-16 00:00:00, numbers / total: 18 / 722, num / total percent: +125.0% / +62.25%
+Week: 2015-12-01 00:00:00, numbers / total: 1 / 377, num / total percent: 0.0% / 0.0%
+Week: 2015-12-16 00:00:00, numbers / total: 2 / 330, num / total percent: +100.0% / -12.47%
+Week: 2016-05-01 00:00:00, numbers / total: 2 / 342, num / total percent: 0.0% / 0.0%
+{'FirstWeek_Change': -0.7143, 'SecWeek_TotalChange': 0.8469, 'endDate': datetime.datetime(2015, 8, 20, 0, 0), 'startDate': datetime.datetime(2015, 7, 22, 0, 0), 'res_id': 1730703, 'source': u'Home_WebEduResources', 'SecWeek_Change': 0.0, 'FirstWeek_TotalChange': -0.2344}
+===============
+ResourceSerial: 1725553, start: 2015-07-22 00:00:00, End: 2015-08-20 00:00:00
+Week: 2015-07-16 00:00:00, numbers / total: 4 / 256, num / total percent: 0.0% / 0.0%
+Week: 2015-08-01 00:00:00, numbers / total: 1 / 196, num / total percent: -75.0% / -23.44%
+Week: 2015-08-16 00:00:00, numbers / total: 1 / 362, num / total percent: 0.0% / +84.69%
+{'FirstWeek_Change': -0.75, 'SecWeek_TotalChange': 0.8469, 'endDate': datetime.datetime(2015, 8, 20, 0, 0), 'startDate': datetime.datetime(2015, 7, 22, 0, 0), 'res_id': 1725553, 'source': u'Home_WebEduResources', 'SecWeek_Change': 0.0, 'FirstWeek_TotalChange': -0.2344}
+===============
+ResourceSerial: 219600, start: 2015-08-21 00:00:00, End: 2015-09-25 00:00:00
+Week: 2014-11-16 00:00:00, numbers / total: 1 / 250, num / total percent: 0.0% / 0.0%
+Week: 2015-08-16 00:00:00, numbers / total: 50 / 362, num / total percent: 0.0% / 0.0%
+Week: 2015-09-01 00:00:00, numbers / total: 43 / 445, num / total percent: -14.0% / +22.93%
+Week: 2015-09-16 00:00:00, numbers / total: 56 / 722, num / total percent: +30.23% / +62.25%
+Week: 2015-11-16 00:00:00, numbers / total: 1 / 495, num / total percent: 0.0% / 0.0%
+Week: 2015-12-01 00:00:00, numbers / total: 1 / 377, num / total percent: 0.0% / -23.84%
+Week: 2015-12-16 00:00:00, numbers / total: 2 / 330, num / total percent: +100.0% / -12.47%
+Week: 2016-01-01 00:00:00, numbers / total: 7 / 363, num / total percent: +250.0% / +10.0%
+Week: 2016-02-01 00:00:00, numbers / total: 1 / 147, num / total percent: 0.0% / 0.0%
+Week: 2016-05-01 00:00:00, numbers / total: 1 / 342, num / total percent: 0.0% / 0.0%
+{'FirstWeek_Change': -0.14, 'SecWeek_TotalChange': 0.6225, 'endDate': datetime.datetime(2015, 9, 25, 0, 0), 'startDate': datetime.datetime(2015, 8, 21, 0, 0), 'res_id': 219600, 'source': u'Home_WebEduResources', 'SecWeek_Change': 0.3023, 'FirstWeek_TotalChange': 0.2293}
+===============
+ResourceSerial: 630882, start: 2015-08-21 00:00:00, End: 2015-09-25 00:00:00
+Week: 2014-11-16 00:00:00, numbers / total: 3 / 250, num / total percent: 0.0% / 0.0%
+Week: 2015-08-16 00:00:00, numbers / total: 32 / 362, num / total percent: 0.0% / 0.0%
+Week: 2015-09-01 00:00:00, numbers / total: 90 / 445, num / total percent: +181.25% / +22.93%
+Week: 2015-09-16 00:00:00, numbers / total: 80 / 722, num / total percent: -11.11% / +62.25%
+Week: 2015-10-01 00:00:00, numbers / total: 2 / 502, num / total percent: -97.5% / -30.47%
+Week: 2015-10-16 00:00:00, numbers / total: 3 / 490, num / total percent: +50.0% / -2.39%
+Week: 2015-11-01 00:00:00, numbers / total: 7 / 605, num / total percent: +133.33% / +23.47%
+Week: 2015-11-16 00:00:00, numbers / total: 7 / 495, num / total percent: 0.0% / -18.18%
+Week: 2015-12-01 00:00:00, numbers / total: 6 / 377, num / total percent: -14.29% / -23.84%
+Week: 2015-12-16 00:00:00, numbers / total: 2 / 330, num / total percent: -66.67% / -12.47%
+Week: 2016-01-01 00:00:00, numbers / total: 3 / 363, num / total percent: +50.0% / +10.0%
+Week: 2016-01-16 00:00:00, numbers / total: 2 / 201, num / total percent: -33.33% / -44.63%
+Week: 2016-03-16 00:00:00, numbers / total: 3 / 346, num / total percent: 0.0% / 0.0%
+Week: 2016-04-01 00:00:00, numbers / total: 1 / 287, num / total percent: -66.67% / -17.05%
+Week: 2016-04-16 00:00:00, numbers / total: 2 / 342, num / total percent: +100.0% / +19.16%
+Week: 2016-05-01 00:00:00, numbers / total: 4 / 342, num / total percent: +100.0% / 0.0%
+Week: 2016-05-16 00:00:00, numbers / total: 12 / 203, num / total percent: +200.0% / -40.64%
+{'FirstWeek_Change': 1.8125, 'SecWeek_TotalChange': 0.6225, 'endDate': datetime.datetime(2015, 9, 25, 0, 0), 'startDate': datetime.datetime(2015, 8, 21, 0, 0), 'res_id': 630882, 'source': u'Home_WebEduResources', 'SecWeek_Change': -0.1111, 'FirstWeek_TotalChange': 0.2293}
+===============
+ResourceSerial: 139935, start: 2015-08-21 00:00:00, End: 2015-09-25 00:00:00
+Week: 2015-01-01 00:00:00, numbers / total: 1 / 56, num / total percent: 0.0% / 0.0%
+Week: 2015-04-16 00:00:00, numbers / total: 1 / 148, num / total percent: 0.0% / 0.0%
+Week: 2015-08-16 00:00:00, numbers / total: 9 / 362, num / total percent: 0.0% / 0.0%
+Week: 2015-09-01 00:00:00, numbers / total: 9 / 445, num / total percent: 0.0% / +22.93%
+Week: 2015-09-16 00:00:00, numbers / total: 6 / 722, num / total percent: -33.33% / +62.25%
+{'FirstWeek_Change': 0.0, 'SecWeek_TotalChange': 0.6225, 'endDate': datetime.datetime(2015, 9, 25, 0, 0), 'startDate': datetime.datetime(2015, 8, 21, 0, 0), 'res_id': 139935, 'source': u'Home_WebEduResources', 'SecWeek_Change': -0.3333, 'FirstWeek_TotalChange': 0.2293}
+===============
+ResourceSerial: 1731102, start: 2015-08-22 00:00:00, End: 2015-12-29 00:00:00
+Week: 2015-06-16 00:00:00, numbers / total: 14 / 195, num / total percent: 0.0% / 0.0%
+Week: 2015-07-01 00:00:00, numbers / total: 27 / 241, num / total percent: +92.86% / +23.59%
+Week: 2015-07-16 00:00:00, numbers / total: 5 / 256, num / total percent: -81.48% / +6.22%
+Week: 2015-08-01 00:00:00, numbers / total: 2 / 196, num / total percent: -60.0% / -23.44%
+Week: 2015-08-16 00:00:00, numbers / total: 22 / 362, num / total percent: +1000.0% / +84.69%
+Week: 2015-09-01 00:00:00, numbers / total: 26 / 445, num / total percent: +18.18% / +22.93%
+Week: 2015-09-16 00:00:00, numbers / total: 76 / 722, num / total percent: +192.31% / +62.25%
+Week: 2015-10-01 00:00:00, numbers / total: 79 / 502, num / total percent: +3.95% / -30.47%
+Week: 2015-10-16 00:00:00, numbers / total: 96 / 490, num / total percent: +21.52% / -2.39%
+Week: 2015-11-01 00:00:00, numbers / total: 91 / 605, num / total percent: -5.21% / +23.47%
+Week: 2015-11-16 00:00:00, numbers / total: 96 / 495, num / total percent: +5.49% / -18.18%
+Week: 2015-12-01 00:00:00, numbers / total: 64 / 377, num / total percent: -33.33% / -23.84%
+Week: 2015-12-16 00:00:00, numbers / total: 49 / 330, num / total percent: -23.44% / -12.47%
+Week: 2016-01-01 00:00:00, numbers / total: 21 / 363, num / total percent: -57.14% / +10.0%
+Week: 2016-01-16 00:00:00, numbers / total: 2 / 201, num / total percent: -90.48% / -44.63%
+Week: 2016-02-16 00:00:00, numbers / total: 8 / 304, num / total percent: 0.0% / 0.0%
+Week: 2016-03-01 00:00:00, numbers / total: 2 / 352, num / total percent: -75.0% / +15.79%
+Week: 2016-03-16 00:00:00, numbers / total: 6 / 346, num / total percent: +200.0% / -1.7%
+Week: 2016-04-01 00:00:00, numbers / total: 9 / 287, num / total percent: +50.0% / -17.05%
+Week: 2016-04-16 00:00:00, numbers / total: 4 / 342, num / total percent: -55.56% / +19.16%
+Week: 2016-05-01 00:00:00, numbers / total: 3 / 342, num / total percent: -25.0% / 0.0%
+Week: 2016-05-16 00:00:00, numbers / total: 1 / 203, num / total percent: -66.67% / -40.64%
+{'FirstWeek_Change': 0.1818, 'SecWeek_TotalChange': 0.6225, 'endDate': datetime.datetime(2015, 12, 29, 0, 0), 'startDate': datetime.datetime(2015, 8, 22, 0, 0), 'res_id': 1731102, 'source': u'Home_WebEduResources', 'SecWeek_Change': 1.9231, 'FirstWeek_TotalChange': 0.2293}
+===============
+ResourceSerial: 1731117, start: 2015-08-22 00:00:00, End: 2015-12-29 00:00:00
+Week: 2015-06-16 00:00:00, numbers / total: 2 / 195, num / total percent: 0.0% / 0.0%
+Week: 2015-07-01 00:00:00, numbers / total: 4 / 241, num / total percent: +100.0% / +23.59%
+Week: 2015-08-16 00:00:00, numbers / total: 31 / 362, num / total percent: 0.0% / 0.0%
+Week: 2015-09-01 00:00:00, numbers / total: 65 / 445, num / total percent: +109.68% / +22.93%
+Week: 2015-09-16 00:00:00, numbers / total: 86 / 722, num / total percent: +32.31% / +62.25%
+Week: 2015-10-01 00:00:00, numbers / total: 98 / 502, num / total percent: +13.95% / -30.47%
+Week: 2015-10-16 00:00:00, numbers / total: 103 / 490, num / total percent: +5.1% / -2.39%
+Week: 2015-11-01 00:00:00, numbers / total: 159 / 605, num / total percent: +54.37% / +23.47%
+Week: 2015-11-16 00:00:00, numbers / total: 128 / 495, num / total percent: -19.5% / -18.18%
+Week: 2015-12-01 00:00:00, numbers / total: 64 / 377, num / total percent: -50.0% / -23.84%
+Week: 2015-12-16 00:00:00, numbers / total: 52 / 330, num / total percent: -18.75% / -12.47%
+Week: 2016-01-01 00:00:00, numbers / total: 5 / 363, num / total percent: -90.38% / +10.0%
+Week: 2016-01-16 00:00:00, numbers / total: 7 / 201, num / total percent: +40.0% / -44.63%
+Week: 2016-02-16 00:00:00, numbers / total: 4 / 304, num / total percent: 0.0% / 0.0%
+Week: 2016-03-01 00:00:00, numbers / total: 3 / 352, num / total percent: -25.0% / +15.79%
+Week: 2016-03-16 00:00:00, numbers / total: 9 / 346, num / total percent: +200.0% / -1.7%
+{'FirstWeek_Change': 1.0968, 'SecWeek_TotalChange': 0.6225, 'endDate': datetime.datetime(2015, 12, 29, 0, 0), 'startDate': datetime.datetime(2015, 8, 22, 0, 0), 'res_id': 1731117, 'source': u'Home_WebEduResources', 'SecWeek_Change': 0.3231, 'FirstWeek_TotalChange': 0.2293}
+===============
+ResourceSerial: 1731116, start: 2015-08-22 00:00:00, End: 2015-12-29 00:00:00
+Week: 2015-06-16 00:00:00, numbers / total: 2 / 195, num / total percent: 0.0% / 0.0%
+Week: 2015-07-01 00:00:00, numbers / total: 2 / 241, num / total percent: 0.0% / +23.59%
+Week: 2015-07-16 00:00:00, numbers / total: 4 / 256, num / total percent: +100.0% / +6.22%
+Week: 2015-08-16 00:00:00, numbers / total: 18 / 362, num / total percent: 0.0% / 0.0%
+Week: 2015-09-01 00:00:00, numbers / total: 48 / 445, num / total percent: +166.67% / +22.93%
+Week: 2015-09-16 00:00:00, numbers / total: 174 / 722, num / total percent: +262.5% / +62.25%
+Week: 2015-10-01 00:00:00, numbers / total: 56 / 502, num / total percent: -67.82% / -30.47%
+Week: 2015-10-16 00:00:00, numbers / total: 56 / 490, num / total percent: 0.0% / -2.39%
+Week: 2015-11-01 00:00:00, numbers / total: 86 / 605, num / total percent: +53.57% / +23.47%
+Week: 2015-11-16 00:00:00, numbers / total: 64 / 495, num / total percent: -25.58% / -18.18%
+Week: 2015-12-01 00:00:00, numbers / total: 57 / 377, num / total percent: -10.94% / -23.84%
+Week: 2015-12-16 00:00:00, numbers / total: 38 / 330, num / total percent: -33.33% / -12.47%
+Week: 2016-01-16 00:00:00, numbers / total: 2 / 201, num / total percent: 0.0% / 0.0%
+Week: 2016-03-16 00:00:00, numbers / total: 2 / 346, num / total percent: 0.0% / 0.0%
+Week: 2016-04-01 00:00:00, numbers / total: 1 / 287, num / total percent: -50.0% / -17.05%
+Week: 2016-05-01 00:00:00, numbers / total: 1 / 342, num / total percent: 0.0% / 0.0%
+{'FirstWeek_Change': 1.6667, 'SecWeek_TotalChange': 0.6225, 'endDate': datetime.datetime(2015, 12, 29, 0, 0), 'startDate': datetime.datetime(2015, 8, 22, 0, 0), 'res_id': 1731116, 'source': u'Home_WebEduResources', 'SecWeek_Change': 2.625, 'FirstWeek_TotalChange': 0.2293}
+===============
+ResourceSerial: 1733004, start: 2015-08-22 00:00:00, End: 2015-09-25 00:00:00
+Week: 2015-08-16 00:00:00, numbers / total: 9 / 362, num / total percent: 0.0% / 0.0%
+Week: 2015-09-01 00:00:00, numbers / total: 7 / 445, num / total percent: -22.22% / +22.93%
+Week: 2015-09-16 00:00:00, numbers / total: 11 / 722, num / total percent: +57.14% / +62.25%
+Week: 2015-10-01 00:00:00, numbers / total: 1 / 502, num / total percent: -90.91% / -30.47%
+Week: 2015-12-01 00:00:00, numbers / total: 1 / 377, num / total percent: 0.0% / 0.0%
+Week: 2016-01-16 00:00:00, numbers / total: 3 / 201, num / total percent: 0.0% / 0.0%
+Week: 2016-03-01 00:00:00, numbers / total: 3 / 352, num / total percent: 0.0% / 0.0%
+Week: 2016-03-16 00:00:00, numbers / total: 11 / 346, num / total percent: +266.67% / -1.7%
+Week: 2016-04-01 00:00:00, numbers / total: 2 / 287, num / total percent: -81.82% / -17.05%
+Week: 2016-04-16 00:00:00, numbers / total: 4 / 342, num / total percent: +100.0% / +19.16%
+Week: 2016-05-01 00:00:00, numbers / total: 9 / 342, num / total percent: +125.0% / 0.0%
+{'FirstWeek_Change': -0.2222, 'SecWeek_TotalChange': 0.6225, 'endDate': datetime.datetime(2015, 9, 25, 0, 0), 'startDate': datetime.datetime(2015, 8, 22, 0, 0), 'res_id': 1733004, 'source': u'Home_WebEduResources', 'SecWeek_Change': 0.5714, 'FirstWeek_TotalChange': 0.2293}
+===============
+ResourceSerial: 1732996, start: 2015-08-22 00:00:00, End: 2015-09-25 00:00:00
+Week: 2015-08-16 00:00:00, numbers / total: 18 / 362, num / total percent: 0.0% / 0.0%
+Week: 2015-09-01 00:00:00, numbers / total: 21 / 445, num / total percent: +16.67% / +22.93%
+Week: 2015-09-16 00:00:00, numbers / total: 13 / 722, num / total percent: -38.1% / +62.25%
+Week: 2015-10-01 00:00:00, numbers / total: 1 / 502, num / total percent: -92.31% / -30.47%
+Week: 2015-10-16 00:00:00, numbers / total: 3 / 490, num / total percent: +200.0% / -2.39%
+Week: 2015-11-01 00:00:00, numbers / total: 4 / 605, num / total percent: +33.33% / +23.47%
+Week: 2015-12-01 00:00:00, numbers / total: 1 / 377, num / total percent: 0.0% / 0.0%
+Week: 2016-01-01 00:00:00, numbers / total: 1 / 363, num / total percent: 0.0% / 0.0%
+Week: 2016-02-16 00:00:00, numbers / total: 1 / 304, num / total percent: 0.0% / 0.0%
+Week: 2016-04-01 00:00:00, numbers / total: 2 / 287, num / total percent: 0.0% / 0.0%
+Week: 2016-05-16 00:00:00, numbers / total: 1 / 203, num / total percent: 0.0% / 0.0%
+{'FirstWeek_Change': 0.1667, 'SecWeek_TotalChange': 0.6225, 'endDate': datetime.datetime(2015, 9, 25, 0, 0), 'startDate': datetime.datetime(2015, 8, 22, 0, 0), 'res_id': 1732996, 'source': u'Home_WebEduResources', 'SecWeek_Change': -0.381, 'FirstWeek_TotalChange': 0.2293}
+===============
+ResourceSerial: 1733002, start: 2015-08-22 00:00:00, End: 2015-09-25 00:00:00
+Week: 2015-08-16 00:00:00, numbers / total: 16 / 362, num / total percent: 0.0% / 0.0%
+Week: 2015-09-01 00:00:00, numbers / total: 13 / 445, num / total percent: -18.75% / +22.93%
+Week: 2015-09-16 00:00:00, numbers / total: 10 / 722, num / total percent: -23.08% / +62.25%
+Week: 2015-10-16 00:00:00, numbers / total: 3 / 490, num / total percent: 0.0% / 0.0%
+Week: 2015-11-01 00:00:00, numbers / total: 1 / 605, num / total percent: -66.67% / +23.47%
+Week: 2015-12-01 00:00:00, numbers / total: 3 / 377, num / total percent: 0.0% / 0.0%
+Week: 2016-01-01 00:00:00, numbers / total: 1 / 363, num / total percent: 0.0% / 0.0%
+Week: 2016-03-01 00:00:00, numbers / total: 1 / 352, num / total percent: 0.0% / 0.0%
+Week: 2016-04-01 00:00:00, numbers / total: 4 / 287, num / total percent: 0.0% / 0.0%
+Week: 2016-04-16 00:00:00, numbers / total: 10 / 342, num / total percent: +150.0% / +19.16%
+Week: 2016-05-01 00:00:00, numbers / total: 3 / 342, num / total percent: -70.0% / 0.0%
+Week: 2016-05-16 00:00:00, numbers / total: 6 / 203, num / total percent: +100.0% / -40.64%
+{'FirstWeek_Change': -0.1875, 'SecWeek_TotalChange': 0.6225, 'endDate': datetime.datetime(2015, 9, 25, 0, 0), 'startDate': datetime.datetime(2015, 8, 22, 0, 0), 'res_id': 1733002, 'source': u'Home_WebEduResources', 'SecWeek_Change': -0.2308, 'FirstWeek_TotalChange': 0.2293}
+===============
+ResourceSerial: 1730736, start: 2015-08-22 00:00:00, End: 2015-09-30 00:00:00
+Week: 2015-07-16 00:00:00, numbers / total: 13 / 256, num / total percent: 0.0% / 0.0%
+Week: 2015-08-16 00:00:00, numbers / total: 3 / 362, num / total percent: 0.0% / 0.0%
+Week: 2015-09-01 00:00:00, numbers / total: 2 / 445, num / total percent: -33.33% / +22.93%
+Week: 2015-09-16 00:00:00, numbers / total: 14 / 722, num / total percent: +600.0% / +62.25%
+Week: 2016-03-01 00:00:00, numbers / total: 2 / 352, num / total percent: 0.0% / 0.0%
+Week: 2016-05-01 00:00:00, numbers / total: 2 / 342, num / total percent: 0.0% / 0.0%
+{'FirstWeek_Change': -0.3333, 'SecWeek_TotalChange': 0.6225, 'endDate': datetime.datetime(2015, 9, 30, 0, 0), 'startDate': datetime.datetime(2015, 8, 22, 0, 0), 'res_id': 1730736, 'source': u'Home_WebEduResources', 'SecWeek_Change': 6.0, 'FirstWeek_TotalChange': 0.2293}
+===============
+ResourceSerial: 1730771, start: 2015-08-22 00:00:00, End: 2015-09-30 00:00:00
+Week: 2015-07-16 00:00:00, numbers / total: 8 / 256, num / total percent: 0.0% / 0.0%
+Week: 2015-09-01 00:00:00, numbers / total: 1 / 445, num / total percent: 0.0% / 0.0%
+Week: 2015-09-16 00:00:00, numbers / total: 4 / 722, num / total percent: +300.0% / +62.25%
+Week: 2015-12-16 00:00:00, numbers / total: 2 / 330, num / total percent: 0.0% / 0.0%
+Week: 2016-04-16 00:00:00, numbers / total: 2 / 342, num / total percent: 0.0% / 0.0%
+Week: 2016-05-01 00:00:00, numbers / total: 2 / 342, num / total percent: 0.0% / 0.0%
+{'FirstWeek_Change': 0.0, 'SecWeek_TotalChange': 0.6225, 'endDate': datetime.datetime(2015, 9, 30, 0, 0), 'startDate': datetime.datetime(2015, 8, 22, 0, 0), 'res_id': 1730771, 'source': u'Home_WebEduResources', 'SecWeek_Change': 3.0, 'FirstWeek_TotalChange': 0.0}
+===============
+ResourceSerial: 1667611, start: 2015-07-22 00:00:00, End: 2015-09-30 00:00:00
+Week: 2015-06-16 00:00:00, numbers / total: 3 / 195, num / total percent: 0.0% / 0.0%
+Week: 2015-07-01 00:00:00, numbers / total: 3 / 241, num / total percent: 0.0% / +23.59%
+Week: 2015-07-16 00:00:00, numbers / total: 2 / 256, num / total percent: -33.33% / +6.22%
+Week: 2015-09-01 00:00:00, numbers / total: 2 / 445, num / total percent: 0.0% / 0.0%
+Week: 2015-09-16 00:00:00, numbers / total: 6 / 722, num / total percent: +200.0% / +62.25%
+Week: 2015-12-01 00:00:00, numbers / total: 2 / 377, num / total percent: 0.0% / 0.0%
+Week: 2015-12-16 00:00:00, numbers / total: 2 / 330, num / total percent: 0.0% / -12.47%
+Week: 2016-03-16 00:00:00, numbers / total: 2 / 346, num / total percent: 0.0% / 0.0%
+{'FirstWeek_Change': -0.3333, 'endDate': datetime.datetime(2015, 9, 30, 0, 0), 'startDate': datetime.datetime(2015, 7, 22, 0, 0), 'res_id': 1667611, 'source': u'Home_WebEduResources', 'FirstWeek_TotalChange': 0.0622}
+===============
+ResourceSerial: 1708270, start: 2015-07-22 00:00:00, End: 2015-09-25 00:00:00
+Week: 2015-06-16 00:00:00, numbers / total: 2 / 195, num / total percent: 0.0% / 0.0%
+Week: 2015-07-01 00:00:00, numbers / total: 2 / 241, num / total percent: 0.0% / +23.59%
+Week: 2015-07-16 00:00:00, numbers / total: 7 / 256, num / total percent: +250.0% / +6.22%
+Week: 2015-08-01 00:00:00, numbers / total: 8 / 196, num / total percent: +14.29% / -23.44%
+Week: 2015-08-16 00:00:00, numbers / total: 4 / 362, num / total percent: -50.0% / +84.69%
+Week: 2015-09-01 00:00:00, numbers / total: 13 / 445, num / total percent: +225.0% / +22.93%
+Week: 2015-09-16 00:00:00, numbers / total: 6 / 722, num / total percent: -53.85% / +62.25%
+Week: 2015-10-01 00:00:00, numbers / total: 10 / 502, num / total percent: +66.67% / -30.47%
+Week: 2015-10-16 00:00:00, numbers / total: 37 / 490, num / total percent: +270.0% / -2.39%
+Week: 2015-11-01 00:00:00, numbers / total: 34 / 605, num / total percent: -8.11% / +23.47%
+Week: 2015-11-16 00:00:00, numbers / total: 15 / 495, num / total percent: -55.88% / -18.18%
+Week: 2015-12-16 00:00:00, numbers / total: 3 / 330, num / total percent: 0.0% / 0.0%
+Week: 2016-01-01 00:00:00, numbers / total: 4 / 363, num / total percent: +33.33% / +10.0%
+Week: 2016-01-16 00:00:00, numbers / total: 5 / 201, num / total percent: +25.0% / -44.63%
+Week: 2016-02-16 00:00:00, numbers / total: 2 / 304, num / total percent: 0.0% / 0.0%
+Week: 2016-03-01 00:00:00, numbers / total: 5 / 352, num / total percent: +150.0% / +15.79%
+Week: 2016-03-16 00:00:00, numbers / total: 5 / 346, num / total percent: 0.0% / -1.7%
+Week: 2016-04-01 00:00:00, numbers / total: 6 / 287, num / total percent: +20.0% / -17.05%
+Week: 2016-04-16 00:00:00, numbers / total: 5 / 342, num / total percent: -16.67% / +19.16%
+Week: 2016-05-01 00:00:00, numbers / total: 21 / 342, num / total percent: +320.0% / 0.0%
+Week: 2016-05-16 00:00:00, numbers / total: 6 / 203, num / total percent: -71.43% / -40.64%
+{'FirstWeek_Change': 0.1429, 'SecWeek_TotalChange': 0.8469, 'endDate': datetime.datetime(2015, 9, 25, 0, 0), 'startDate': datetime.datetime(2015, 7, 22, 0, 0), 'res_id': 1708270, 'source': u'Home_WebEduResources', 'SecWeek_Change': -0.5, 'FirstWeek_TotalChange': -0.2344}
+===============
+ResourceSerial: 1685653, start: 2015-09-26 00:00:00, End: 2015-12-29 00:00:00
+Week: 2014-11-16 00:00:00, numbers / total: 2 / 250, num / total percent: 0.0% / 0.0%
+Week: 2015-03-01 00:00:00, numbers / total: 2 / 91, num / total percent: 0.0% / 0.0%
+Week: 2015-04-01 00:00:00, numbers / total: 2 / 106, num / total percent: 0.0% / 0.0%
+Week: 2015-09-16 00:00:00, numbers / total: 10 / 722, num / total percent: 0.0% / 0.0%
+Week: 2015-10-01 00:00:00, numbers / total: 27 / 502, num / total percent: +170.0% / -30.47%
+Week: 2015-10-16 00:00:00, numbers / total: 31 / 490, num / total percent: +14.81% / -2.39%
+Week: 2015-11-01 00:00:00, numbers / total: 61 / 605, num / total percent: +96.77% / +23.47%
+Week: 2015-11-16 00:00:00, numbers / total: 33 / 495, num / total percent: -45.9% / -18.18%
+Week: 2015-12-01 00:00:00, numbers / total: 15 / 377, num / total percent: -54.55% / -23.84%
+Week: 2015-12-16 00:00:00, numbers / total: 20 / 330, num / total percent: +33.33% / -12.47%
+Week: 2016-03-01 00:00:00, numbers / total: 1 / 352, num / total percent: 0.0% / 0.0%
+Week: 2016-05-16 00:00:00, numbers / total: 1 / 203, num / total percent: 0.0% / 0.0%
+{'FirstWeek_Change': 1.7, 'SecWeek_TotalChange': -0.0239, 'endDate': datetime.datetime(2015, 12, 29, 0, 0), 'startDate': datetime.datetime(2015, 9, 26, 0, 0), 'res_id': 1685653, 'source': u'Home_WebEduResources', 'SecWeek_Change': 0.1481, 'FirstWeek_TotalChange': -0.3047}
+===============
+ResourceSerial: 1576117, start: 2015-09-26 00:00:00, End: 2015-12-29 00:00:00
+Week: 2015-09-01 00:00:00, numbers / total: 2 / 445, num / total percent: 0.0% / 0.0%
+Week: 2015-09-16 00:00:00, numbers / total: 9 / 722, num / total percent: +350.0% / +62.25%
+Week: 2015-10-01 00:00:00, numbers / total: 42 / 502, num / total percent: +366.67% / -30.47%
+Week: 2015-10-16 00:00:00, numbers / total: 8 / 490, num / total percent: -80.95% / -2.39%
+Week: 2015-11-01 00:00:00, numbers / total: 8 / 605, num / total percent: 0.0% / +23.47%
+Week: 2015-11-16 00:00:00, numbers / total: 15 / 495, num / total percent: +87.5% / -18.18%
+Week: 2015-12-01 00:00:00, numbers / total: 4 / 377, num / total percent: -73.33% / -23.84%
+Week: 2015-12-16 00:00:00, numbers / total: 5 / 330, num / total percent: +25.0% / -12.47%
+Week: 2016-03-16 00:00:00, numbers / total: 1 / 346, num / total percent: 0.0% / 0.0%
+{'FirstWeek_Change': 3.6667, 'SecWeek_TotalChange': -0.0239, 'endDate': datetime.datetime(2015, 12, 29, 0, 0), 'startDate': datetime.datetime(2015, 9, 26, 0, 0), 'res_id': 1576117, 'source': u'Home_WebEduResources', 'SecWeek_Change': -0.8095, 'FirstWeek_TotalChange': -0.3047}
+===============
+ResourceSerial: 1730693, start: 2015-10-01 00:00:00, End: 2015-12-29 00:00:00
+Week: 2015-09-16 00:00:00, numbers / total: 2 / 722, num / total percent: 0.0% / 0.0%
+Week: 2015-10-01 00:00:00, numbers / total: 4 / 502, num / total percent: +100.0% / -30.47%
+Week: 2015-10-16 00:00:00, numbers / total: 6 / 490, num / total percent: +50.0% / -2.39%
+Week: 2015-11-01 00:00:00, numbers / total: 4 / 605, num / total percent: -33.33% / +23.47%
+Week: 2015-11-16 00:00:00, numbers / total: 8 / 495, num / total percent: +100.0% / -18.18%
+Week: 2015-12-01 00:00:00, numbers / total: 3 / 377, num / total percent: -62.5% / -23.84%
+Week: 2015-12-16 00:00:00, numbers / total: 2 / 330, num / total percent: -33.33% / -12.47%
+Week: 2016-03-01 00:00:00, numbers / total: 2 / 352, num / total percent: 0.0% / 0.0%
+Week: 2016-03-16 00:00:00, numbers / total: 5 / 346, num / total percent: +150.0% / -1.7%
+Week: 2016-04-16 00:00:00, numbers / total: 2 / 342, num / total percent: 0.0% / 0.0%
+{'FirstWeek_Change': 0.5, 'SecWeek_TotalChange': 0.2347, 'endDate': datetime.datetime(2015, 12, 29, 0, 0), 'startDate': datetime.datetime(2015, 10, 1, 0, 0), 'res_id': 1730693, 'source': u'Home_WebEduResources', 'SecWeek_Change': -0.3333, 'FirstWeek_TotalChange': -0.0239}
+===============
+ResourceSerial: 1663897, start: 2015-10-01 00:00:00, End: 2015-12-29 00:00:00
+Week: 2015-01-16 00:00:00, numbers / total: 1 / 109, num / total percent: 0.0% / 0.0%
+Week: 2015-06-16 00:00:00, numbers / total: 1 / 195, num / total percent: 0.0% / 0.0%
+Week: 2015-08-16 00:00:00, numbers / total: 4 / 362, num / total percent: 0.0% / 0.0%
+Week: 2015-09-01 00:00:00, numbers / total: 2 / 445, num / total percent: -50.0% / +22.93%
+Week: 2015-09-16 00:00:00, numbers / total: 2 / 722, num / total percent: 0.0% / +62.25%
+Week: 2015-10-01 00:00:00, numbers / total: 18 / 502, num / total percent: +800.0% / -30.47%
+Week: 2015-10-16 00:00:00, numbers / total: 23 / 490, num / total percent: +27.78% / -2.39%
+Week: 2015-11-01 00:00:00, numbers / total: 22 / 605, num / total percent: -4.35% / +23.47%
+Week: 2015-11-16 00:00:00, numbers / total: 16 / 495, num / total percent: -27.27% / -18.18%
+Week: 2015-12-01 00:00:00, numbers / total: 13 / 377, num / total percent: -18.75% / -23.84%
+Week: 2015-12-16 00:00:00, numbers / total: 13 / 330, num / total percent: 0.0% / -12.47%
+Week: 2016-03-01 00:00:00, numbers / total: 2 / 352, num / total percent: 0.0% / 0.0%
+{'FirstWeek_Change': 0.2778, 'SecWeek_TotalChange': 0.2347, 'endDate': datetime.datetime(2015, 12, 29, 0, 0), 'startDate': datetime.datetime(2015, 10, 1, 0, 0), 'res_id': 1663897, 'source': u'Home_WebEduResources', 'SecWeek_Change': -0.0435, 'FirstWeek_TotalChange': -0.0239}
+===============
+ResourceSerial: 1629515, start: 2015-10-01 00:00:00, End: 2015-12-29 00:00:00
+Week: 2015-09-16 00:00:00, numbers / total: 2 / 722, num / total percent: 0.0% / 0.0%
+Week: 2015-10-01 00:00:00, numbers / total: 5 / 502, num / total percent: +150.0% / -30.47%
+Week: 2015-10-16 00:00:00, numbers / total: 14 / 490, num / total percent: +180.0% / -2.39%
+Week: 2015-11-01 00:00:00, numbers / total: 19 / 605, num / total percent: +35.71% / +23.47%
+Week: 2015-11-16 00:00:00, numbers / total: 12 / 495, num / total percent: -36.84% / -18.18%
+Week: 2015-12-01 00:00:00, numbers / total: 14 / 377, num / total percent: +16.67% / -23.84%
+Week: 2015-12-16 00:00:00, numbers / total: 6 / 330, num / total percent: -57.14% / -12.47%
+{'FirstWeek_Change': 1.8, 'SecWeek_TotalChange': 0.2347, 'endDate': datetime.datetime(2015, 12, 29, 0, 0), 'startDate': datetime.datetime(2015, 10, 1, 0, 0), 'res_id': 1629515, 'source': u'Home_WebEduResources', 'SecWeek_Change': 0.3571, 'FirstWeek_TotalChange': -0.0239}
+===============
+ResourceSerial: 665342, start: 2015-10-01 00:00:00, End: 2015-12-29 00:00:00
+Week: 2015-01-16 00:00:00, numbers / total: 3 / 109, num / total percent: 0.0% / 0.0%
+Week: 2015-02-16 00:00:00, numbers / total: 5 / 51, num / total percent: 0.0% / 0.0%
+Week: 2015-03-01 00:00:00, numbers / total: 1 / 91, num / total percent: -80.0% / +78.43%
+Week: 2015-08-01 00:00:00, numbers / total: 1 / 196, num / total percent: 0.0% / 0.0%
+Week: 2015-09-16 00:00:00, numbers / total: 3 / 722, num / total percent: 0.0% / 0.0%
+Week: 2015-10-01 00:00:00, numbers / total: 34 / 502, num / total percent: +1033.33% / -30.47%
+Week: 2015-10-16 00:00:00, numbers / total: 18 / 490, num / total percent: -47.06% / -2.39%
+Week: 2015-11-01 00:00:00, numbers / total: 30 / 605, num / total percent: +66.67% / +23.47%
+Week: 2015-11-16 00:00:00, numbers / total: 22 / 495, num / total percent: -26.67% / -18.18%
+Week: 2015-12-01 00:00:00, numbers / total: 10 / 377, num / total percent: -54.55% / -23.84%
+Week: 2015-12-16 00:00:00, numbers / total: 12 / 330, num / total percent: +20.0% / -12.47%
+Week: 2016-01-16 00:00:00, numbers / total: 1 / 201, num / total percent: 0.0% / 0.0%
+Week: 2016-02-01 00:00:00, numbers / total: 11 / 147, num / total percent: +1000.0% / -26.87%
+Week: 2016-02-16 00:00:00, numbers / total: 21 / 304, num / total percent: +90.91% / +106.8%
+Week: 2016-03-01 00:00:00, numbers / total: 11 / 352, num / total percent: -47.62% / +15.79%
+Week: 2016-03-16 00:00:00, numbers / total: 4 / 346, num / total percent: -63.64% / -1.7%
+Week: 2016-05-01 00:00:00, numbers / total: 2 / 342, num / total percent: 0.0% / 0.0%
+{'FirstWeek_Change': -0.4706, 'SecWeek_TotalChange': 0.2347, 'endDate': datetime.datetime(2015, 12, 29, 0, 0), 'startDate': datetime.datetime(2015, 10, 1, 0, 0), 'res_id': 665342, 'source': u'Home_WebEduResources', 'SecWeek_Change': 0.6667, 'FirstWeek_TotalChange': -0.0239}
+===============
+ResourceSerial: 1603801, start: 2015-09-26 00:00:00, End: 2015-12-29 00:00:00
+Week: 2014-11-16 00:00:00, numbers / total: 2 / 250, num / total percent: 0.0% / 0.0%
+Week: 2015-05-16 00:00:00, numbers / total: 3 / 201, num / total percent: 0.0% / 0.0%
+Week: 2015-09-01 00:00:00, numbers / total: 2 / 445, num / total percent: 0.0% / 0.0%
+Week: 2015-09-16 00:00:00, numbers / total: 2 / 722, num / total percent: 0.0% / +62.25%
+Week: 2015-10-01 00:00:00, numbers / total: 3 / 502, num / total percent: +50.0% / -30.47%
+Week: 2015-10-16 00:00:00, numbers / total: 1 / 490, num / total percent: -66.67% / -2.39%
+Week: 2015-11-01 00:00:00, numbers / total: 6 / 605, num / total percent: +500.0% / +23.47%
+Week: 2015-11-16 00:00:00, numbers / total: 5 / 495, num / total percent: -16.67% / -18.18%
+Week: 2015-12-01 00:00:00, numbers / total: 4 / 377, num / total percent: -20.0% / -23.84%
+Week: 2015-12-16 00:00:00, numbers / total: 8 / 330, num / total percent: +100.0% / -12.47%
+Week: 2016-01-01 00:00:00, numbers / total: 2 / 363, num / total percent: -75.0% / +10.0%
+Week: 2016-04-01 00:00:00, numbers / total: 1 / 287, num / total percent: 0.0% / 0.0%
+Week: 2016-04-16 00:00:00, numbers / total: 5 / 342, num / total percent: +400.0% / +19.16%
+{'FirstWeek_Change': 0.5, 'SecWeek_TotalChange': -0.0239, 'endDate': datetime.datetime(2015, 12, 29, 0, 0), 'startDate': datetime.datetime(2015, 9, 26, 0, 0), 'res_id': 1603801, 'source': u'Home_WebEduResources', 'SecWeek_Change': -0.6667, 'FirstWeek_TotalChange': -0.3047}
+===============
+ResourceSerial: 1603826, start: 2015-09-26 00:00:00, End: 2016-02-17 00:00:00
+Week: 2014-12-01 00:00:00, numbers / total: 1 / 280, num / total percent: 0.0% / 0.0%
+Week: 2015-04-01 00:00:00, numbers / total: 2 / 106, num / total percent: 0.0% / 0.0%
+Week: 2015-04-16 00:00:00, numbers / total: 2 / 148, num / total percent: 0.0% / +39.62%
+Week: 2015-05-16 00:00:00, numbers / total: 1 / 201, num / total percent: 0.0% / 0.0%
+Week: 2015-08-16 00:00:00, numbers / total: 1 / 362, num / total percent: 0.0% / 0.0%
+Week: 2015-09-16 00:00:00, numbers / total: 3 / 722, num / total percent: 0.0% / 0.0%
+Week: 2015-11-01 00:00:00, numbers / total: 2 / 605, num / total percent: 0.0% / 0.0%
+Week: 2015-11-16 00:00:00, numbers / total: 2 / 495, num / total percent: 0.0% / -18.18%
+Week: 2015-12-16 00:00:00, numbers / total: 4 / 330, num / total percent: 0.0% / 0.0%
+Week: 2016-01-01 00:00:00, numbers / total: 37 / 363, num / total percent: +825.0% / +10.0%
+Week: 2016-01-16 00:00:00, numbers / total: 8 / 201, num / total percent: -78.38% / -44.63%
+Week: 2016-02-01 00:00:00, numbers / total: 20 / 147, num / total percent: +150.0% / -26.87%
+Week: 2016-02-16 00:00:00, numbers / total: 7 / 304, num / total percent: -65.0% / +106.8%
+Week: 2016-03-01 00:00:00, numbers / total: 3 / 352, num / total percent: -57.14% / +15.79%
+Week: 2016-03-16 00:00:00, numbers / total: 8 / 346, num / total percent: +166.67% / -1.7%
+{'FirstWeek_Change': 0.0, 'endDate': datetime.datetime(2016, 2, 17, 0, 0), 'startDate': datetime.datetime(2015, 9, 26, 0, 0), 'res_id': 1603826, 'source': u'Home_WebEduResources', 'FirstWeek_TotalChange': 0.0}
+===============
+ResourceSerial: 1603731, start: 2015-09-26 00:00:00, End: 2016-02-17 00:00:00
+Week: 2015-05-16 00:00:00, numbers / total: 2 / 201, num / total percent: 0.0% / 0.0%
+Week: 2015-12-16 00:00:00, numbers / total: 3 / 330, num / total percent: 0.0% / 0.0%
+Week: 2016-01-01 00:00:00, numbers / total: 23 / 363, num / total percent: +666.67% / +10.0%
+Week: 2016-01-16 00:00:00, numbers / total: 17 / 201, num / total percent: -26.09% / -44.63%
+Week: 2016-02-01 00:00:00, numbers / total: 19 / 147, num / total percent: +11.76% / -26.87%
+Week: 2016-04-16 00:00:00, numbers / total: 2 / 342, num / total percent: 0.0% / 0.0%
+{'FirstWeek_Change': 0.0, 'endDate': datetime.datetime(2016, 2, 17, 0, 0), 'startDate': datetime.datetime(2015, 9, 26, 0, 0), 'res_id': 1603731, 'source': u'Home_WebEduResources', 'FirstWeek_TotalChange': 0.0}
+===============
+ResourceSerial: 1589512, start: 2015-12-30 00:00:00, End: 2016-02-17 00:00:00
+Week: 2014-11-16 00:00:00, numbers / total: 1 / 250, num / total percent: 0.0% / 0.0%
+Week: 2015-09-16 00:00:00, numbers / total: 4 / 722, num / total percent: 0.0% / 0.0%
+Week: 2015-10-01 00:00:00, numbers / total: 2 / 502, num / total percent: -50.0% / -30.47%
+Week: 2015-11-16 00:00:00, numbers / total: 2 / 495, num / total percent: 0.0% / 0.0%
+Week: 2016-01-01 00:00:00, numbers / total: 7 / 363, num / total percent: 0.0% / 0.0%
+{'FirstWeek_Change': 0.0, 'endDate': datetime.datetime(2016, 2, 17, 0, 0), 'startDate': datetime.datetime(2015, 12, 30, 0, 0), 'res_id': 1589512, 'source': u'Home_WebEduResources', 'FirstWeek_TotalChange': 0.0}
+===============
+ResourceSerial: 1709433, start: 2015-12-30 00:00:00, End: 2016-02-17 00:00:00
+Week: 2015-03-01 00:00:00, numbers / total: 1 / 91, num / total percent: 0.0% / 0.0%
+Week: 2015-07-01 00:00:00, numbers / total: 3 / 241, num / total percent: 0.0% / 0.0%
+Week: 2015-07-16 00:00:00, numbers / total: 2 / 256, num / total percent: -33.33% / +6.22%
+Week: 2015-08-16 00:00:00, numbers / total: 1 / 362, num / total percent: 0.0% / 0.0%
+Week: 2015-09-01 00:00:00, numbers / total: 5 / 445, num / total percent: +400.0% / +22.93%
+Week: 2015-09-16 00:00:00, numbers / total: 4 / 722, num / total percent: -20.0% / +62.25%
+Week: 2015-10-01 00:00:00, numbers / total: 2 / 502, num / total percent: -50.0% / -30.47%
+Week: 2015-10-16 00:00:00, numbers / total: 1 / 490, num / total percent: -50.0% / -2.39%
+Week: 2015-11-01 00:00:00, numbers / total: 4 / 605, num / total percent: +300.0% / +23.47%
+Week: 2015-11-16 00:00:00, numbers / total: 3 / 495, num / total percent: -25.0% / -18.18%
+Week: 2015-12-01 00:00:00, numbers / total: 4 / 377, num / total percent: +33.33% / -23.84%
+Week: 2015-12-16 00:00:00, numbers / total: 2 / 330, num / total percent: -50.0% / -12.47%
+Week: 2016-01-01 00:00:00, numbers / total: 7 / 363, num / total percent: +250.0% / +10.0%
+Week: 2016-01-16 00:00:00, numbers / total: 6 / 201, num / total percent: -14.29% / -44.63%
+Week: 2016-02-01 00:00:00, numbers / total: 2 / 147, num / total percent: -66.67% / -26.87%
+Week: 2016-02-16 00:00:00, numbers / total: 2 / 304, num / total percent: 0.0% / +106.8%
+Week: 2016-03-01 00:00:00, numbers / total: 2 / 352, num / total percent: 0.0% / +15.79%
+Week: 2016-03-16 00:00:00, numbers / total: 2 / 346, num / total percent: 0.0% / -1.7%
+Week: 2016-04-01 00:00:00, numbers / total: 2 / 287, num / total percent: 0.0% / -17.05%
+Week: 2016-05-01 00:00:00, numbers / total: 1 / 342, num / total percent: 0.0% / 0.0%
+Week: 2016-05-16 00:00:00, numbers / total: 1 / 203, num / total percent: 0.0% / -40.64%
+{'FirstWeek_Change': 2.5, 'SecWeek_TotalChange': -0.4463, 'endDate': datetime.datetime(2016, 2, 17, 0, 0), 'startDate': datetime.datetime(2015, 12, 30, 0, 0), 'res_id': 1709433, 'source': u'Home_WebEduResources', 'SecWeek_Change': -0.1429, 'FirstWeek_TotalChange': 0.1}
+===============
+ResourceSerial: 1742586, start: 2015-12-30 00:00:00, End: 2016-02-17 00:00:00
+Week: 2016-01-01 00:00:00, numbers / total: 11 / 363, num / total percent: 0.0% / 0.0%
+Week: 2016-01-16 00:00:00, numbers / total: 4 / 201, num / total percent: -63.64% / -44.63%
+Week: 2016-02-01 00:00:00, numbers / total: 5 / 147, num / total percent: +25.0% / -26.87%
+Week: 2016-02-16 00:00:00, numbers / total: 2 / 304, num / total percent: -60.0% / +106.8%
+Week: 2016-03-16 00:00:00, numbers / total: 1 / 346, num / total percent: 0.0% / 0.0%
+Week: 2016-04-16 00:00:00, numbers / total: 2 / 342, num / total percent: 0.0% / 0.0%
+{'FirstWeek_Change': 0.0, 'SecWeek_TotalChange': -0.4463, 'endDate': datetime.datetime(2016, 2, 17, 0, 0), 'startDate': datetime.datetime(2015, 12, 30, 0, 0), 'res_id': 1742586, 'source': u'Home_WebEduResources', 'SecWeek_Change': -0.6364, 'FirstWeek_TotalChange': 0.0}
+===============
+ResourceSerial: 1742583, start: 2015-12-30 00:00:00, End: 2016-02-17 00:00:00
+Week: 2015-12-16 00:00:00, numbers / total: 2 / 330, num / total percent: 0.0% / 0.0%
+Week: 2016-01-01 00:00:00, numbers / total: 32 / 363, num / total percent: +1500.0% / +10.0%
+Week: 2016-01-16 00:00:00, numbers / total: 22 / 201, num / total percent: -31.25% / -44.63%
+Week: 2016-02-01 00:00:00, numbers / total: 4 / 147, num / total percent: -81.82% / -26.87%
+Week: 2016-04-16 00:00:00, numbers / total: 1 / 342, num / total percent: 0.0% / 0.0%
+{'FirstWeek_Change': 15.0, 'SecWeek_TotalChange': -0.4463, 'endDate': datetime.datetime(2016, 2, 17, 0, 0), 'startDate': datetime.datetime(2015, 12, 30, 0, 0), 'res_id': 1742583, 'source': u'Home_WebEduResources', 'SecWeek_Change': -0.3125, 'FirstWeek_TotalChange': 0.1}
+===============
+ResourceSerial: 1742573, start: 2015-12-30 00:00:00, End: 2016-02-17 00:00:00
+Week: 2015-12-01 00:00:00, numbers / total: 9 / 377, num / total percent: 0.0% / 0.0%
+Week: 2016-01-01 00:00:00, numbers / total: 17 / 363, num / total percent: 0.0% / 0.0%
+Week: 2016-01-16 00:00:00, numbers / total: 15 / 201, num / total percent: -11.76% / -44.63%
+Week: 2016-02-01 00:00:00, numbers / total: 9 / 147, num / total percent: -40.0% / -26.87%
+Week: 2016-02-16 00:00:00, numbers / total: 2 / 304, num / total percent: -77.78% / +106.8%
+{'FirstWeek_Change': 0.0, 'SecWeek_TotalChange': -0.4463, 'endDate': datetime.datetime(2016, 2, 17, 0, 0), 'startDate': datetime.datetime(2015, 12, 30, 0, 0), 'res_id': 1742573, 'source': u'Home_WebEduResources', 'SecWeek_Change': -0.1176, 'FirstWeek_TotalChange': 0.0}
+===============
+ResourceSerial: 1742530, start: 2015-12-30 00:00:00, End: 2016-02-17 00:00:00
+Week: 2015-12-16 00:00:00, numbers / total: 4 / 330, num / total percent: 0.0% / 0.0%
+Week: 2016-01-01 00:00:00, numbers / total: 54 / 363, num / total percent: +1250.0% / +10.0%
+Week: 2016-01-16 00:00:00, numbers / total: 26 / 201, num / total percent: -51.85% / -44.63%
+Week: 2016-02-01 00:00:00, numbers / total: 12 / 147, num / total percent: -53.85% / -26.87%
+Week: 2016-03-16 00:00:00, numbers / total: 3 / 346, num / total percent: 0.0% / 0.0%
+Week: 2016-04-16 00:00:00, numbers / total: 1 / 342, num / total percent: 0.0% / 0.0%
+Week: 2016-05-01 00:00:00, numbers / total: 2 / 342, num / total percent: +100.0% / 0.0%
+{'FirstWeek_Change': 12.5, 'SecWeek_TotalChange': -0.4463, 'endDate': datetime.datetime(2016, 2, 17, 0, 0), 'startDate': datetime.datetime(2015, 12, 30, 0, 0), 'res_id': 1742530, 'source': u'Home_WebEduResources', 'SecWeek_Change': -0.5185, 'FirstWeek_TotalChange': 0.1}
+===============
+ResourceSerial: 1669410, start: 2015-12-31 00:00:00, End: 2016-02-17 00:00:00
+Week: 2014-11-01 00:00:00, numbers / total: 2 / 156, num / total percent: 0.0% / 0.0%
+Week: 2014-12-01 00:00:00, numbers / total: 1 / 280, num / total percent: 0.0% / 0.0%
+Week: 2014-12-16 00:00:00, numbers / total: 3 / 149, num / total percent: +200.0% / -46.79%
+Week: 2015-01-16 00:00:00, numbers / total: 45 / 109, num / total percent: 0.0% / 0.0%
+Week: 2015-02-01 00:00:00, numbers / total: 2 / 106, num / total percent: -95.56% / -2.75%
+Week: 2015-03-01 00:00:00, numbers / total: 3 / 91, num / total percent: 0.0% / 0.0%
+Week: 2015-04-16 00:00:00, numbers / total: 6 / 148, num / total percent: 0.0% / 0.0%
+Week: 2015-07-01 00:00:00, numbers / total: 2 / 241, num / total percent: 0.0% / 0.0%
+Week: 2015-08-01 00:00:00, numbers / total: 6 / 196, num / total percent: 0.0% / 0.0%
+Week: 2015-08-16 00:00:00, numbers / total: 15 / 362, num / total percent: +150.0% / +84.69%
+Week: 2015-09-01 00:00:00, numbers / total: 13 / 445, num / total percent: -13.33% / +22.93%
+Week: 2015-09-16 00:00:00, numbers / total: 10 / 722, num / total percent: -23.08% / +62.25%
+Week: 2015-10-01 00:00:00, numbers / total: 11 / 502, num / total percent: +10.0% / -30.47%
+Week: 2015-11-16 00:00:00, numbers / total: 1 / 495, num / total percent: 0.0% / 0.0%
+Week: 2015-12-01 00:00:00, numbers / total: 3 / 377, num / total percent: +200.0% / -23.84%
+Week: 2015-12-16 00:00:00, numbers / total: 5 / 330, num / total percent: +66.67% / -12.47%
+Week: 2016-01-01 00:00:00, numbers / total: 23 / 363, num / total percent: +360.0% / +10.0%
+Week: 2016-01-16 00:00:00, numbers / total: 12 / 201, num / total percent: -47.83% / -44.63%
+Week: 2016-02-01 00:00:00, numbers / total: 3 / 147, num / total percent: -75.0% / -26.87%
+Week: 2016-02-16 00:00:00, numbers / total: 5 / 304, num / total percent: +66.67% / +106.8%
+Week: 2016-03-01 00:00:00, numbers / total: 6 / 352, num / total percent: +20.0% / +15.79%
+Week: 2016-04-16 00:00:00, numbers / total: 4 / 342, num / total percent: 0.0% / 0.0%
+Week: 2016-05-01 00:00:00, numbers / total: 1 / 342, num / total percent: -75.0% / 0.0%
+Week: 2016-05-16 00:00:00, numbers / total: 2 / 203, num / total percent: +100.0% / -40.64%
+{'FirstWeek_Change': 3.6, 'SecWeek_TotalChange': -0.4463, 'endDate': datetime.datetime(2016, 2, 17, 0, 0), 'startDate': datetime.datetime(2015, 12, 31, 0, 0), 'res_id': 1669410, 'source': u'Home_WebEduResources', 'SecWeek_Change': -0.4783, 'FirstWeek_TotalChange': 0.1}
+===============
+ResourceSerial: 1631902, start: 2015-12-30 00:00:00, End: 2016-02-17 00:00:00
+Week: 2014-11-01 00:00:00, numbers / total: 10 / 156, num / total percent: 0.0% / 0.0%
+Week: 2014-11-16 00:00:00, numbers / total: 2 / 250, num / total percent: -80.0% / +60.26%
+Week: 2014-12-01 00:00:00, numbers / total: 5 / 280, num / total percent: +150.0% / +12.0%
+Week: 2014-12-16 00:00:00, numbers / total: 2 / 149, num / total percent: -60.0% / -46.79%
+Week: 2015-01-01 00:00:00, numbers / total: 2 / 56, num / total percent: 0.0% / -62.42%
+Week: 2015-01-16 00:00:00, numbers / total: 2 / 109, num / total percent: 0.0% / +94.64%
+Week: 2015-05-01 00:00:00, numbers / total: 2 / 166, num / total percent: 0.0% / 0.0%
+Week: 2015-05-16 00:00:00, numbers / total: 4 / 201, num / total percent: +100.0% / +21.08%
+Week: 2015-06-16 00:00:00, numbers / total: 3 / 195, num / total percent: 0.0% / 0.0%
+Week: 2015-07-01 00:00:00, numbers / total: 5 / 241, num / total percent: +66.67% / +23.59%
+Week: 2015-07-16 00:00:00, numbers / total: 4 / 256, num / total percent: -20.0% / +6.22%
+Week: 2015-08-16 00:00:00, numbers / total: 2 / 362, num / total percent: 0.0% / 0.0%
+Week: 2015-09-01 00:00:00, numbers / total: 6 / 445, num / total percent: +200.0% / +22.93%
+Week: 2015-09-16 00:00:00, numbers / total: 2 / 722, num / total percent: -66.67% / +62.25%
+Week: 2015-10-01 00:00:00, numbers / total: 4 / 502, num / total percent: +100.0% / -30.47%
+Week: 2015-10-16 00:00:00, numbers / total: 2 / 490, num / total percent: -50.0% / -2.39%
+Week: 2015-11-01 00:00:00, numbers / total: 4 / 605, num / total percent: +100.0% / +23.47%
+Week: 2015-12-01 00:00:00, numbers / total: 3 / 377, num / total percent: 0.0% / 0.0%
+Week: 2015-12-16 00:00:00, numbers / total: 6 / 330, num / total percent: +100.0% / -12.47%
+Week: 2016-01-01 00:00:00, numbers / total: 14 / 363, num / total percent: +133.33% / +10.0%
+Week: 2016-01-16 00:00:00, numbers / total: 6 / 201, num / total percent: -57.14% / -44.63%
+Week: 2016-02-01 00:00:00, numbers / total: 9 / 147, num / total percent: +50.0% / -26.87%
+Week: 2016-02-16 00:00:00, numbers / total: 1 / 304, num / total percent: -88.89% / +106.8%
+Week: 2016-03-16 00:00:00, numbers / total: 2 / 346, num / total percent: 0.0% / 0.0%
+Week: 2016-04-01 00:00:00, numbers / total: 2 / 287, num / total percent: 0.0% / -17.05%
+Week: 2016-04-16 00:00:00, numbers / total: 2 / 342, num / total percent: 0.0% / +19.16%
+Week: 2016-05-01 00:00:00, numbers / total: 2 / 342, num / total percent: 0.0% / 0.0%
+{'FirstWeek_Change': 1.3333, 'SecWeek_TotalChange': -0.4463, 'endDate': datetime.datetime(2016, 2, 17, 0, 0), 'startDate': datetime.datetime(2015, 12, 30, 0, 0), 'res_id': 1631902, 'source': u'Home_WebEduResources', 'SecWeek_Change': -0.5714, 'FirstWeek_TotalChange': 0.1}
+===============
+ResourceSerial: 1742576, start: 2015-12-30 00:00:00, End: 2016-02-17 00:00:00
+Week: 2015-12-16 00:00:00, numbers / total: 3 / 330, num / total percent: 0.0% / 0.0%
+Week: 2016-04-01 00:00:00, numbers / total: 2 / 287, num / total percent: 0.0% / 0.0%
+Week: 2016-05-01 00:00:00, numbers / total: 1 / 342, num / total percent: 0.0% / 0.0%
+{'FirstWeek_Change': 0.0, 'endDate': datetime.datetime(2016, 2, 17, 0, 0), 'startDate': datetime.datetime(2015, 12, 30, 0, 0), 'res_id': 1742576, 'source': u'Home_WebEduResources', 'FirstWeek_TotalChange': 0.0}
+===============
+ResourceSerial: 1610594, start: 2016-02-18 00:00:00, End: 2016-03-22 00:00:00
+Week: 2015-10-16 00:00:00, numbers / total: 1 / 490, num / total percent: 0.0% / 0.0%
+Week: 2016-02-16 00:00:00, numbers / total: 51 / 304, num / total percent: 0.0% / 0.0%
+Week: 2016-03-01 00:00:00, numbers / total: 81 / 352, num / total percent: +58.82% / +15.79%
+Week: 2016-03-16 00:00:00, numbers / total: 22 / 346, num / total percent: -72.84% / -1.7%
+Week: 2016-04-01 00:00:00, numbers / total: 3 / 287, num / total percent: -86.36% / -17.05%
+Week: 2016-05-01 00:00:00, numbers / total: 4 / 342, num / total percent: 0.0% / 0.0%
+{'FirstWeek_Change': 0.5882, 'SecWeek_TotalChange': -0.017, 'endDate': datetime.datetime(2016, 3, 22, 0, 0), 'startDate': datetime.datetime(2016, 2, 18, 0, 0), 'res_id': 1610594, 'source': u'Home_WebEduResources', 'SecWeek_Change': -0.7284, 'FirstWeek_TotalChange': 0.1579}
+===============
+ResourceSerial: 633285, start: 2016-02-18 00:00:00, End: 2016-03-22 00:00:00
+Week: 2014-10-16 00:00:00, numbers / total: 1 / 28, num / total percent: 0.0% / 0.0%
+Week: 2014-12-01 00:00:00, numbers / total: 6 / 280, num / total percent: 0.0% / 0.0%
+Week: 2015-03-16 00:00:00, numbers / total: 2 / 169, num / total percent: 0.0% / 0.0%
+Week: 2015-05-01 00:00:00, numbers / total: 1 / 166, num / total percent: 0.0% / 0.0%
+Week: 2015-10-16 00:00:00, numbers / total: 1 / 490, num / total percent: 0.0% / 0.0%
+Week: 2015-11-16 00:00:00, numbers / total: 1 / 495, num / total percent: 0.0% / 0.0%
+Week: 2015-12-16 00:00:00, numbers / total: 2 / 330, num / total percent: 0.0% / 0.0%
+Week: 2016-01-01 00:00:00, numbers / total: 1 / 363, num / total percent: -50.0% / +10.0%
+Week: 2016-02-16 00:00:00, numbers / total: 31 / 304, num / total percent: 0.0% / 0.0%
+Week: 2016-03-01 00:00:00, numbers / total: 53 / 352, num / total percent: +70.97% / +15.79%
+Week: 2016-03-16 00:00:00, numbers / total: 18 / 346, num / total percent: -66.04% / -1.7%
+Week: 2016-04-01 00:00:00, numbers / total: 1 / 287, num / total percent: -94.44% / -17.05%
+Week: 2016-05-01 00:00:00, numbers / total: 2 / 342, num / total percent: 0.0% / 0.0%
+Week: 2016-05-16 00:00:00, numbers / total: 1 / 203, num / total percent: -50.0% / -40.64%
+{'FirstWeek_Change': 0.7097, 'SecWeek_TotalChange': -0.017, 'endDate': datetime.datetime(2016, 3, 22, 0, 0), 'startDate': datetime.datetime(2016, 2, 18, 0, 0), 'res_id': 633285, 'source': u'Home_WebEduResources', 'SecWeek_Change': -0.6604, 'FirstWeek_TotalChange': 0.1579}
+===============
+ResourceSerial: 1742571, start: 2015-12-30 00:00:00, End: 2016-03-22 00:00:00
+Week: 2016-02-16 00:00:00, numbers / total: 10 / 304, num / total percent: 0.0% / 0.0%
+Week: 2016-03-01 00:00:00, numbers / total: 20 / 352, num / total percent: +100.0% / +15.79%
+Week: 2016-03-16 00:00:00, numbers / total: 10 / 346, num / total percent: -50.0% / -1.7%
+{'source': u'Home_WebEduResources', 'res_id': 1742571, 'endDate': datetime.datetime(2016, 3, 22, 0, 0), 'startDate': datetime.datetime(2015, 12, 30, 0, 0)}
+===============
+ResourceSerial: 1731833, start: 2016-02-18 00:00:00, End: 2016-03-22 00:00:00
+Week: 2015-09-16 00:00:00, numbers / total: 3 / 722, num / total percent: 0.0% / 0.0%
+Week: 2015-10-16 00:00:00, numbers / total: 2 / 490, num / total percent: 0.0% / 0.0%
+Week: 2016-02-16 00:00:00, numbers / total: 7 / 304, num / total percent: 0.0% / 0.0%
+Week: 2016-03-01 00:00:00, numbers / total: 15 / 352, num / total percent: +114.29% / +15.79%
+Week: 2016-03-16 00:00:00, numbers / total: 2 / 346, num / total percent: -86.67% / -1.7%
+{'FirstWeek_Change': 1.1429, 'SecWeek_TotalChange': -0.017, 'endDate': datetime.datetime(2016, 3, 22, 0, 0), 'startDate': datetime.datetime(2016, 2, 18, 0, 0), 'res_id': 1731833, 'source': u'Home_WebEduResources', 'SecWeek_Change': -0.8667, 'FirstWeek_TotalChange': 0.1579}
+===============
+ResourceSerial: 1731198, start: 2016-02-18 00:00:00, End: 2016-03-22 00:00:00
+Week: 2015-06-16 00:00:00, numbers / total: 3 / 195, num / total percent: 0.0% / 0.0%
+Week: 2015-10-01 00:00:00, numbers / total: 5 / 502, num / total percent: 0.0% / 0.0%
+Week: 2015-11-01 00:00:00, numbers / total: 4 / 605, num / total percent: 0.0% / 0.0%
+Week: 2016-02-01 00:00:00, numbers / total: 2 / 147, num / total percent: 0.0% / 0.0%
+Week: 2016-02-16 00:00:00, numbers / total: 18 / 304, num / total percent: +800.0% / +106.8%
+Week: 2016-03-01 00:00:00, numbers / total: 34 / 352, num / total percent: +88.89% / +15.79%
+Week: 2016-03-16 00:00:00, numbers / total: 9 / 346, num / total percent: -73.53% / -1.7%
+Week: 2016-05-01 00:00:00, numbers / total: 4 / 342, num / total percent: 0.0% / 0.0%
+Week: 2016-05-16 00:00:00, numbers / total: 1 / 203, num / total percent: -75.0% / -40.64%
+{'FirstWeek_Change': 0.8889, 'SecWeek_TotalChange': -0.017, 'endDate': datetime.datetime(2016, 3, 22, 0, 0), 'startDate': datetime.datetime(2016, 2, 18, 0, 0), 'res_id': 1731198, 'source': u'Home_WebEduResources', 'SecWeek_Change': -0.7353, 'FirstWeek_TotalChange': 0.1579}
+===============
+ResourceSerial: 1732548, start: 2016-02-18 00:00:00, End: 2016-03-22 00:00:00
+Week: 2016-01-01 00:00:00, numbers / total: 8 / 363, num / total percent: 0.0% / 0.0%
+Week: 2016-02-16 00:00:00, numbers / total: 16 / 304, num / total percent: 0.0% / 0.0%
+Week: 2016-03-01 00:00:00, numbers / total: 16 / 352, num / total percent: 0.0% / +15.79%
+Week: 2016-03-16 00:00:00, numbers / total: 8 / 346, num / total percent: -50.0% / -1.7%
+Week: 2016-04-01 00:00:00, numbers / total: 1 / 287, num / total percent: -87.5% / -17.05%
+{'FirstWeek_Change': 0.0, 'SecWeek_TotalChange': -0.017, 'endDate': datetime.datetime(2016, 3, 22, 0, 0), 'startDate': datetime.datetime(2016, 2, 18, 0, 0), 'res_id': 1732548, 'source': u'Home_WebEduResources', 'SecWeek_Change': -0.5, 'FirstWeek_TotalChange': 0.1579}
+===============
+ResourceSerial: 1606381, start: 2016-02-18 00:00:00, End: 2016-03-22 00:00:00
+Week: 2015-09-16 00:00:00, numbers / total: 2 / 722, num / total percent: 0.0% / 0.0%
+Week: 2015-10-16 00:00:00, numbers / total: 9 / 490, num / total percent: 0.0% / 0.0%
+Week: 2015-11-16 00:00:00, numbers / total: 4 / 495, num / total percent: 0.0% / 0.0%
+Week: 2015-12-01 00:00:00, numbers / total: 3 / 377, num / total percent: -25.0% / -23.84%
+Week: 2015-12-16 00:00:00, numbers / total: 1 / 330, num / total percent: -66.67% / -12.47%
+Week: 2016-01-01 00:00:00, numbers / total: 5 / 363, num / total percent: +400.0% / +10.0%
+Week: 2016-01-16 00:00:00, numbers / total: 4 / 201, num / total percent: -20.0% / -44.63%
+Week: 2016-02-01 00:00:00, numbers / total: 3 / 147, num / total percent: -25.0% / -26.87%
+Week: 2016-02-16 00:00:00, numbers / total: 17 / 304, num / total percent: +466.67% / +106.8%
+Week: 2016-03-01 00:00:00, numbers / total: 16 / 352, num / total percent: -5.88% / +15.79%
+Week: 2016-03-16 00:00:00, numbers / total: 19 / 346, num / total percent: +18.75% / -1.7%
+Week: 2016-04-01 00:00:00, numbers / total: 3 / 287, num / total percent: -84.21% / -17.05%
+Week: 2016-04-16 00:00:00, numbers / total: 4 / 342, num / total percent: +33.33% / +19.16%
+Week: 2016-05-01 00:00:00, numbers / total: 2 / 342, num / total percent: -50.0% / 0.0%
+{'FirstWeek_Change': -0.0588, 'SecWeek_TotalChange': -0.017, 'endDate': datetime.datetime(2016, 3, 22, 0, 0), 'startDate': datetime.datetime(2016, 2, 18, 0, 0), 'res_id': 1606381, 'source': u'Home_WebEduResources', 'SecWeek_Change': 0.1875, 'FirstWeek_TotalChange': 0.1579}
+===============
+ResourceSerial: 1731108, start: 2016-02-18 00:00:00, End: 2016-03-22 00:00:00
+Week: 2016-02-16 00:00:00, numbers / total: 5 / 304, num / total percent: 0.0% / 0.0%
+Week: 2016-03-01 00:00:00, numbers / total: 9 / 352, num / total percent: +80.0% / +15.79%
+Week: 2016-03-16 00:00:00, numbers / total: 1 / 346, num / total percent: -88.89% / -1.7%
+Week: 2016-04-01 00:00:00, numbers / total: 1 / 287, num / total percent: 0.0% / -17.05%
+{'FirstWeek_Change': 0.8, 'SecWeek_TotalChange': -0.017, 'endDate': datetime.datetime(2016, 3, 22, 0, 0), 'startDate': datetime.datetime(2016, 2, 18, 0, 0), 'res_id': 1731108, 'source': u'Home_WebEduResources', 'SecWeek_Change': -0.8889, 'FirstWeek_TotalChange': 0.1579}
+===============
+ResourceSerial: 1374298, start: 2016-02-18 00:00:00, End: 2016-03-22 00:00:00
+Week: 2015-07-01 00:00:00, numbers / total: 1 / 241, num / total percent: 0.0% / 0.0%
+Week: 2015-08-01 00:00:00, numbers / total: 2 / 196, num / total percent: 0.0% / 0.0%
+Week: 2015-08-16 00:00:00, numbers / total: 3 / 362, num / total percent: +50.0% / +84.69%
+Week: 2015-10-16 00:00:00, numbers / total: 2 / 490, num / total percent: 0.0% / 0.0%
+Week: 2015-11-01 00:00:00, numbers / total: 2 / 605, num / total percent: 0.0% / +23.47%
+Week: 2015-11-16 00:00:00, numbers / total: 1 / 495, num / total percent: -50.0% / -18.18%
+Week: 2015-12-01 00:00:00, numbers / total: 3 / 377, num / total percent: +200.0% / -23.84%
+Week: 2015-12-16 00:00:00, numbers / total: 8 / 330, num / total percent: +166.67% / -12.47%
+Week: 2016-01-01 00:00:00, numbers / total: 11 / 363, num / total percent: +37.5% / +10.0%
+Week: 2016-01-16 00:00:00, numbers / total: 2 / 201, num / total percent: -81.82% / -44.63%
+Week: 2016-02-16 00:00:00, numbers / total: 20 / 304, num / total percent: 0.0% / 0.0%
+Week: 2016-03-01 00:00:00, numbers / total: 12 / 352, num / total percent: -40.0% / +15.79%
+Week: 2016-03-16 00:00:00, numbers / total: 9 / 346, num / total percent: -25.0% / -1.7%
+Week: 2016-04-01 00:00:00, numbers / total: 1 / 287, num / total percent: -88.89% / -17.05%
+Week: 2016-04-16 00:00:00, numbers / total: 3 / 342, num / total percent: +200.0% / +19.16%
+Week: 2016-05-01 00:00:00, numbers / total: 1 / 342, num / total percent: -66.67% / 0.0%
+{'FirstWeek_Change': -0.4, 'SecWeek_TotalChange': -0.017, 'endDate': datetime.datetime(2016, 3, 22, 0, 0), 'startDate': datetime.datetime(2016, 2, 18, 0, 0), 'res_id': 1374298, 'source': u'Home_WebEduResources', 'SecWeek_Change': -0.25, 'FirstWeek_TotalChange': 0.1579}
+===============
+ResourceSerial: 636398, start: 2016-02-18 00:00:00, End: 2016-03-22 00:00:00
+Week: 2015-07-16 00:00:00, numbers / total: 4 / 256, num / total percent: 0.0% / 0.0%
+Week: 2015-09-01 00:00:00, numbers / total: 4 / 445, num / total percent: 0.0% / 0.0%
+Week: 2015-10-01 00:00:00, numbers / total: 2 / 502, num / total percent: 0.0% / 0.0%
+Week: 2015-10-16 00:00:00, numbers / total: 3 / 490, num / total percent: +50.0% / -2.39%
+Week: 2015-11-16 00:00:00, numbers / total: 2 / 495, num / total percent: 0.0% / 0.0%
+Week: 2016-02-16 00:00:00, numbers / total: 11 / 304, num / total percent: 0.0% / 0.0%
+Week: 2016-03-16 00:00:00, numbers / total: 2 / 346, num / total percent: 0.0% / 0.0%
+Week: 2016-04-01 00:00:00, numbers / total: 1 / 287, num / total percent: -50.0% / -17.05%
+Week: 2016-04-16 00:00:00, numbers / total: 2 / 342, num / total percent: +100.0% / +19.16%
+{'FirstWeek_Change': 0.0, 'SecWeek_TotalChange': 0.0, 'endDate': datetime.datetime(2016, 3, 22, 0, 0), 'startDate': datetime.datetime(2016, 2, 18, 0, 0), 'res_id': 636398, 'source': u'Home_WebEduResources', 'SecWeek_Change': 0.0, 'FirstWeek_TotalChange': 0.0}
+===============
+ResourceSerial: 1664184, start: 2016-02-18 00:00:00, End: 2016-05-11 00:00:00
+Week: 2014-11-16 00:00:00, numbers / total: 3 / 250, num / total percent: 0.0% / 0.0%
+Week: 2014-12-01 00:00:00, numbers / total: 2 / 280, num / total percent: -33.33% / +12.0%
+Week: 2015-03-16 00:00:00, numbers / total: 5 / 169, num / total percent: 0.0% / 0.0%
+Week: 2015-04-16 00:00:00, numbers / total: 3 / 148, num / total percent: 0.0% / 0.0%
+Week: 2015-05-01 00:00:00, numbers / total: 2 / 166, num / total percent: -33.33% / +12.16%
+Week: 2015-06-16 00:00:00, numbers / total: 6 / 195, num / total percent: 0.0% / 0.0%
+Week: 2015-07-16 00:00:00, numbers / total: 3 / 256, num / total percent: 0.0% / 0.0%
+Week: 2015-08-01 00:00:00, numbers / total: 2 / 196, num / total percent: -33.33% / -23.44%
+Week: 2015-08-16 00:00:00, numbers / total: 7 / 362, num / total percent: +250.0% / +84.69%
+Week: 2015-09-01 00:00:00, numbers / total: 3 / 445, num / total percent: -57.14% / +22.93%
+Week: 2015-09-16 00:00:00, numbers / total: 1 / 722, num / total percent: -66.67% / +62.25%
+Week: 2015-10-01 00:00:00, numbers / total: 4 / 502, num / total percent: +300.0% / -30.47%
+Week: 2015-10-16 00:00:00, numbers / total: 5 / 490, num / total percent: +25.0% / -2.39%
+Week: 2015-11-01 00:00:00, numbers / total: 2 / 605, num / total percent: -60.0% / +23.47%
+Week: 2015-11-16 00:00:00, numbers / total: 2 / 495, num / total percent: 0.0% / -18.18%
+Week: 2015-12-01 00:00:00, numbers / total: 4 / 377, num / total percent: +100.0% / -23.84%
+Week: 2015-12-16 00:00:00, numbers / total: 6 / 330, num / total percent: +50.0% / -12.47%
+Week: 2016-01-01 00:00:00, numbers / total: 4 / 363, num / total percent: -33.33% / +10.0%
+Week: 2016-01-16 00:00:00, numbers / total: 2 / 201, num / total percent: -50.0% / -44.63%
+Week: 2016-02-01 00:00:00, numbers / total: 2 / 147, num / total percent: 0.0% / -26.87%
+Week: 2016-02-16 00:00:00, numbers / total: 9 / 304, num / total percent: +350.0% / +106.8%
+Week: 2016-03-01 00:00:00, numbers / total: 4 / 352, num / total percent: -55.56% / +15.79%
+Week: 2016-03-16 00:00:00, numbers / total: 23 / 346, num / total percent: +475.0% / -1.7%
+Week: 2016-04-01 00:00:00, numbers / total: 27 / 287, num / total percent: +17.39% / -17.05%
+Week: 2016-04-16 00:00:00, numbers / total: 56 / 342, num / total percent: +107.41% / +19.16%
+Week: 2016-05-01 00:00:00, numbers / total: 18 / 342, num / total percent: -67.86% / 0.0%
+Week: 2016-05-16 00:00:00, numbers / total: 6 / 203, num / total percent: -66.67% / -40.64%
+{'FirstWeek_Change': -0.5556, 'SecWeek_TotalChange': -0.017, 'endDate': datetime.datetime(2016, 5, 11, 0, 0), 'startDate': datetime.datetime(2016, 2, 18, 0, 0), 'res_id': 1664184, 'source': u'Home_WebEduResources', 'SecWeek_Change': 4.75, 'FirstWeek_TotalChange': 0.1579}
+===============
+ResourceSerial: 1606360, start: 2016-02-18 00:00:00, End: 2016-05-11 00:00:00
+Week: 2015-07-01 00:00:00, numbers / total: 1 / 241, num / total percent: 0.0% / 0.0%
+Week: 2015-07-16 00:00:00, numbers / total: 2 / 256, num / total percent: +100.0% / +6.22%
+Week: 2015-08-01 00:00:00, numbers / total: 1 / 196, num / total percent: -50.0% / -23.44%
+Week: 2015-08-16 00:00:00, numbers / total: 2 / 362, num / total percent: +100.0% / +84.69%
+Week: 2015-09-16 00:00:00, numbers / total: 1 / 722, num / total percent: 0.0% / 0.0%
+Week: 2015-10-01 00:00:00, numbers / total: 1 / 502, num / total percent: 0.0% / -30.47%
+Week: 2015-10-16 00:00:00, numbers / total: 4 / 490, num / total percent: +300.0% / -2.39%
+Week: 2015-11-16 00:00:00, numbers / total: 2 / 495, num / total percent: 0.0% / 0.0%
+Week: 2015-12-01 00:00:00, numbers / total: 6 / 377, num / total percent: +200.0% / -23.84%
+Week: 2015-12-16 00:00:00, numbers / total: 2 / 330, num / total percent: -66.67% / -12.47%
+Week: 2016-01-01 00:00:00, numbers / total: 2 / 363, num / total percent: 0.0% / +10.0%
+Week: 2016-02-01 00:00:00, numbers / total: 2 / 147, num / total percent: 0.0% / 0.0%
+Week: 2016-02-16 00:00:00, numbers / total: 6 / 304, num / total percent: +200.0% / +106.8%
+Week: 2016-03-01 00:00:00, numbers / total: 9 / 352, num / total percent: +50.0% / +15.79%
+Week: 2016-03-16 00:00:00, numbers / total: 12 / 346, num / total percent: +33.33% / -1.7%
+Week: 2016-04-01 00:00:00, numbers / total: 17 / 287, num / total percent: +41.67% / -17.05%
+Week: 2016-04-16 00:00:00, numbers / total: 24 / 342, num / total percent: +41.18% / +19.16%
+Week: 2016-05-01 00:00:00, numbers / total: 20 / 342, num / total percent: -16.67% / 0.0%
+Week: 2016-05-16 00:00:00, numbers / total: 3 / 203, num / total percent: -85.0% / -40.64%
+{'FirstWeek_Change': 0.5, 'SecWeek_TotalChange': -0.017, 'endDate': datetime.datetime(2016, 5, 11, 0, 0), 'startDate': datetime.datetime(2016, 2, 18, 0, 0), 'res_id': 1606360, 'source': u'Home_WebEduResources', 'SecWeek_Change': 0.3333, 'FirstWeek_TotalChange': 0.1579}
+===============
+ResourceSerial: 1689766, start: 2016-03-23 00:00:00, End: 2016-05-11 00:00:00
+Week: 2015-06-01 00:00:00, numbers / total: 2 / 301, num / total percent: 0.0% / 0.0%
+Week: 2015-10-01 00:00:00, numbers / total: 2 / 502, num / total percent: 0.0% / 0.0%
+Week: 2016-03-16 00:00:00, numbers / total: 12 / 346, num / total percent: 0.0% / 0.0%
+Week: 2016-04-01 00:00:00, numbers / total: 8 / 287, num / total percent: -33.33% / -17.05%
+Week: 2016-04-16 00:00:00, numbers / total: 8 / 342, num / total percent: 0.0% / +19.16%
+Week: 2016-05-01 00:00:00, numbers / total: 8 / 342, num / total percent: 0.0% / 0.0%
+{'FirstWeek_Change': -0.3333, 'SecWeek_TotalChange': 0.1916, 'endDate': datetime.datetime(2016, 5, 11, 0, 0), 'startDate': datetime.datetime(2016, 3, 23, 0, 0), 'res_id': 1689766, 'source': u'Home_WebEduResources', 'SecWeek_Change': 0.0, 'FirstWeek_TotalChange': -0.1705}
+===============
+ResourceSerial: 1689944, start: 2016-03-23 00:00:00, End: 2016-05-11 00:00:00
+Week: 2014-11-16 00:00:00, numbers / total: 2 / 250, num / total percent: 0.0% / 0.0%
+Week: 2014-12-01 00:00:00, numbers / total: 5 / 280, num / total percent: +150.0% / +12.0%
+Week: 2014-12-16 00:00:00, numbers / total: 1 / 149, num / total percent: -80.0% / -46.79%
+Week: 2015-02-01 00:00:00, numbers / total: 3 / 106, num / total percent: 0.0% / 0.0%
+Week: 2015-05-01 00:00:00, numbers / total: 2 / 166, num / total percent: 0.0% / 0.0%
+Week: 2015-07-01 00:00:00, numbers / total: 4 / 241, num / total percent: 0.0% / 0.0%
+Week: 2015-07-16 00:00:00, numbers / total: 4 / 256, num / total percent: 0.0% / +6.22%
+Week: 2015-09-16 00:00:00, numbers / total: 2 / 722, num / total percent: 0.0% / 0.0%
+Week: 2015-11-01 00:00:00, numbers / total: 1 / 605, num / total percent: 0.0% / 0.0%
+Week: 2015-12-01 00:00:00, numbers / total: 1 / 377, num / total percent: 0.0% / 0.0%
+Week: 2016-03-16 00:00:00, numbers / total: 19 / 346, num / total percent: 0.0% / 0.0%
+Week: 2016-04-01 00:00:00, numbers / total: 12 / 287, num / total percent: -36.84% / -17.05%
+Week: 2016-04-16 00:00:00, numbers / total: 14 / 342, num / total percent: +16.67% / +19.16%
+Week: 2016-05-01 00:00:00, numbers / total: 27 / 342, num / total percent: +92.86% / 0.0%
+Week: 2016-05-16 00:00:00, numbers / total: 1 / 203, num / total percent: -96.3% / -40.64%
+{'FirstWeek_Change': -0.3684, 'SecWeek_TotalChange': 0.1916, 'endDate': datetime.datetime(2016, 5, 11, 0, 0), 'startDate': datetime.datetime(2016, 3, 23, 0, 0), 'res_id': 1689944, 'source': u'Home_WebEduResources', 'SecWeek_Change': 0.1667, 'FirstWeek_TotalChange': -0.1705}
+===============
+ResourceSerial: 1689574, start: 2016-03-23 00:00:00, End: 2016-05-11 00:00:00
+Week: 2014-11-16 00:00:00, numbers / total: 2 / 250, num / total percent: 0.0% / 0.0%
+Week: 2014-12-01 00:00:00, numbers / total: 5 / 280, num / total percent: +150.0% / +12.0%
+Week: 2015-01-01 00:00:00, numbers / total: 2 / 56, num / total percent: 0.0% / 0.0%
+Week: 2015-06-01 00:00:00, numbers / total: 4 / 301, num / total percent: 0.0% / 0.0%
+Week: 2015-07-16 00:00:00, numbers / total: 4 / 256, num / total percent: 0.0% / 0.0%
+Week: 2015-09-01 00:00:00, numbers / total: 2 / 445, num / total percent: 0.0% / 0.0%
+Week: 2015-10-01 00:00:00, numbers / total: 5 / 502, num / total percent: 0.0% / 0.0%
+Week: 2015-10-16 00:00:00, numbers / total: 2 / 490, num / total percent: -60.0% / -2.39%
+Week: 2015-12-01 00:00:00, numbers / total: 4 / 377, num / total percent: 0.0% / 0.0%
+Week: 2015-12-16 00:00:00, numbers / total: 1 / 330, num / total percent: -75.0% / -12.47%
+Week: 2016-01-16 00:00:00, numbers / total: 2 / 201, num / total percent: 0.0% / 0.0%
+Week: 2016-02-16 00:00:00, numbers / total: 4 / 304, num / total percent: 0.0% / 0.0%
+Week: 2016-03-01 00:00:00, numbers / total: 2 / 352, num / total percent: -50.0% / +15.79%
+Week: 2016-03-16 00:00:00, numbers / total: 10 / 346, num / total percent: +400.0% / -1.7%
+Week: 2016-04-01 00:00:00, numbers / total: 19 / 287, num / total percent: +90.0% / -17.05%
+Week: 2016-04-16 00:00:00, numbers / total: 29 / 342, num / total percent: +52.63% / +19.16%
+Week: 2016-05-01 00:00:00, numbers / total: 3 / 342, num / total percent: -89.66% / 0.0%
+Week: 2016-05-16 00:00:00, numbers / total: 3 / 203, num / total percent: 0.0% / -40.64%
+{'FirstWeek_Change': 0.9, 'SecWeek_TotalChange': 0.1916, 'endDate': datetime.datetime(2016, 5, 11, 0, 0), 'startDate': datetime.datetime(2016, 3, 23, 0, 0), 'res_id': 1689574, 'source': u'Home_WebEduResources', 'SecWeek_Change': 0.5263, 'FirstWeek_TotalChange': -0.1705}
+===============
+ResourceSerial: 1687493, start: 2016-03-23 00:00:00, End: 2016-05-11 00:00:00
+Week: 2015-07-01 00:00:00, numbers / total: 2 / 241, num / total percent: 0.0% / 0.0%
+Week: 2015-07-16 00:00:00, numbers / total: 4 / 256, num / total percent: +100.0% / +6.22%
+Week: 2015-09-16 00:00:00, numbers / total: 2 / 722, num / total percent: 0.0% / 0.0%
+Week: 2015-10-01 00:00:00, numbers / total: 2 / 502, num / total percent: 0.0% / -30.47%
+Week: 2015-12-01 00:00:00, numbers / total: 2 / 377, num / total percent: 0.0% / 0.0%
+Week: 2016-03-16 00:00:00, numbers / total: 7 / 346, num / total percent: 0.0% / 0.0%
+Week: 2016-04-01 00:00:00, numbers / total: 4 / 287, num / total percent: -42.86% / -17.05%
+Week: 2016-04-16 00:00:00, numbers / total: 5 / 342, num / total percent: +25.0% / +19.16%
+Week: 2016-05-01 00:00:00, numbers / total: 13 / 342, num / total percent: +160.0% / 0.0%
+{'FirstWeek_Change': -0.4286, 'SecWeek_TotalChange': 0.1916, 'endDate': datetime.datetime(2016, 5, 11, 0, 0), 'startDate': datetime.datetime(2016, 3, 23, 0, 0), 'res_id': 1687493, 'source': u'Home_WebEduResources', 'SecWeek_Change': 0.25, 'FirstWeek_TotalChange': -0.1705}
+===============
+ResourceSerial: 1690657, start: 2016-03-23 00:00:00, End: 2016-05-11 00:00:00
+Week: 2014-11-01 00:00:00, numbers / total: 3 / 156, num / total percent: 0.0% / 0.0%
+Week: 2015-08-16 00:00:00, numbers / total: 2 / 362, num / total percent: 0.0% / 0.0%
+Week: 2015-09-16 00:00:00, numbers / total: 9 / 722, num / total percent: 0.0% / 0.0%
+Week: 2015-10-16 00:00:00, numbers / total: 5 / 490, num / total percent: 0.0% / 0.0%
+Week: 2016-02-16 00:00:00, numbers / total: 4 / 304, num / total percent: 0.0% / 0.0%
+Week: 2016-03-16 00:00:00, numbers / total: 9 / 346, num / total percent: 0.0% / 0.0%
+Week: 2016-04-01 00:00:00, numbers / total: 20 / 287, num / total percent: +122.22% / -17.05%
+Week: 2016-04-16 00:00:00, numbers / total: 9 / 342, num / total percent: -55.0% / +19.16%
+Week: 2016-05-01 00:00:00, numbers / total: 16 / 342, num / total percent: +77.78% / 0.0%
+{'FirstWeek_Change': 1.2222, 'SecWeek_TotalChange': 0.1916, 'endDate': datetime.datetime(2016, 5, 11, 0, 0), 'startDate': datetime.datetime(2016, 3, 23, 0, 0), 'res_id': 1690657, 'source': u'Home_WebEduResources', 'SecWeek_Change': -0.55, 'FirstWeek_TotalChange': -0.1705}
+===============
+ResourceSerial: 1688342, start: 2016-03-23 00:00:00, End: 2016-05-11 00:00:00
+Week: 2014-12-16 00:00:00, numbers / total: 2 / 149, num / total percent: 0.0% / 0.0%
+Week: 2015-04-16 00:00:00, numbers / total: 3 / 148, num / total percent: 0.0% / 0.0%
+Week: 2015-07-01 00:00:00, numbers / total: 4 / 241, num / total percent: 0.0% / 0.0%
+Week: 2015-07-16 00:00:00, numbers / total: 1 / 256, num / total percent: -75.0% / +6.22%
+Week: 2015-08-01 00:00:00, numbers / total: 4 / 196, num / total percent: +300.0% / -23.44%
+Week: 2015-09-16 00:00:00, numbers / total: 2 / 722, num / total percent: 0.0% / 0.0%
+Week: 2015-10-01 00:00:00, numbers / total: 2 / 502, num / total percent: 0.0% / -30.47%
+Week: 2015-10-16 00:00:00, numbers / total: 3 / 490, num / total percent: +50.0% / -2.39%
+Week: 2015-12-01 00:00:00, numbers / total: 2 / 377, num / total percent: 0.0% / 0.0%
+Week: 2016-02-01 00:00:00, numbers / total: 2 / 147, num / total percent: 0.0% / 0.0%
+Week: 2016-02-16 00:00:00, numbers / total: 2 / 304, num / total percent: 0.0% / +106.8%
+Week: 2016-03-16 00:00:00, numbers / total: 8 / 346, num / total percent: 0.0% / 0.0%
+Week: 2016-04-01 00:00:00, numbers / total: 11 / 287, num / total percent: +37.5% / -17.05%
+Week: 2016-04-16 00:00:00, numbers / total: 5 / 342, num / total percent: -54.55% / +19.16%
+Week: 2016-05-01 00:00:00, numbers / total: 7 / 342, num / total percent: +40.0% / 0.0%
+{'FirstWeek_Change': 0.375, 'SecWeek_TotalChange': 0.1916, 'endDate': datetime.datetime(2016, 5, 11, 0, 0), 'startDate': datetime.datetime(2016, 3, 23, 0, 0), 'res_id': 1688342, 'source': u'Home_WebEduResources', 'SecWeek_Change': -0.5455, 'FirstWeek_TotalChange': -0.1705}
+===============
+ResourceSerial: 1691104, start: 2016-03-23 00:00:00, End: 2016-05-11 00:00:00
+Week: 2014-11-01 00:00:00, numbers / total: 3 / 156, num / total percent: 0.0% / 0.0%
+Week: 2014-11-16 00:00:00, numbers / total: 1 / 250, num / total percent: -66.67% / +60.26%
+Week: 2015-03-16 00:00:00, numbers / total: 2 / 169, num / total percent: 0.0% / 0.0%
+Week: 2015-04-01 00:00:00, numbers / total: 2 / 106, num / total percent: 0.0% / -37.28%
+Week: 2015-04-16 00:00:00, numbers / total: 4 / 148, num / total percent: +100.0% / +39.62%
+Week: 2015-05-16 00:00:00, numbers / total: 1 / 201, num / total percent: 0.0% / 0.0%
+Week: 2015-07-01 00:00:00, numbers / total: 2 / 241, num / total percent: 0.0% / 0.0%
+Week: 2015-07-16 00:00:00, numbers / total: 2 / 256, num / total percent: 0.0% / +6.22%
+Week: 2015-09-16 00:00:00, numbers / total: 2 / 722, num / total percent: 0.0% / 0.0%
+Week: 2015-10-01 00:00:00, numbers / total: 3 / 502, num / total percent: +50.0% / -30.47%
+Week: 2015-10-16 00:00:00, numbers / total: 2 / 490, num / total percent: -33.33% / -2.39%
+Week: 2015-11-01 00:00:00, numbers / total: 1 / 605, num / total percent: -50.0% / +23.47%
+Week: 2015-11-16 00:00:00, numbers / total: 2 / 495, num / total percent: +100.0% / -18.18%
+Week: 2015-12-01 00:00:00, numbers / total: 1 / 377, num / total percent: -50.0% / -23.84%
+Week: 2016-01-01 00:00:00, numbers / total: 5 / 363, num / total percent: 0.0% / 0.0%
+Week: 2016-02-16 00:00:00, numbers / total: 2 / 304, num / total percent: 0.0% / 0.0%
+Week: 2016-03-16 00:00:00, numbers / total: 9 / 346, num / total percent: 0.0% / 0.0%
+Week: 2016-04-01 00:00:00, numbers / total: 21 / 287, num / total percent: +133.33% / -17.05%
+Week: 2016-04-16 00:00:00, numbers / total: 22 / 342, num / total percent: +4.76% / +19.16%
+Week: 2016-05-01 00:00:00, numbers / total: 10 / 342, num / total percent: -54.55% / 0.0%
+{'FirstWeek_Change': 1.3333, 'SecWeek_TotalChange': 0.1916, 'endDate': datetime.datetime(2016, 5, 11, 0, 0), 'startDate': datetime.datetime(2016, 3, 23, 0, 0), 'res_id': 1691104, 'source': u'Home_WebEduResources', 'SecWeek_Change': 0.0476, 'FirstWeek_TotalChange': -0.1705}
+===============
+ResourceSerial: 1709232, start: 2016-03-23 00:00:00, End: 2016-05-11 00:00:00
+Week: 2015-08-16 00:00:00, numbers / total: 2 / 362, num / total percent: 0.0% / 0.0%
+Week: 2015-09-16 00:00:00, numbers / total: 3 / 722, num / total percent: 0.0% / 0.0%
+Week: 2015-10-16 00:00:00, numbers / total: 3 / 490, num / total percent: 0.0% / 0.0%
+Week: 2015-11-16 00:00:00, numbers / total: 5 / 495, num / total percent: 0.0% / 0.0%
+Week: 2015-12-01 00:00:00, numbers / total: 1 / 377, num / total percent: -80.0% / -23.84%
+Week: 2016-01-01 00:00:00, numbers / total: 5 / 363, num / total percent: 0.0% / 0.0%
+Week: 2016-01-16 00:00:00, numbers / total: 2 / 201, num / total percent: -60.0% / -44.63%
+Week: 2016-02-16 00:00:00, numbers / total: 5 / 304, num / total percent: 0.0% / 0.0%
+Week: 2016-03-01 00:00:00, numbers / total: 6 / 352, num / total percent: +20.0% / +15.79%
+Week: 2016-03-16 00:00:00, numbers / total: 3 / 346, num / total percent: -50.0% / -1.7%
+Week: 2016-04-01 00:00:00, numbers / total: 12 / 287, num / total percent: +300.0% / -17.05%
+Week: 2016-04-16 00:00:00, numbers / total: 13 / 342, num / total percent: +8.33% / +19.16%
+Week: 2016-05-01 00:00:00, numbers / total: 12 / 342, num / total percent: -7.69% / 0.0%
+Week: 2016-05-16 00:00:00, numbers / total: 6 / 203, num / total percent: -50.0% / -40.64%
+{'FirstWeek_Change': 3.0, 'SecWeek_TotalChange': 0.1916, 'endDate': datetime.datetime(2016, 5, 11, 0, 0), 'startDate': datetime.datetime(2016, 3, 23, 0, 0), 'res_id': 1709232, 'source': u'Home_WebEduResources', 'SecWeek_Change': 0.0833, 'FirstWeek_TotalChange': -0.1705}
+===============
+ResourceSerial: 1689538, start: 2016-05-12 00:00:00, End: 2016-06-14 00:00:00
+Week: 2015-04-16 00:00:00, numbers / total: 4 / 148, num / total percent: 0.0% / 0.0%
+Week: 2015-05-01 00:00:00, numbers / total: 17 / 166, num / total percent: +325.0% / +12.16%
+Week: 2015-05-16 00:00:00, numbers / total: 16 / 201, num / total percent: -5.88% / +21.08%
+Week: 2015-06-01 00:00:00, numbers / total: 32 / 301, num / total percent: +100.0% / +49.75%
+Week: 2015-06-16 00:00:00, numbers / total: 15 / 195, num / total percent: -53.13% / -35.22%
+Week: 2015-08-16 00:00:00, numbers / total: 1 / 362, num / total percent: 0.0% / 0.0%
+Week: 2016-01-01 00:00:00, numbers / total: 2 / 363, num / total percent: 0.0% / 0.0%
+Week: 2016-05-01 00:00:00, numbers / total: 11 / 342, num / total percent: 0.0% / 0.0%
+Week: 2016-05-16 00:00:00, numbers / total: 41 / 203, num / total percent: +272.73% / -40.64%
+{'FirstWeek_Change': 2.7273, 'endDate': datetime.datetime(2016, 6, 14, 0, 0), 'startDate': datetime.datetime(2016, 5, 12, 0, 0), 'res_id': 1689538, 'source': u'Home_WebEduResources', 'FirstWeek_TotalChange': -0.4064}
+===============
+ResourceSerial: 1687727, start: 2016-05-12 00:00:00, End: 2016-06-14 00:00:00
+Week: 2015-05-01 00:00:00, numbers / total: 1 / 166, num / total percent: 0.0% / 0.0%
+Week: 2015-05-16 00:00:00, numbers / total: 6 / 201, num / total percent: +500.0% / +21.08%
+Week: 2015-06-01 00:00:00, numbers / total: 15 / 301, num / total percent: +150.0% / +49.75%
+Week: 2015-06-16 00:00:00, numbers / total: 7 / 195, num / total percent: -53.33% / -35.22%
+Week: 2015-09-16 00:00:00, numbers / total: 8 / 722, num / total percent: 0.0% / 0.0%
+Week: 2015-10-01 00:00:00, numbers / total: 5 / 502, num / total percent: -37.5% / -30.47%
+Week: 2015-10-16 00:00:00, numbers / total: 4 / 490, num / total percent: -20.0% / -2.39%
+Week: 2015-11-01 00:00:00, numbers / total: 1 / 605, num / total percent: -75.0% / +23.47%
+Week: 2015-12-16 00:00:00, numbers / total: 2 / 330, num / total percent: 0.0% / 0.0%
+Week: 2016-05-01 00:00:00, numbers / total: 2 / 342, num / total percent: 0.0% / 0.0%
+Week: 2016-05-16 00:00:00, numbers / total: 26 / 203, num / total percent: +1200.0% / -40.64%
+{'FirstWeek_Change': 12.0, 'endDate': datetime.datetime(2016, 6, 14, 0, 0), 'startDate': datetime.datetime(2016, 5, 12, 0, 0), 'res_id': 1687727, 'source': u'Home_WebEduResources', 'FirstWeek_TotalChange': -0.4064}
+===============
+ResourceSerial: 1601349, start: 2016-05-12 00:00:00, End: 2016-06-14 00:00:00
+Week: 2015-12-16 00:00:00, numbers / total: 2 / 330, num / total percent: 0.0% / 0.0%
+Week: 2016-05-01 00:00:00, numbers / total: 6 / 342, num / total percent: 0.0% / 0.0%
+Week: 2016-05-16 00:00:00, numbers / total: 6 / 203, num / total percent: 0.0% / -40.64%
+{'FirstWeek_Change': 0.0, 'endDate': datetime.datetime(2016, 6, 14, 0, 0), 'startDate': datetime.datetime(2016, 5, 12, 0, 0), 'res_id': 1601349, 'source': u'Home_WebEduResources', 'FirstWeek_TotalChange': -0.4064}
+===============
+ResourceSerial: 1600844, start: 2016-05-12 00:00:00, End: 2016-06-14 00:00:00
+Week: 2015-06-16 00:00:00, numbers / total: 1 / 195, num / total percent: 0.0% / 0.0%
+Week: 2016-02-01 00:00:00, numbers / total: 2 / 147, num / total percent: 0.0% / 0.0%
+Week: 2016-03-16 00:00:00, numbers / total: 1 / 346, num / total percent: 0.0% / 0.0%
+Week: 2016-04-01 00:00:00, numbers / total: 1 / 287, num / total percent: 0.0% / -17.05%
+Week: 2016-04-16 00:00:00, numbers / total: 1 / 342, num / total percent: 0.0% / +19.16%
+Week: 2016-05-01 00:00:00, numbers / total: 3 / 342, num / total percent: +200.0% / 0.0%
+Week: 2016-05-16 00:00:00, numbers / total: 3 / 203, num / total percent: 0.0% / -40.64%
+{'FirstWeek_Change': 0.0, 'endDate': datetime.datetime(2016, 6, 14, 0, 0), 'startDate': datetime.datetime(2016, 5, 12, 0, 0), 'res_id': 1600844, 'source': u'Home_WebEduResources', 'FirstWeek_TotalChange': -0.4064}
+===============
+ResourceSerial: 1743035, start: 2016-05-12 00:00:00, End: 2016-06-14 00:00:00
+Week: 2016-05-01 00:00:00, numbers / total: 5 / 342, num / total percent: 0.0% / 0.0%
+Week: 2016-05-16 00:00:00, numbers / total: 10 / 203, num / total percent: +100.0% / -40.64%
+{'FirstWeek_Change': 1.0, 'endDate': datetime.datetime(2016, 6, 14, 0, 0), 'startDate': datetime.datetime(2016, 5, 12, 0, 0), 'res_id': 1743035, 'source': u'Home_WebEduResources', 'FirstWeek_TotalChange': -0.4064}
+===============
+ResourceSerial: 1634645, start: 2016-05-12 00:00:00, End: 2016-06-14 00:00:00
+Week: 2014-12-01 00:00:00, numbers / total: 2 / 280, num / total percent: 0.0% / 0.0%
+Week: 2014-12-16 00:00:00, numbers / total: 5 / 149, num / total percent: +150.0% / -46.79%
+Week: 2015-01-01 00:00:00, numbers / total: 2 / 56, num / total percent: -60.0% / -62.42%
+Week: 2015-02-01 00:00:00, numbers / total: 4 / 106, num / total percent: 0.0% / 0.0%
+Week: 2015-04-16 00:00:00, numbers / total: 2 / 148, num / total percent: 0.0% / 0.0%
+Week: 2015-05-01 00:00:00, numbers / total: 1 / 166, num / total percent: -50.0% / +12.16%
+Week: 2015-06-01 00:00:00, numbers / total: 2 / 301, num / total percent: 0.0% / 0.0%
+Week: 2015-07-16 00:00:00, numbers / total: 2 / 256, num / total percent: 0.0% / 0.0%
+Week: 2015-08-01 00:00:00, numbers / total: 3 / 196, num / total percent: +50.0% / -23.44%
+Week: 2015-08-16 00:00:00, numbers / total: 2 / 362, num / total percent: -33.33% / +84.69%
+Week: 2015-09-01 00:00:00, numbers / total: 2 / 445, num / total percent: 0.0% / +22.93%
+Week: 2015-10-01 00:00:00, numbers / total: 2 / 502, num / total percent: 0.0% / 0.0%
+Week: 2015-10-16 00:00:00, numbers / total: 2 / 490, num / total percent: 0.0% / -2.39%
+Week: 2015-11-01 00:00:00, numbers / total: 2 / 605, num / total percent: 0.0% / +23.47%
+Week: 2015-12-01 00:00:00, numbers / total: 14 / 377, num / total percent: 0.0% / 0.0%
+Week: 2015-12-16 00:00:00, numbers / total: 8 / 330, num / total percent: -42.86% / -12.47%
+Week: 2016-01-01 00:00:00, numbers / total: 2 / 363, num / total percent: -75.0% / +10.0%
+Week: 2016-01-16 00:00:00, numbers / total: 1 / 201, num / total percent: -50.0% / -44.63%
+Week: 2016-02-01 00:00:00, numbers / total: 2 / 147, num / total percent: +100.0% / -26.87%
+Week: 2016-04-16 00:00:00, numbers / total: 1 / 342, num / total percent: 0.0% / 0.0%
+Week: 2016-05-01 00:00:00, numbers / total: 2 / 342, num / total percent: +100.0% / 0.0%
+Week: 2016-05-16 00:00:00, numbers / total: 1 / 203, num / total percent: -50.0% / -40.64%
+{'FirstWeek_Change': -0.5, 'endDate': datetime.datetime(2016, 6, 14, 0, 0), 'startDate': datetime.datetime(2016, 5, 12, 0, 0), 'res_id': 1634645, 'source': u'Home_WebEduResources', 'FirstWeek_TotalChange': -0.4064}
+===============
+ResourceSerial: 1742948, start: 2016-05-12 00:00:00, End: 2016-06-14 00:00:00
+Week: 2016-03-16 00:00:00, numbers / total: 9 / 346, num / total percent: 0.0% / 0.0%
+Week: 2016-04-01 00:00:00, numbers / total: 13 / 287, num / total percent: +44.44% / -17.05%
+Week: 2016-04-16 00:00:00, numbers / total: 6 / 342, num / total percent: -53.85% / +19.16%
+Week: 2016-05-01 00:00:00, numbers / total: 7 / 342, num / total percent: +16.67% / 0.0%
+Week: 2016-05-16 00:00:00, numbers / total: 1 / 203, num / total percent: -85.71% / -40.64%
+{'FirstWeek_Change': -0.8571, 'endDate': datetime.datetime(2016, 6, 14, 0, 0), 'startDate': datetime.datetime(2016, 5, 12, 0, 0), 'res_id': 1742948, 'source': u'Home_WebEduResources', 'FirstWeek_TotalChange': -0.4064}
+===============
+ResourceSerial: 1742979, start: 2016-05-12 00:00:00, End: 2016-06-14 00:00:00
+Week: 2016-04-16 00:00:00, numbers / total: 22 / 342, num / total percent: 0.0% / 0.0%
+Week: 2016-05-01 00:00:00, numbers / total: 6 / 342, num / total percent: -72.73% / 0.0%
+Week: 2016-05-16 00:00:00, numbers / total: 19 / 203, num / total percent: +216.67% / -40.64%
+{'FirstWeek_Change': 2.1667, 'endDate': datetime.datetime(2016, 6, 14, 0, 0), 'startDate': datetime.datetime(2016, 5, 12, 0, 0), 'res_id': 1742979, 'source': u'Home_WebEduResources', 'FirstWeek_TotalChange': -0.4064}
+===============
+ResourceSerial: 1743036, start: 2016-05-13 00:00:00, End: 2016-06-14 00:00:00
+Week: 2016-05-01 00:00:00, numbers / total: 8 / 342, num / total percent: 0.0% / 0.0%
+Week: 2016-05-16 00:00:00, numbers / total: 8 / 203, num / total percent: 0.0% / -40.64%
+{'FirstWeek_Change': 0.0, 'endDate': datetime.datetime(2016, 6, 14, 0, 0), 'startDate': datetime.datetime(2016, 5, 13, 0, 0), 'res_id': 1743036, 'source': u'Home_WebEduResources', 'FirstWeek_TotalChange': -0.4064}
+===============
+ResourceSerial: 1709192, start: 2016-03-23 00:00:00, End: 2016-07-20 00:00:00
+Week: 2015-09-16 00:00:00, numbers / total: 2 / 722, num / total percent: 0.0% / 0.0%
+Week: 2015-11-01 00:00:00, numbers / total: 2 / 605, num / total percent: 0.0% / 0.0%
+Week: 2016-03-16 00:00:00, numbers / total: 3 / 346, num / total percent: 0.0% / 0.0%
+Week: 2016-05-01 00:00:00, numbers / total: 4 / 342, num / total percent: 0.0% / 0.0%
+{'FirstWeek_Change': 0.0, 'endDate': datetime.datetime(2016, 7, 20, 0, 0), 'startDate': datetime.datetime(2016, 3, 23, 0, 0), 'res_id': 1709192, 'source': u'Home_WebEduResources', 'FirstWeek_TotalChange': 0.0}
+===============
+ResourceSerial: 1729500, start: 2016-06-15 00:00:00, End: 2016-07-20 00:00:00
+Dont have Data!
+===============
+ResourceSerial: 1687407, start: 2016-06-15 00:00:00, End: 2016-07-20 00:00:00
+Week: 2014-12-16 00:00:00, numbers / total: 2 / 149, num / total percent: 0.0% / 0.0%
+Week: 2015-06-01 00:00:00, numbers / total: 2 / 301, num / total percent: 0.0% / 0.0%
+Week: 2015-07-01 00:00:00, numbers / total: 8 / 241, num / total percent: 0.0% / 0.0%
+Week: 2015-07-16 00:00:00, numbers / total: 4 / 256, num / total percent: -50.0% / +6.22%
+Week: 2015-08-01 00:00:00, numbers / total: 2 / 196, num / total percent: -50.0% / -23.44%
+Week: 2015-08-16 00:00:00, numbers / total: 9 / 362, num / total percent: +350.0% / +84.69%
+Week: 2015-09-01 00:00:00, numbers / total: 14 / 445, num / total percent: +55.56% / +22.93%
+Week: 2015-09-16 00:00:00, numbers / total: 10 / 722, num / total percent: -28.57% / +62.25%
+Week: 2015-10-01 00:00:00, numbers / total: 10 / 502, num / total percent: 0.0% / -30.47%
+Week: 2015-10-16 00:00:00, numbers / total: 11 / 490, num / total percent: +10.0% / -2.39%
+Week: 2015-11-01 00:00:00, numbers / total: 9 / 605, num / total percent: -18.18% / +23.47%
+Week: 2015-11-16 00:00:00, numbers / total: 14 / 495, num / total percent: +55.56% / -18.18%
+Week: 2015-12-01 00:00:00, numbers / total: 23 / 377, num / total percent: +64.29% / -23.84%
+Week: 2015-12-16 00:00:00, numbers / total: 20 / 330, num / total percent: -13.04% / -12.47%
+Week: 2016-01-01 00:00:00, numbers / total: 23 / 363, num / total percent: +15.0% / +10.0%
+Week: 2016-01-16 00:00:00, numbers / total: 11 / 201, num / total percent: -52.17% / -44.63%
+Week: 2016-02-01 00:00:00, numbers / total: 6 / 147, num / total percent: -45.45% / -26.87%
+Week: 2016-02-16 00:00:00, numbers / total: 5 / 304, num / total percent: -16.67% / +106.8%
+Week: 2016-03-01 00:00:00, numbers / total: 17 / 352, num / total percent: +240.0% / +15.79%
+Week: 2016-03-16 00:00:00, numbers / total: 10 / 346, num / total percent: -41.18% / -1.7%
+Week: 2016-04-01 00:00:00, numbers / total: 20 / 287, num / total percent: +100.0% / -17.05%
+Week: 2016-04-16 00:00:00, numbers / total: 20 / 342, num / total percent: 0.0% / +19.16%
+Week: 2016-05-01 00:00:00, numbers / total: 16 / 342, num / total percent: -20.0% / 0.0%
+Week: 2016-05-16 00:00:00, numbers / total: 4 / 203, num / total percent: -75.0% / -40.64%
+{'FirstWeek_Change': -0.75, 'endDate': datetime.datetime(2016, 7, 20, 0, 0), 'startDate': datetime.datetime(2016, 6, 15, 0, 0), 'res_id': 1687407, 'source': u'Home_WebEduResources', 'FirstWeek_TotalChange': -0.4064}
+===============
+ResourceSerial: 1688334, start: 2016-06-15 00:00:00, End: 2016-07-20 00:00:00
+Week: 2015-03-01 00:00:00, numbers / total: 4 / 91, num / total percent: 0.0% / 0.0%
+Week: 2015-07-16 00:00:00, numbers / total: 2 / 256, num / total percent: 0.0% / 0.0%
+Week: 2015-08-16 00:00:00, numbers / total: 2 / 362, num / total percent: 0.0% / 0.0%
+Week: 2016-01-16 00:00:00, numbers / total: 2 / 201, num / total percent: 0.0% / 0.0%
+Week: 2016-05-16 00:00:00, numbers / total: 1 / 203, num / total percent: 0.0% / 0.0%
+{'FirstWeek_Change': 0.0, 'endDate': datetime.datetime(2016, 7, 20, 0, 0), 'startDate': datetime.datetime(2016, 6, 15, 0, 0), 'res_id': 1688334, 'source': u'Home_WebEduResources', 'FirstWeek_TotalChange': 0.0}
+===============
+ResourceSerial: 590824, start: 2016-06-15 00:00:00, End: 2016-07-20 00:00:00
+Week: 2014-12-16 00:00:00, numbers / total: 3 / 149, num / total percent: 0.0% / 0.0%
+Week: 2015-06-16 00:00:00, numbers / total: 5 / 195, num / total percent: 0.0% / 0.0%
+Week: 2015-07-01 00:00:00, numbers / total: 13 / 241, num / total percent: +160.0% / +23.59%
+Week: 2015-07-16 00:00:00, numbers / total: 18 / 256, num / total percent: +38.46% / +6.22%
+Week: 2015-08-01 00:00:00, numbers / total: 12 / 196, num / total percent: -33.33% / -23.44%
+Week: 2015-08-16 00:00:00, numbers / total: 29 / 362, num / total percent: +141.67% / +84.69%
+Week: 2015-11-01 00:00:00, numbers / total: 2 / 605, num / total percent: 0.0% / 0.0%
+Week: 2015-12-01 00:00:00, numbers / total: 1 / 377, num / total percent: 0.0% / 0.0%
+Week: 2015-12-16 00:00:00, numbers / total: 3 / 330, num / total percent: +200.0% / -12.47%
+Week: 2016-01-01 00:00:00, numbers / total: 5 / 363, num / total percent: +66.67% / +10.0%
+Week: 2016-01-16 00:00:00, numbers / total: 10 / 201, num / total percent: +100.0% / -44.63%
+Week: 2016-02-01 00:00:00, numbers / total: 5 / 147, num / total percent: -50.0% / -26.87%
+Week: 2016-02-16 00:00:00, numbers / total: 3 / 304, num / total percent: -40.0% / +106.8%
+Week: 2016-03-01 00:00:00, numbers / total: 3 / 352, num / total percent: 0.0% / +15.79%
+Week: 2016-03-16 00:00:00, numbers / total: 2 / 346, num / total percent: -33.33% / -1.7%
+Week: 2016-04-16 00:00:00, numbers / total: 3 / 342, num / total percent: 0.0% / 0.0%
+Week: 2016-05-01 00:00:00, numbers / total: 2 / 342, num / total percent: -33.33% / 0.0%
+Week: 2016-05-16 00:00:00, numbers / total: 2 / 203, num / total percent: 0.0% / -40.64%
+{'FirstWeek_Change': 0.0, 'endDate': datetime.datetime(2016, 7, 20, 0, 0), 'startDate': datetime.datetime(2016, 6, 15, 0, 0), 'res_id': 590824, 'source': u'Home_WebEduResources', 'FirstWeek_TotalChange': -0.4064}
+===============
+ResourceSerial: 1742759, start: 2016-06-15 00:00:00, End: 2016-07-20 00:00:00
+Week: 2016-03-16 00:00:00, numbers / total: 2 / 346, num / total percent: 0.0% / 0.0%
+Week: 2016-04-01 00:00:00, numbers / total: 2 / 287, num / total percent: 0.0% / -17.05%
+Week: 2016-05-01 00:00:00, numbers / total: 1 / 342, num / total percent: 0.0% / 0.0%
+{'FirstWeek_Change': 0.0, 'endDate': datetime.datetime(2016, 7, 20, 0, 0), 'startDate': datetime.datetime(2016, 6, 15, 0, 0), 'res_id': 1742759, 'source': u'Home_WebEduResources', 'FirstWeek_TotalChange': 0.0}
+===============
+ResourceSerial: 1603730, start: 2016-06-15 00:00:00, End: 2016-07-20 00:00:00
+Week: 2015-05-16 00:00:00, numbers / total: 3 / 201, num / total percent: 0.0% / 0.0%
+Week: 2015-07-16 00:00:00, numbers / total: 6 / 256, num / total percent: 0.0% / 0.0%
+Week: 2015-08-01 00:00:00, numbers / total: 2 / 196, num / total percent: -66.67% / -23.44%
+{'FirstWeek_Change': -0.6667, 'endDate': datetime.datetime(2016, 7, 20, 0, 0), 'startDate': datetime.datetime(2016, 6, 15, 0, 0), 'res_id': 1603730, 'source': u'Home_WebEduResources', 'FirstWeek_TotalChange': -0.2344}
+===============
+ResourceSerial: 1603732, start: 2016-06-15 00:00:00, End: 2016-07-20 00:00:00
+Week: 2015-05-16 00:00:00, numbers / total: 2 / 201, num / total percent: 0.0% / 0.0%
+{'FirstWeek_Change': 0.0, 'endDate': datetime.datetime(2016, 7, 20, 0, 0), 'startDate': datetime.datetime(2016, 6, 15, 0, 0), 'res_id': 1603732, 'source': u'Home_WebEduResources', 'FirstWeek_TotalChange': 0.0}
+===============
+ResourceSerial: 1603840, start: 2016-06-15 00:00:00, End: 2016-07-20 00:00:00
+Week: 2015-03-01 00:00:00, numbers / total: 3 / 91, num / total percent: 0.0% / 0.0%
+Week: 2015-05-16 00:00:00, numbers / total: 2 / 201, num / total percent: 0.0% / 0.0%
+Week: 2015-11-16 00:00:00, numbers / total: 3 / 495, num / total percent: 0.0% / 0.0%
+Week: 2016-02-16 00:00:00, numbers / total: 4 / 304, num / total percent: 0.0% / 0.0%
+Week: 2016-04-01 00:00:00, numbers / total: 9 / 287, num / total percent: 0.0% / 0.0%
+Week: 2016-04-16 00:00:00, numbers / total: 2 / 342, num / total percent: -77.78% / +19.16%
+Week: 2016-05-01 00:00:00, numbers / total: 4 / 342, num / total percent: +100.0% / 0.0%
+Week: 2016-05-16 00:00:00, numbers / total: 3 / 203, num / total percent: -25.0% / -40.64%
+{'FirstWeek_Change': -0.25, 'endDate': datetime.datetime(2016, 7, 20, 0, 0), 'startDate': datetime.datetime(2016, 6, 15, 0, 0), 'res_id': 1603840, 'source': u'Home_WebEduResources', 'FirstWeek_TotalChange': -0.4064}
+===============
+ResourceSerial: 1708607, start: 2016-03-23 00:00:00, End: 2016-07-20 00:00:00
+Week: 2015-07-01 00:00:00, numbers / total: 4 / 241, num / total percent: 0.0% / 0.0%
+Week: 2015-07-16 00:00:00, numbers / total: 2 / 256, num / total percent: -50.0% / +6.22%
+Week: 2015-08-16 00:00:00, numbers / total: 2 / 362, num / total percent: 0.0% / 0.0%
+Week: 2015-11-01 00:00:00, numbers / total: 4 / 605, num / total percent: 0.0% / 0.0%
+Week: 2015-11-16 00:00:00, numbers / total: 2 / 495, num / total percent: -50.0% / -18.18%
+Week: 2015-12-01 00:00:00, numbers / total: 2 / 377, num / total percent: 0.0% / -23.84%
+Week: 2016-01-16 00:00:00, numbers / total: 1 / 201, num / total percent: 0.0% / 0.0%
+Week: 2016-03-16 00:00:00, numbers / total: 2 / 346, num / total percent: 0.0% / 0.0%
+Week: 2016-05-01 00:00:00, numbers / total: 1 / 342, num / total percent: 0.0% / 0.0%
+{'FirstWeek_Change': 0.0, 'endDate': datetime.datetime(2016, 7, 20, 0, 0), 'startDate': datetime.datetime(2016, 3, 23, 0, 0), 'res_id': 1708607, 'source': u'Home_WebEduResources', 'FirstWeek_TotalChange': 0.0}
+===============
+ResourceSerial: 1744245, start: 2016-06-15 00:00:00, End: 2016-07-06 00:00:00
+Dont have Data!
+===============
+ResourceSerial: 1744197, start: 2016-06-15 00:00:00, End: 2016-07-06 00:00:00
+Dont have Data!
+===============
+Date: 2014-10-16 00:00:00 , Num: 28 , Percent: 0.0%
+Date: 2014-11-01 00:00:00 , Num: 156 , Percent: +457.14%
+Date: 2014-11-16 00:00:00 , Num: 250 , Percent: +60.26%
+Date: 2014-12-01 00:00:00 , Num: 280 , Percent: +12.0%
+Date: 2014-12-16 00:00:00 , Num: 149 , Percent: -46.79%
+Date: 2015-01-01 00:00:00 , Num: 56 , Percent: -62.42%
+Date: 2015-01-16 00:00:00 , Num: 109 , Percent: +94.64%
+Date: 2015-02-01 00:00:00 , Num: 106 , Percent: -2.75%
+Date: 2015-02-16 00:00:00 , Num: 51 , Percent: -51.89%
+Date: 2015-03-01 00:00:00 , Num: 91 , Percent: +78.43%
+Date: 2015-03-16 00:00:00 , Num: 169 , Percent: +85.71%
+Date: 2015-04-01 00:00:00 , Num: 106 , Percent: -37.28%
+Date: 2015-04-16 00:00:00 , Num: 148 , Percent: +39.62%
+Date: 2015-05-01 00:00:00 , Num: 166 , Percent: +12.16%
+Date: 2015-05-16 00:00:00 , Num: 201 , Percent: +21.08%
+Date: 2015-06-01 00:00:00 , Num: 301 , Percent: +49.75%
+Date: 2015-06-16 00:00:00 , Num: 195 , Percent: -35.22%
+Date: 2015-07-01 00:00:00 , Num: 241 , Percent: +23.59%
+Date: 2015-07-16 00:00:00 , Num: 256 , Percent: +6.22%
+Date: 2015-08-01 00:00:00 , Num: 196 , Percent: -23.44%
+Date: 2015-08-16 00:00:00 , Num: 362 , Percent: +84.69%
+Date: 2015-09-01 00:00:00 , Num: 445 , Percent: +22.93%
+Date: 2015-09-16 00:00:00 , Num: 722 , Percent: +62.25%
+Date: 2015-10-01 00:00:00 , Num: 502 , Percent: -30.47%
+Date: 2015-10-16 00:00:00 , Num: 490 , Percent: -2.39%
+Date: 2015-11-01 00:00:00 , Num: 605 , Percent: +23.47%
+Date: 2015-11-16 00:00:00 , Num: 495 , Percent: -18.18%
+Date: 2015-12-01 00:00:00 , Num: 377 , Percent: -23.84%
+Date: 2015-12-16 00:00:00 , Num: 330 , Percent: -12.47%
+Date: 2016-01-01 00:00:00 , Num: 363 , Percent: +10.0%
+Date: 2016-01-16 00:00:00 , Num: 201 , Percent: -44.63%
+Date: 2016-02-01 00:00:00 , Num: 147 , Percent: -26.87%
+Date: 2016-02-16 00:00:00 , Num: 304 , Percent: +106.8%
+Date: 2016-03-01 00:00:00 , Num: 352 , Percent: +15.79%
+Date: 2016-03-16 00:00:00 , Num: 346 , Percent: -1.7%
+Date: 2016-04-01 00:00:00 , Num: 287 , Percent: -17.05%
+Date: 2016-04-16 00:00:00 , Num: 342 , Percent: +19.16%
+Date: 2016-05-01 00:00:00 , Num: 342 , Percent: 0.0%
+Date: 2016-05-16 00:00:00 , Num: 203 , Percent: -40.64%
+---------------------
+Good Recommend Result:
+Resource: 1374488 (1st Week num / total / avg_recommend : 600.0% / 457.14% / 137.07%, 2nd: -71.43% / 60.26% / 6.76%)
+Resource: 1374540 (1st Week num / total / avg_recommend : 1300.0% / 457.14% / 137.07%, 2nd: 0.0% / 60.26% / 6.76%)
+Resource: 806358 (1st Week num / total / avg_recommend : 375.0% / 12.16% / 137.07%, 2nd: -57.89% / 21.08% / 6.76%)
+Resource: 119928 (1st Week num / total / avg_recommend : 1300.0% / 12.16% / 137.07%, 2nd: -71.43% / 21.08% / 6.76%)
+Resource: 662393 (1st Week num / total / avg_recommend : 600.0% / 12.16% / 137.07%, 2nd: -78.57% / 21.08% / 6.76%)
+Resource: 664147 (1st Week num / total / avg_recommend : 140.0% / 12.16% / 137.07%, 2nd: -16.67% / 21.08% / 6.76%)
+Resource: 1621574 (1st Week num / total / avg_recommend : 175.0% / 12.16% / 137.07%, 2nd: -45.45% / 21.08% / 6.76%)
+Resource: 1603847 (1st Week num / total / avg_recommend : 270.0% / 49.75% / 137.07%, 2nd: -45.95% / -35.22% / 6.76%)
+Resource: 1603837 (1st Week num / total / avg_recommend : 180.0% / 49.75% / 137.07%, 2nd: -85.71% / -35.22% / 6.76%)
+Resource: 1603789 (1st Week num / total / avg_recommend : 180.0% / 49.75% / 137.07%, 2nd: -92.86% / -35.22% / 6.76%)
+Resource: 1632349 (1st Week num / total / avg_recommend : 480.0% / 49.75% / 137.07%, 2nd: -72.41% / -35.22% / 6.76%)
+Resource: 1666312 (1st Week num / total / avg_recommend : 300.0% / 49.75% / 137.07%, 2nd: -68.75% / -35.22% / 6.76%)
+Resource: 1664317 (1st Week num / total / avg_recommend : 266.67% / 49.75% / 137.07%, 2nd: -81.82% / -35.22% / 6.76%)
+Resource: 1593761 (1st Week num / total / avg_recommend : 750.0% / 49.75% / 137.07%)
+Resource: 1594391 (1st Week num / total / avg_recommend : 233.33% / 49.75% / 137.07%)
+Resource: 1633360 (1st Week num / total / avg_recommend : 700.0% / 49.75% / 137.07%, 2nd: -87.5% / -35.22% / 6.76%)
+Resource: 1702160 (1st Week num / total / avg_recommend : 180.0% / 23.59% / 137.07%, 2nd: -85.71% / 6.22% / 6.76%)
+Resource: 1700295 (1st Week num / total / avg_recommend : 150.0% / -23.44% / 137.07%)
+Resource: 630882 (1st Week num / total / avg_recommend : 181.25% / 22.93% / 137.07%, 2nd: -11.11% / 62.25% / 6.76%)
+Resource: 1731116 (1st Week num / total / avg_recommend : 166.67% / 22.93% / 137.07%, 2nd: 262.5% / 62.25% / 6.76%)
+Resource: 1685653 (1st Week num / total / avg_recommend : 170.0% / -30.47% / 137.07%, 2nd: 14.81% / -2.39% / 6.76%)
+Resource: 1576117 (1st Week num / total / avg_recommend : 366.67% / -30.47% / 137.07%, 2nd: -80.95% / -2.39% / 6.76%)
+Resource: 1629515 (1st Week num / total / avg_recommend : 180.0% / -2.39% / 137.07%, 2nd: 35.71% / 23.47% / 6.76%)
+Resource: 1709433 (1st Week num / total / avg_recommend : 250.0% / 10.0% / 137.07%, 2nd: -14.29% / -44.63% / 6.76%)
+Resource: 1742583 (1st Week num / total / avg_recommend : 1500.0% / 10.0% / 137.07%, 2nd: -31.25% / -44.63% / 6.76%)
+Resource: 1742530 (1st Week num / total / avg_recommend : 1250.0% / 10.0% / 137.07%, 2nd: -51.85% / -44.63% / 6.76%)
+Resource: 1669410 (1st Week num / total / avg_recommend : 360.0% / 10.0% / 137.07%, 2nd: -47.83% / -44.63% / 6.76%)
+Resource: 1709232 (1st Week num / total / avg_recommend : 300.0% / -17.05% / 137.07%, 2nd: 8.33% / 19.16% / 6.76%)
+Resource: 1689538 (1st Week num / total / avg_recommend : 272.73% / -40.64% / 137.07%)
+Resource: 1687727 (1st Week num / total / avg_recommend : 1200.0% / -40.64% / 137.07%)
+Resource: 1742979 (1st Week num / total / avg_recommend : 216.67% / -40.64% / 137.07%)
+1.3707
+0.0676
+__main__ End !
+0:00:52.164828

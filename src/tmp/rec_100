@@ -1,0 +1,1188 @@
+==========
+find_good_res:
+rec_source: Home_WebEduResources
+res_id: 1373668, res_edugrade: D, discipline_id: 11824280
+res_edutype: Counter({'-1': 232, u'B': 8, u'C': 4, u'D': 2, 'H': 1, u'Z': 1}), total_num: 301
+each user use time: 4.31
+
+
+rec_source: Home_WebEduResources
+res_id: 1374015, res_edugrade: D, discipline_id: 11824280
+res_edutype: Counter({'-1': 192, u'B': 7, u'C': 4, 'H': 1, u'D': 1}), total_num: 262
+each user use time: 5.38
+
+
+rec_source: Home_WebEduResources
+res_id: 1374086, res_edugrade: D, discipline_id: 11824280
+res_edutype: Counter({'-1': 99, u'B': 10, u'C': 3, 'H': 2, u'E': 1, u'D': 1, u'F': 1}), total_num: 138
+each user use time: 2.17
+
+
+rec_source: Home_WebEduResources
+res_id: 1374488, res_edugrade: D, discipline_id: 11824280
+res_edutype: Counter({'-1': 158, u'B': 10, u'C': 3, u'F': 2, 'H': 1, u'Z': 1}), total_num: 181
+each user use time: 1.35
+
+
+rec_source: Home_WebEduResources
+res_id: 1374540, res_edugrade: D, discipline_id: 11824280
+res_edutype: Counter({'-1': 104, u'B': 3, u'C': 2, u'E': 1, u'D': 1, 'H': 1}), total_num: 136
+each user use time: 4.0
+
+
+rec_source: Home_WebEduResources
+res_id: 1374196, res_edugrade: D, discipline_id: 11824280
+res_edutype: Counter({'-1': 85, u'B': 6, 'H': 1, u'C': 1, u'D': 1}), total_num: 100
+each user use time: 1.67
+
+
+rec_source: Home_WebEduResources
+res_id: 1374166, res_edugrade: D, discipline_id: 11824280
+res_edutype: Counter({'-1': 143, u'B': 6, u'C': 1, u'F': 1}), total_num: 154
+each user use time: 1.38
+
+
+rec_source: Home_WebEduResources
+res_id: 1373804, res_edugrade: D, discipline_id: 11824280
+res_edutype: Counter({'-1': 299, u'B': 5, u'E': 2, u'F': 1}), total_num: 309
+each user use time: 1.25
+
+
+rec_source: Home_WebEduResources
+res_id: 806358, res_edugrade: B, discipline_id: -1
+res_edutype: Counter({'-1': 113, u'B': 5, u'C': 2}), total_num: 123
+each user use time: 1.43
+
+
+rec_source: Home_WebEduResources
+res_id: 1610943, res_edugrade: C, discipline_id: 11824255
+res_edutype: Counter({'-1': 101, u'C': 3, u'D': 1}), total_num: 106
+each user use time: 1.25
+
+
+rec_source: Home_WebEduResources
+res_id: 141844, res_edugrade: B, discipline_id: 11824255
+res_edutype: Counter({'-1': 123, u'B': 6, u'C': 1, u'D': 1}), total_num: 138
+each user use time: 1.88
+
+
+rec_source: Home_WebEduResources
+res_id: 219600, res_edugrade: B, discipline_id: -1
+res_edutype: Counter({'-1': 135, u'B': 16, u'C': 4, u'H': 1, u'D': 1}), total_num: 163
+each user use time: 1.27
+
+
+rec_source: Home_WebEduResources
+res_id: 630882, res_edugrade: B, discipline_id: -1
+res_edutype: Counter({'-1': 206, u'B': 21, u'C': 4, u'D': 1}), total_num: 259
+each user use time: 2.04
+
+
+rec_source: Home_WebEduResources
+res_id: 1731102, res_edugrade: B, discipline_id: 11824255
+res_edutype: Counter({'-1': 614, u'B': 52, u'C': 9, u'D': 2, 'H': 2, u'E': 1, u'F': 1}), total_num: 703
+each user use time: 1.33
+
+
+rec_source: Home_WebEduResources
+res_id: 1731117, res_edugrade: B, discipline_id: 11824255
+res_edutype: Counter({'-1': 717, u'B': 59, u'C': 9, u'D': 3, 'H': 2, u'G': 1, u'Z': 1}), total_num: 820
+each user use time: 1.37
+
+
+rec_source: Home_WebEduResources
+res_id: 1731116, res_edugrade: B, discipline_id: 11824255
+res_edutype: Counter({'-1': 542, u'B': 32, u'C': 8, u'D': 3, u'E': 2}), total_num: 611
+each user use time: 1.53
+
+
+rec_source: Home_WebEduResources
+res_id: 1708270, res_edugrade: B, discipline_id: 11824255
+res_edutype: Counter({'-1': 192, u'B': 4, u'D': 1}), total_num: 200
+each user use time: 1.6
+
+
+rec_source: Home_WebEduResources
+res_id: 1685653, res_edugrade: B, discipline_id: 11824268
+res_edutype: Counter({'-1': 151, u'B': 18, u'C': 3, u'D': 1}), total_num: 205
+each user use time: 2.45
+
+
+rec_source: Home_WebEduResources
+res_id: 1663897, res_edugrade: B, discipline_id: -1
+res_edutype: Counter({'-1': 99, u'B': 9, u'C': 6}), total_num: 117
+each user use time: 1.2
+
+
+rec_source: Home_WebEduResources
+res_id: 665342, res_edugrade: C, discipline_id: -1
+res_edutype: Counter({'-1': 172, u'B': 9, u'C': 3, u'D': 1}), total_num: 189
+each user use time: 1.31
+
+
+rec_source: Home_WebEduResources
+res_id: 1603826, res_edugrade: D, discipline_id: 11824301
+res_edutype: Counter({'-1': 99, u'C': 1, u'B': 1}), total_num: 101
+each user use time: 1.0
+
+
+rec_source: Home_WebEduResources
+res_id: 1742530, res_edugrade: B, discipline_id: 11824268
+res_edutype: Counter({'-1': 100, u'D': 1}), total_num: 102
+each user use time: 2.0
+
+
+rec_source: Home_WebEduResources
+res_id: 1669410, res_edugrade: B, discipline_id: 11824258
+res_edutype: Counter({'-1': 120, u'B': 4, u'C': 2, u'D': 2, 'H': 2, u'E': 1, u'F': 1}), total_num: 184
+each user use time: 5.33
+
+
+rec_source: Home_WebEduResources
+res_id: 1631902, res_edugrade: B, discipline_id: 11824254
+res_edutype: Counter({'-1': 100, u'B': 4, u'D': 1}), total_num: 108
+each user use time: 1.6
+
+
+rec_source: Home_WebEduResources
+res_id: 1610594, res_edugrade: B, discipline_id: 11824259
+res_edutype: Counter({'-1': 155, u'B': 2, u'D': 1}), total_num: 162
+each user use time: 2.33
+
+
+rec_source: Home_WebEduResources
+res_id: 633285, res_edugrade: C, discipline_id: -1
+res_edutype: Counter({'-1': 112, u'B': 4, u'D': 1, u'F': 1}), total_num: 121
+each user use time: 1.5
+
+
+rec_source: Home_WebEduResources
+res_id: 1664184, res_edugrade: B, discipline_id: 11824262
+res_edutype: Counter({'-1': 190, u'B': 11, u'D': 1, u'F': 1}), total_num: 211
+each user use time: 1.62
+
+
+rec_source: Home_WebEduResources
+res_id: 1606360, res_edugrade: D, discipline_id: 11824291
+res_edutype: Counter({'-1': 108, u'B': 4, u'C': 1, u'D': 1}), total_num: 117
+each user use time: 1.5
+
+
+rec_source: Home_WebEduResources
+res_id: 1689574, res_edugrade: B, discipline_id: 11824255
+res_edutype: Counter({'-1': 97, u'B': 3, u'D': 1}), total_num: 103
+each user use time: 1.5
+
+
+rec_source: Home_WebEduResources
+res_id: 1689538, res_edugrade: B, discipline_id: 11824262
+res_edutype: Counter({'-1': 117, u'B': 11, u'C': 1}), total_num: 139
+each user use time: 1.83
+
+
+rec_source: Home_WebEduResources
+res_id: 1687407, res_edugrade: B, discipline_id: -1
+res_edutype: Counter({'-1': 266, u'B': 2}), total_num: 270
+each user use time: 2.0
+
+
+rec_source: Home_WebEduResources
+res_id: 590824, res_edugrade: B, discipline_id: -1
+res_edutype: Counter({'-1': 112, u'C': 2, u'B': 1, u'D': 1}), total_num: 121
+each user use time: 2.25
+
+
+rec_source: Vocation_resources
+res_id: 1733003, res_edugrade: E, discipline_id: 11824280
+res_edutype: Counter({'-1': 134, u'C': 1, u'D': 1}), total_num: 138
+each user use time: 2.0
+
+
+rec_source: Vocation_resources
+res_id: 1733006, res_edugrade: E, discipline_id: 11824308
+res_edutype: Counter({'-1': 135, u'B': 12, u'C': 1, u'D': 1, u'F': 1, u'H': 1, u'Z': 1}), total_num: 164
+each user use time: 1.71
+
+
+rec_source: Senior_resources
+res_id: 1733005, res_edugrade: D, discipline_id: 11824280
+res_edutype: Counter({'-1': 337, u'B': 30, u'C': 9, u'D': 3, u'E': 1, u'G': 1, 'H': 1}), total_num: 423
+each user use time: 1.91
+
+
+rec_source: Senior_resources
+res_id: 1373601, res_edugrade: D, discipline_id: 11824280
+res_edutype: Counter({'-1': 214, u'C': 2, u'B': 2, u'F': 2, u'D': 1, u'Z': 1}), total_num: 228
+each user use time: 1.75
+
+
+rec_source: Home_EduEbook
+res_id: 1696414, res_edugrade: B, discipline_id: 11824247
+res_edutype: Counter({'-1': 335, u'B': 36, u'C': 7, 'H': 3, u'D': 2, u'A': 1, u'F': 1}), total_num: 444
+each user use time: 2.18
+
+
+rec_source: Home_EduEbook
+res_id: 1696404, res_edugrade: B, discipline_id: 11824261
+res_edutype: Counter({'-1': 227, u'B': 18, u'C': 10, u'D': 2, 'H': 2, u'F': 1, u'Z': 1}), total_num: 329
+each user use time: 3.0
+
+
+rec_source: Home_EduEbook
+res_id: 1696394, res_edugrade: B, discipline_id: 11824261
+res_edutype: Counter({'-1': 534, u'B': 67, u'C': 11, u'E': 2, 'H': 2, u'A': 1, u'D': 1, u'F': 1}), total_num: 738
+each user use time: 2.4
+
+
+rec_source: Home_EduEbook
+res_id: 1696399, res_edugrade: B, discipline_id: 11824261
+res_edutype: Counter({'-1': 488, u'B': 52, u'C': 5, u'F': 2, 'H': 2, u'D': 1, u'G': 1, u'Z': 1}), total_num: 623
+each user use time: 2.11
+
+
+rec_source: Home_EduEbook
+res_id: 1696367, res_edugrade: B, discipline_id: 11824261
+res_edutype: Counter({'-1': 143, u'B': 11, u'C': 3, 'H': 2, u'E': 1}), total_num: 182
+each user use time: 2.29
+
+
+rec_source: Home_EduEbook
+res_id: 1696458, res_edugrade: A, discipline_id: 11824261
+res_edutype: Counter({'-1': 128, u'B': 10, u'C': 3, u'E': 1, u'D': 1, u'H': 1, u'Z': 1}), total_num: 163
+each user use time: 2.06
+
+
+rec_source: Home_EduEbook
+res_id: 1696446, res_edugrade: A, discipline_id: 11824249
+res_edutype: Counter({'-1': 367, u'B': 39, u'C': 4, u'D': 1, u'F': 1, 'H': 1}), total_num: 467
+each user use time: 2.17
+
+
+rec_source: Home_EduEbook
+res_id: 1696461, res_edugrade: A, discipline_id: 11824261
+res_edutype: Counter({'-1': 197, u'B': 22, u'C': 2, u'A': 1, u'E': 1, 'H': 1, u'Z': 1}), total_num: 242
+each user use time: 1.61
+
+
+rec_source: Home_EduEbook
+res_id: 1696448, res_edugrade: A, discipline_id: 11824261
+res_edutype: Counter({'-1': 433, u'B': 88, u'C': 10, 'H': 3, u'D': 1, u'F': 1, u'Z': 1}), total_num: 649
+each user use time: 2.08
+
+
+rec_source: Home_EduEbook
+res_id: 1696465, res_edugrade: A, discipline_id: 11824261
+res_edutype: Counter({'-1': 119, u'B': 9, u'H': 1, u'C': 1, u'Z': 1}), total_num: 135
+each user use time: 1.33
+
+
+rec_source: Home_EduEbook
+res_id: 1696450, res_edugrade: A, discipline_id: 11824249
+res_edutype: Counter({'-1': 92, u'B': 6, u'C': 4, u'F': 1}), total_num: 114
+each user use time: 2.0
+
+
+rec_source: Home_EduEbook
+res_id: 1696459, res_edugrade: A, discipline_id: 11824261
+res_edutype: Counter({'-1': 204, u'B': 15, u'C': 5, 'H': 3, u'D': 1}), total_num: 265
+each user use time: 2.54
+
+
+rec_source: Home_EduEbook
+res_id: 1696455, res_edugrade: A, discipline_id: 11824261
+res_edutype: Counter({'-1': 334, u'B': 53, u'C': 7, u'G': 2, u'H': 2, u'Z': 2, u'D': 1, u'F': 1}), total_num: 517
+each user use time: 2.69
+
+
+rec_source: Home_EduEbook
+res_id: 1696470, res_edugrade: B, discipline_id: 11824261
+res_edutype: Counter({'-1': 146, u'B': 14, u'C': 7, u'D': 2, u'Z': 1}), total_num: 222
+each user use time: 3.17
+
+
+rec_source: Home_EduEbook
+res_id: 1696452, res_edugrade: A, discipline_id: 11824261
+res_edutype: Counter({'-1': 117, u'B': 16, u'C': 3, u'H': 1}), total_num: 157
+each user use time: 2.0
+
+
+rec_source: Home_EduEbook
+res_id: 1696449, res_edugrade: A, discipline_id: 11824261
+res_edutype: Counter({'-1': 96, u'B': 5, u'C': 1, u'E': 1, u'D': 1}), total_num: 110
+each user use time: 1.75
+
+
+rec_source: Home_EduEbook
+res_id: 1696472, res_edugrade: B, discipline_id: 11824261
+res_edutype: Counter({'-1': 105, u'B': 12, u'C': 2, u'D': 1, u'F': 1, 'H': 1, u'Z': 1}), total_num: 152
+each user use time: 2.61
+
+
+rec_source: Home_EduEbook
+res_id: 1696474, res_edugrade: A, discipline_id: 11824246
+res_edutype: Counter({'-1': 210, u'B': 26, u'C': 8, 'H': 2, u'Z': 2, u'D': 1}), total_num: 291
+each user use time: 2.08
+
+
+rec_source: Home_EduEbook
+res_id: 1696453, res_edugrade: A, discipline_id: 11824261
+res_edutype: Counter({'-1': 93, u'B': 9, 'H': 1}), total_num: 121
+each user use time: 2.8
+
+
+rec_source: Home_EduEbook
+res_id: 1725478, res_edugrade: A, discipline_id: 11824248
+res_edutype: Counter({'-1': 124, u'B': 13, u'C': 3, 'H': 1}), total_num: 154
+each user use time: 1.76
+
+
+rec_source: Home_EduEbook
+res_id: 1719589, res_edugrade: B, discipline_id: 11824255
+res_edutype: Counter({'-1': 169, u'B': 10, u'Z': 1, u'D': 1}), total_num: 193
+each user use time: 2.0
+
+
+rec_source: Home_EduEbook
+res_id: 1709473, res_edugrade: B, discipline_id: 11824261
+res_edutype: Counter({'-1': 199, u'B': 29, u'C': 5, u'D': 3, u'F': 2, u'Z': 2, 'H': 1}), total_num: 287
+each user use time: 2.1
+
+
+rec_source: Home_EduEbook
+res_id: 1725465, res_edugrade: B, discipline_id: 11824261
+res_edutype: Counter({'-1': 324, u'B': 83, u'C': 5, u'E': 1}), total_num: 493
+each user use time: 1.9
+
+
+rec_source: Home_EduEbook
+res_id: 1725479, res_edugrade: A, discipline_id: 11824246
+res_edutype: Counter({'-1': 431, u'B': 112, u'C': 3}), total_num: 666
+each user use time: 2.04
+
+
+rec_source: Home_EduEbook
+res_id: 1732959, res_edugrade: C, discipline_id: 11824261
+res_edutype: Counter({'-1': 86, u'C': 27, u'B': 2}), total_num: 126
+each user use time: 1.38
+
+
+rec_source: Home_EduEbook
+res_id: 1732968, res_edugrade: B, discipline_id: 11824247
+res_edutype: Counter({'-1': 170, u'C': 26, u'B': 25}), total_num: 243
+each user use time: 1.43
+
+
+rec_source: Home_EduEbook
+res_id: 1732062, res_edugrade: Z, discipline_id: 11824245
+res_edutype: Counter({'-1': 177, u'B': 16, u'C': 1, u'Z': 1, u'D': 1}), total_num: 210
+each user use time: 1.74
+
+
+rec_source: Home_EduEbook
+res_id: 1732063, res_edugrade: Z, discipline_id: 11824262
+res_edutype: Counter({'-1': 413, u'B': 33, u'C': 8, u'Z': 2, u'D': 1}), total_num: 494
+each user use time: 1.84
+
+
+rec_source: Home_EduEbook
+res_id: 1741072, res_edugrade: B, discipline_id: 11824249
+res_edutype: Counter({'-1': 220, u'B': 28, u'C': 8, u'D': 1}), total_num: 278
+each user use time: 1.57
+
+
+rec_source: Home_EduEbook
+res_id: 1741068, res_edugrade: A, discipline_id: 11824248
+res_edutype: Counter({'-1': 329, u'B': 78, u'C': 3, u'H': 1}), total_num: 456
+each user use time: 1.55
+
+
+rec_source: Home_EduEbook
+res_id: 1741071, res_edugrade: A, discipline_id: 11824261
+res_edutype: Counter({'-1': 438, u'B': 63, u'C': 7, u'D': 1, u'F': 1, 'H': 1}), total_num: 549
+each user use time: 1.52
+
+
+rec_source: Home_EduEbook
+res_id: 1709517, res_edugrade: B, discipline_id: 11824261
+res_edutype: Counter({'-1': 256, u'B': 26, u'C': 4, u'D': 2, u'H': 1}), total_num: 308
+each user use time: 1.58
+
+
+rec_source: Home_EduEbook
+res_id: 1732926, res_edugrade: B, discipline_id: 11824268
+res_edutype: Counter({'-1': 71, u'C': 24, u'B': 12, u'D': 2, u'F': 1}), total_num: 135
+each user use time: 1.64
+
+
+rec_source: Home_EduEbook
+res_id: 1732929, res_edugrade: B, discipline_id: 11824261
+res_edutype: Counter({'-1': 91, u'C': 25, u'B': 12, u'F': 1}), total_num: 142
+each user use time: 1.34
+
+
+rec_source: Home_EduEbook
+res_id: 1732252, res_edugrade: Z, discipline_id: 11824246
+res_edutype: Counter({'-1': 109, u'B': 8, u'E': 1, u'D': 1}), total_num: 125
+each user use time: 1.6
+
+
+rec_source: Home_EduEbook
+res_id: 1696450, res_edugrade: A, discipline_id: 11824249
+res_edutype: Counter({'-1': 92, u'B': 6, u'C': 4, u'F': 1}), total_num: 114
+each user use time: 2.0
+
+
+rec_source: Home_EduEbook
+res_id: 1696401, res_edugrade: B, discipline_id: 11824261
+res_edutype: Counter({'-1': 232, u'B': 24, u'C': 9, u'D': 1, u'H': 1, u'Z': 1}), total_num: 317
+each user use time: 2.36
+
+
+rec_source: Home_EduEbook
+res_id: 1741087, res_edugrade: A, discipline_id: 11824252
+res_edutype: Counter({'-1': 105, u'B': 4, u'C': 1}), total_num: 111
+each user use time: 1.2
+
+
+rec_source: Home_EduEbook
+res_id: 1742832, res_edugrade: A, discipline_id: 11824261
+res_edutype: Counter({'-1': 356, u'B': 10}), total_num: 368
+each user use time: 1.2
+
+
+rec_source: Home_EduEbook
+res_id: 1742834, res_edugrade: B, discipline_id: 11824261
+res_edutype: Counter({'-1': 191, u'B': 2, u'C': 1, u'F': 1}), total_num: 196
+each user use time: 1.25
+
+
+rec_source: Home_EduEbook
+res_id: 1742770, res_edugrade: B, discipline_id: 11824261
+res_edutype: Counter({'-1': 186}), total_num: 186
+
+
+rec_source: Home_EduEbook
+res_id: 1732282, res_edugrade: Z, discipline_id: 11824262
+res_edutype: Counter({'-1': 107, u'B': 3, u'C': 1}), total_num: 115
+each user use time: 2.0
+
+
+rec_source: Home_EduEbook
+res_id: 1732262, res_edugrade: Z, discipline_id: 11824262
+res_edutype: Counter({'-1': 99, u'B': 5, u'C': 1}), total_num: 114
+each user use time: 2.5
+
+
+rec_source: Home_EduEbook
+res_id: 1742892, res_edugrade: Z, discipline_id: 11824245
+res_edutype: Counter({'-1': 127, u'B': 2}), total_num: 130
+each user use time: 1.5
+
+
+rec_source: Junior_resources
+res_id: 1685711, res_edugrade: B, discipline_id: 11824248
+res_edutype: Counter({'-1': 140, u'C': 10, u'B': 2, u'F': 2, u'D': 1, u'Z': 1}), total_num: 171
+each user use time: 1.94
+
+
+rec_source: Junior_resources
+res_id: 1627470, res_edugrade: C, discipline_id: 11824246
+res_edutype: Counter({'-1': 97, u'C': 6, u'Z': 1, u'D': 1, u'B': 1}), total_num: 115
+each user use time: 2.0
+
+
+rec_source: Junior_resources
+res_id: 1670572, res_edugrade: C, discipline_id: 11824255
+res_edutype: Counter({'-1': 679, u'B': 44, u'C': 20, u'F': 3, 'H': 3, u'E': 1, u'D': 1, u'Z': 1}), total_num: 896
+each user use time: 2.97
+
+
+rec_source: Junior_resources
+res_id: 632734, res_edugrade: C, discipline_id: -1
+res_edutype: Counter({'-1': 122, u'C': 20, 'H': 1, u'B': 1, u'D': 1}), total_num: 166
+each user use time: 1.91
+
+
+rec_source: Junior_resources
+res_id: 1594724, res_edugrade: C, discipline_id: 11824252
+res_edutype: Counter({'-1': 165, u'C': 7, u'B': 1}), total_num: 183
+each user use time: 2.25
+
+
+rec_source: Junior_resources
+res_id: 1667171, res_edugrade: C, discipline_id: 11824255
+res_edutype: Counter({'-1': 260, u'C': 4, 'H': 1, u'D': 1}), total_num: 271
+each user use time: 1.83
+
+
+rec_source: Junior_resources
+res_id: 1620548, res_edugrade: C, discipline_id: 11824261
+res_edutype: Counter({'-1': 100, u'C': 2, u'D': 1}), total_num: 106
+each user use time: 2.0
+
+
+rec_source: Junior_resources
+res_id: 1731118, res_edugrade: B, discipline_id: 11824262
+res_edutype: Counter({'-1': 174, u'C': 49, u'D': 2, u'B': 1}), total_num: 270
+each user use time: 1.85
+
+
+rec_source: Junior_resources
+res_id: 1731120, res_edugrade: B, discipline_id: 11824262
+res_edutype: Counter({'-1': 302, u'C': 33, u'B': 14, u'E': 1, u'D': 1, u'F': 1}), total_num: 387
+each user use time: 1.7
+
+
+rec_source: Junior_resources
+res_id: 1696600, res_edugrade: C, discipline_id: 11824246
+res_edutype: Counter({'-1': 95, u'C': 7, u'D': 1}), total_num: 111
+each user use time: 2.0
+
+
+rec_source: Junior_resources
+res_id: 1632141, res_edugrade: C, discipline_id: 11824255
+res_edutype: Counter({'-1': 217, u'C': 25, u'B': 2, u'E': 1, u'D': 1}), total_num: 265
+each user use time: 1.66
+
+
+rec_source: Junior_resources
+res_id: 1664028, res_edugrade: C, discipline_id: 11824255
+res_edutype: Counter({'-1': 132, u'C': 23}), total_num: 174
+each user use time: 1.83
+
+
+rec_source: Junior_resources
+res_id: 1689210, res_edugrade: C, discipline_id: 11824254
+res_edutype: Counter({'-1': 172, u'C': 23}), total_num: 220
+each user use time: 2.09
+
+
+rec_source: Junior_resources
+res_id: 1687858, res_edugrade: C, discipline_id: 11824254
+res_edutype: Counter({'-1': 125, u'C': 18}), total_num: 155
+each user use time: 1.67
+
+
+rec_source: Junior_resources
+res_id: 632734, res_edugrade: C, discipline_id: -1
+res_edutype: Counter({'-1': 122, u'C': 20, 'H': 1, u'B': 1, u'D': 1}), total_num: 166
+each user use time: 1.91
+
+
+rec_source: Junior_resources
+res_id: 1630536, res_edugrade: C, discipline_id: 11824245
+res_edutype: Counter({'-1': 128, u'C': 15, u'B': 1}), total_num: 163
+each user use time: 2.19
+
+
+rec_source: Junior_resources
+res_id: 1690425, res_edugrade: C, discipline_id: 11824245
+res_edutype: Counter({'-1': 208, u'C': 31, u'D': 1}), total_num: 276
+each user use time: 2.13
+
+
+rec_source: Junior_resources
+res_id: 1682910, res_edugrade: B, discipline_id: 11824268
+res_edutype: Counter({'-1': 104, u'C': 9, u'B': 1}), total_num: 128
+each user use time: 2.4
+
+
+rec_source: Junior_resources
+res_id: 1647107, res_edugrade: C, discipline_id: 11824254
+res_edutype: Counter({'-1': 103, u'C': 2}), total_num: 106
+each user use time: 1.5
+
+
+rec_source: Junior_resources
+res_id: 1663440, res_edugrade: C, discipline_id: 11824252
+res_edutype: Counter({'-1': 171, u'C': 3}), total_num: 179
+each user use time: 2.67
+
+
+rec_source: Junior_resources
+res_id: 1662039, res_edugrade: C, discipline_id: -1
+res_edutype: Counter({'-1': 868, u'B': 70, u'C': 13, u'H': 1, u'D': 1}), total_num: 1005
+each user use time: 1.61
+
+
+rec_source: Junior_resources
+res_id: 1666786, res_edugrade: C, discipline_id: 11824252
+res_edutype: Counter({'-1': 177, u'B': 3, u'C': 1}), total_num: 186
+each user use time: 2.25
+
+
+rec_source: Junior_resources
+res_id: 1631453, res_edugrade: C, discipline_id: 11824255
+res_edutype: Counter({'-1': 199, u'C': 4, 'H': 1}), total_num: 208
+each user use time: 1.8
+
+
+rec_source: Junior_resources
+res_id: 1667171, res_edugrade: C, discipline_id: 11824255
+res_edutype: Counter({'-1': 260, u'C': 4, 'H': 1, u'D': 1}), total_num: 271
+each user use time: 1.83
+
+
+rec_source: Junior_resources
+res_id: 1623426, res_edugrade: C, discipline_id: 11824254
+res_edutype: Counter({'-1': 95, u'C': 5}), total_num: 103
+each user use time: 1.6
+
+
+rec_source: Junior_resources
+res_id: 1594676, res_edugrade: C, discipline_id: 11824245
+res_edutype: Counter({'-1': 159, u'C': 1}), total_num: 161
+each user use time: 2.0
+
+
+rec_source: Junior_resources
+res_id: 1663440, res_edugrade: C, discipline_id: 11824252
+res_edutype: Counter({'-1': 171, u'C': 3}), total_num: 179
+each user use time: 2.67
+
+
+rec_source: Junior_resources
+res_id: 1594729, res_edugrade: C, discipline_id: 11824252
+res_edutype: Counter({'-1': 114, u'B': 1}), total_num: 117
+each user use time: 3.0
+
+
+rec_source: Home_EduAPP
+res_id: 1696038, res_edugrade: B, discipline_id: 11824255
+res_edutype: Counter({'-1': 101, u'B': 8, u'C': 1, u'E': 1, u'F': 1}), total_num: 113
+each user use time: 1.09
+
+
+rec_source: Home_EduAPP
+res_id: 1696290, res_edugrade: B, discipline_id: 11824253
+res_edutype: Counter({'-1': 101, u'B': 7, u'C': 3, u'Z': 1}), total_num: 112
+each user use time: 1.0
+
+
+rec_source: Home_EduAPP
+res_id: 1696253, res_edugrade: B, discipline_id: 11824254
+res_edutype: Counter({'-1': 106, u'C': 3, u'B': 3, u'Z': 1, u'D': 1}), total_num: 116
+each user use time: 1.25
+
+
+rec_source: Home_EduAPP
+res_id: 1696352, res_edugrade: B, discipline_id: 11824255
+res_edutype: Counter({'-1': 197, u'B': 11, u'C': 2, u'E': 1, u'D': 1, u'F': 1}), total_num: 216
+each user use time: 1.19
+
+
+rec_source: Home_EduAPP
+res_id: 1696374, res_edugrade: C, discipline_id: 11824255
+res_edutype: Counter({'-1': 536, u'B': 54, u'C': 17, u'D': 2, u'F': 1}), total_num: 630
+each user use time: 1.27
+
+
+rec_source: Home_EduAPP
+res_id: 1696353, res_edugrade: B, discipline_id: 11824255
+res_edutype: Counter({'-1': 129, u'B': 8, u'C': 3, u'D': 2, u'F': 2, 'H': 1}), total_num: 149
+each user use time: 1.25
+
+
+rec_source: Home_EduAPP
+res_id: 1696166, res_edugrade: B, discipline_id: 11824245
+res_edutype: Counter({'-1': 93, u'B': 7, u'C': 2}), total_num: 102
+each user use time: 1.0
+
+
+rec_source: Home_EduAPP
+res_id: 1696018, res_edugrade: B, discipline_id: 11824255
+res_edutype: Counter({'-1': 103, u'B': 12, u'C': 1}), total_num: 117
+each user use time: 1.08
+
+
+rec_source: Home_EduAPP
+res_id: 1696054, res_edugrade: B, discipline_id: 11824245
+res_edutype: Counter({'-1': 134, u'B': 13, 'H': 1, u'C': 1}), total_num: 151
+each user use time: 1.13
+
+
+rec_source: Home_EduAPP
+res_id: 1696082, res_edugrade: B, discipline_id: 11824253
+res_edutype: Counter({'-1': 106, u'B': 3, u'D': 1}), total_num: 111
+each user use time: 1.25
+
+
+rec_source: Home_EduAPP
+res_id: 1696096, res_edugrade: B, discipline_id: 11824253
+res_edutype: Counter({'-1': 330, u'B': 16, u'C': 5, u'D': 1, u'F': 1}), total_num: 365
+each user use time: 1.52
+
+
+rec_source: Home_EduAPP
+res_id: 1696153, res_edugrade: B, discipline_id: 11824255
+res_edutype: Counter({'-1': 111, u'B': 8, u'C': 1, u'D': 1}), total_num: 123
+each user use time: 1.2
+
+
+rec_source: Home_EduAPP
+res_id: 1741004, res_edugrade: B, discipline_id: 11824245
+res_edutype: Counter({'-1': 449, u'B': 90, u'C': 9, u'D': 4, u'F': 1}), total_num: 600
+each user use time: 1.45
+
+
+rec_source: Home_EduAPP
+res_id: 1696083, res_edugrade: B, discipline_id: 11824245
+res_edutype: Counter({'-1': 112, u'B': 4, u'C': 1, u'D': 1, u'F': 1}), total_num: 119
+each user use time: 1.0
+
+
+rec_source: Home_EduAPP
+res_id: 1696100, res_edugrade: B, discipline_id: 11824245
+res_edutype: Counter({'-1': 126, u'B': 5, u'C': 4}), total_num: 136
+each user use time: 1.11
+
+
+rec_source: Home_EduAPP
+res_id: 1741000, res_edugrade: B, discipline_id: 11824254
+res_edutype: Counter({'-1': 190, u'B': 15, u'C': 12, u'D': 2, u'E': 1, u'F': 1}), total_num: 227
+each user use time: 1.19
+
+
+rec_source: Home_EduAPP
+res_id: 1696056, res_edugrade: B, discipline_id: 11824262
+res_edutype: Counter({'-1': 117, u'B': 5, u'C': 3, u'D': 1}), total_num: 126
+each user use time: 1.0
+
+
+rec_source: Home_EduAPP
+res_id: 1696036, res_edugrade: B, discipline_id: 11824262
+res_edutype: Counter({'-1': 92, u'C': 4, u'B': 4}), total_num: 101
+each user use time: 1.13
+
+
+rec_source: Home_EduAPP
+res_id: 1696083, res_edugrade: B, discipline_id: 11824245
+res_edutype: Counter({'-1': 112, u'B': 4, u'C': 1, u'D': 1, u'F': 1}), total_num: 119
+each user use time: 1.0
+
+
+rec_source: Home_EduAPP
+res_id: 1696100, res_edugrade: B, discipline_id: 11824245
+res_edutype: Counter({'-1': 126, u'B': 5, u'C': 4}), total_num: 136
+each user use time: 1.11
+
+
+rec_source: Home_EduAPP
+res_id: 1696061, res_edugrade: B, discipline_id: 11824262
+res_edutype: Counter({'-1': 100, u'B': 7, u'C': 2, u'E': 1}), total_num: 112
+each user use time: 1.2
+
+
+rec_source: Home_EduAPP
+res_id: 1696352, res_edugrade: B, discipline_id: 11824255
+res_edutype: Counter({'-1': 197, u'B': 11, u'C': 2, u'E': 1, u'D': 1, u'F': 1}), total_num: 216
+each user use time: 1.19
+
+
+rec_source: Home_EduAPP
+res_id: 1742817, res_edugrade: B, discipline_id: 11824260
+res_edutype: Counter({'-1': 118, u'C': 3, u'B': 3, u'D': 1, u'H': 1, u'Z': 1}), total_num: 151
+each user use time: 3.67
+
+
+rec_source: Home_EduAPP
+res_id: 1742818, res_edugrade: A, discipline_id: 11824244
+res_edutype: Counter({'-1': 163, u'C': 5, u'B': 5, u'F': 2, u'E': 1, u'D': 1, u'H': 1}), total_num: 184
+each user use time: 1.4
+
+
+rec_source: Home_EduAPP
+res_id: 1742819, res_edugrade: B, discipline_id: 11824260
+res_edutype: Counter({'-1': 91, u'B': 4, u'C': 3, u'E': 1, u'D': 1, u'F': 1}), total_num: 103
+each user use time: 1.2
+
+
+rec_source: Home_EduAPP
+res_id: 1742824, res_edugrade: B, discipline_id: 11824260
+res_edutype: Counter({'-1': 102, u'B': 5, u'C': 2, u'D': 2, u'E': 1, u'Z': 1}), total_num: 119
+each user use time: 1.55
+
+
+rec_source: Home_EduAPP
+res_id: 1742611, res_edugrade: E, discipline_id: 11824260
+res_edutype: Counter({'-1': 156, u'C': 1, u'E': 1, u'D': 1, u'F': 1}), total_num: 173
+each user use time: 4.25
+
+
+rec_source: Home_EduAPP
+res_id: 1742217, res_edugrade: B, discipline_id: 11824244
+res_edutype: Counter({'-1': 112, u'B': 10, u'C': 2}), total_num: 124
+each user use time: 1.0
+
+
+rec_source: Home_EduAPP
+res_id: 1742216, res_edugrade: B, discipline_id: 11824244
+res_edutype: Counter({'-1': 96, u'B': 5, u'C': 2, u'D': 1}), total_num: 108
+each user use time: 1.5
+
+
+rec_source: Primary_resources
+res_id: 9073, res_edugrade: B, discipline_id: 11824246
+res_edutype: Counter({'-1': 99, u'B': 7, u'C': 3, u'A': 1, u'D': 1, 'H': 1}), total_num: 124
+each user use time: 1.92
+
+
+rec_source: Primary_resources
+res_id: 520735, res_edugrade: B, discipline_id: 11824247
+res_edutype: Counter({'-1': 191, u'B': 17, u'C': 3, u'D': 1}), total_num: 238
+each user use time: 2.24
+
+
+rec_source: Primary_resources
+res_id: 504806, res_edugrade: B, discipline_id: -1
+res_edutype: Counter({'-1': 142, u'B': 3}), total_num: 150
+each user use time: 2.67
+
+
+rec_source: Primary_resources
+res_id: 669342, res_edugrade: B, discipline_id: -1
+res_edutype: Counter({'-1': 92, u'B': 9, u'D': 1}), total_num: 119
+each user use time: 2.7
+
+
+rec_source: Primary_resources
+res_id: 1677356, res_edugrade: B, discipline_id: 11824255
+res_edutype: Counter({'-1': 1524, u'B': 102, u'C': 13, u'D': 3, u'Z': 3, u'F': 2, u'H': 1}), total_num: 1857
+each user use time: 2.69
+
+
+rec_source: Primary_resources
+res_id: 1621077, res_edugrade: B, discipline_id: 11824253
+res_edutype: Counter({'-1': 196, u'B': 32, u'C': 2, u'D': 1}), total_num: 267
+each user use time: 2.03
+
+
+rec_source: Primary_resources
+res_id: 1620360, res_edugrade: B, discipline_id: 11824244
+res_edutype: Counter({'-1': 183, u'B': 35, u'C': 1, u'E': 1, u'D': 1}), total_num: 258
+each user use time: 1.97
+
+
+rec_source: Primary_resources
+res_id: 1610917, res_edugrade: B, discipline_id: 11824253
+res_edutype: Counter({'-1': 200, u'B': 30, u'C': 1, u'D': 1}), total_num: 267
+each user use time: 2.09
+
+
+rec_source: Primary_resources
+res_id: 1619983, res_edugrade: B, discipline_id: 11824253
+res_edutype: Counter({'-1': 157, u'B': 14, u'C': 1, u'D': 1}), total_num: 190
+each user use time: 2.06
+
+
+rec_source: Primary_resources
+res_id: 1619966, res_edugrade: B, discipline_id: 11824253
+res_edutype: Counter({'-1': 109, u'B': 14, u'C': 2, u'E': 1, u'D': 1}), total_num: 148
+each user use time: 2.17
+
+
+rec_source: Primary_resources
+res_id: 1619988, res_edugrade: B, discipline_id: 11824253
+res_edutype: Counter({'-1': 86, u'B': 13, u'F': 2, u'D': 1}), total_num: 117
+each user use time: 1.94
+
+
+rec_source: Primary_resources
+res_id: 1670555, res_edugrade: B, discipline_id: 11824255
+res_edutype: Counter({'-1': 176, u'B': 27, u'C': 2, u'E': 1, u'D': 1}), total_num: 244
+each user use time: 2.19
+
+
+rec_source: Primary_resources
+res_id: 1685567, res_edugrade: B, discipline_id: 11824260
+res_edutype: Counter({'-1': 93, u'B': 9, u'C': 1, u'Z': 1, u'D': 1}), total_num: 125
+each user use time: 2.67
+
+
+rec_source: Primary_resources
+res_id: 1669904, res_edugrade: B, discipline_id: 11824252
+res_edutype: Counter({'-1': 100, u'B': 7, u'C': 1, u'D': 1}), total_num: 129
+each user use time: 3.22
+
+
+rec_source: Primary_resources
+res_id: 611597, res_edugrade: B, discipline_id: -1
+res_edutype: Counter({'-1': 532, u'B': 27, u'C': 20, u'D': 1, 'H': 1, u'Z': 1}), total_num: 628
+each user use time: 1.92
+
+
+rec_source: Primary_resources
+res_id: 512288, res_edugrade: B, discipline_id: -1
+res_edutype: Counter({'-1': 153, u'C': 9, u'B': 3, u'D': 2, u'E': 1}), total_num: 183
+each user use time: 2.0
+
+
+rec_source: Primary_resources
+res_id: 1717063, res_edugrade: B, discipline_id: 11824245
+res_edutype: Counter({'-1': 89, u'B': 10, u'C': 1, u'Z': 1, u'D': 1}), total_num: 103
+each user use time: 1.08
+
+
+rec_source: Primary_resources
+res_id: 1630342, res_edugrade: B, discipline_id: 11824255
+res_edutype: Counter({'-1': 120, u'B': 8, u'C': 1, u'Z': 1, u'D': 1}), total_num: 141
+each user use time: 1.91
+
+
+rec_source: Primary_resources
+res_id: 1592820, res_edugrade: B, discipline_id: 11824255
+res_edutype: Counter({'-1': 136, u'B': 9, u'C': 1, u'Z': 1, u'D': 1}), total_num: 160
+each user use time: 2.0
+
+
+rec_source: Primary_resources
+res_id: 1610405, res_edugrade: B, discipline_id: 11824261
+res_edutype: Counter({'-1': 102, u'B': 8, u'C': 1}), total_num: 116
+each user use time: 1.56
+
+
+rec_source: Primary_resources
+res_id: 817629, res_edugrade: B, discipline_id: -1
+res_edutype: Counter({'-1': 180, u'B': 7, u'C': 2, u'D': 1}), total_num: 197
+each user use time: 1.7
+
+
+rec_source: Primary_resources
+res_id: 1685532, res_edugrade: B, discipline_id: 11824254
+res_edutype: Counter({'-1': 1216, u'B': 127, u'C': 6, u'D': 3, u'E': 1, u'F': 1, u'H': 1}), total_num: 1484
+each user use time: 1.93
+
+
+rec_source: Primary_resources
+res_id: 585127, res_edugrade: B, discipline_id: -1
+res_edutype: Counter({'-1': 289, u'B': 33, u'C': 1, u'D': 1}), total_num: 351
+each user use time: 1.77
+
+
+rec_source: Primary_resources
+res_id: 813843, res_edugrade: B, discipline_id: -1
+res_edutype: Counter({'-1': 96, u'B': 15, u'C': 1, u'D': 1}), total_num: 131
+each user use time: 2.06
+
+
+rec_source: Primary_resources
+res_id: 1731124, res_edugrade: B, discipline_id: 11824245
+res_edutype: Counter({'-1': 95, u'B': 30, u'D': 1}), total_num: 148
+each user use time: 1.71
+
+
+rec_source: Primary_resources
+res_id: 592681, res_edugrade: B, discipline_id: -1
+res_edutype: Counter({'-1': 175, u'B': 37, u'D': 1}), total_num: 246
+each user use time: 1.87
+
+
+rec_source: Primary_resources
+res_id: 1592862, res_edugrade: B, discipline_id: 11824248
+res_edutype: Counter({'-1': 70, u'B': 22, u'D': 1}), total_num: 131
+each user use time: 2.65
+
+
+rec_source: Primary_resources
+res_id: 1649241, res_edugrade: B, discipline_id: 11824246
+res_edutype: Counter({'-1': 141, u'B': 17, u'C': 1}), total_num: 172
+each user use time: 1.72
+
+
+rec_source: Primary_resources
+res_id: 1685532, res_edugrade: B, discipline_id: 11824254
+res_edutype: Counter({'-1': 1216, u'B': 127, u'C': 6, u'D': 3, u'E': 1, u'F': 1, u'H': 1}), total_num: 1484
+each user use time: 1.93
+
+
+rec_source: Primary_resources
+res_id: 1731121, res_edugrade: B, discipline_id: 11824262
+res_edutype: Counter({'-1': 175, u'B': 42, u'D': 1}), total_num: 252
+each user use time: 1.79
+
+
+rec_source: Primary_resources
+res_id: 1731115, res_edugrade: B, discipline_id: 11824255
+res_edutype: Counter({'-1': 540, u'B': 105, 'H': 2, u'C': 1, u'D': 1}), total_num: 768
+each user use time: 2.09
+
+
+rec_source: Primary_resources
+res_id: 1709460, res_edugrade: B, discipline_id: 11824253
+res_edutype: Counter({'-1': 594, u'B': 109, u'C': 2, u'D': 1, u'F': 1}), total_num: 720
+each user use time: 1.12
+
+
+rec_source: Primary_resources
+res_id: 1689672, res_edugrade: B, discipline_id: 11824255
+res_edutype: Counter({'-1': 306, u'B': 57, u'C': 2, u'F': 1}), total_num: 415
+each user use time: 1.82
+
+
+rec_source: Primary_resources
+res_id: 1664050, res_edugrade: B, discipline_id: 11824254
+res_edutype: Counter({'-1': 497, u'B': 85, u'C': 3}), total_num: 661
+each user use time: 1.86
+
+
+rec_source: Primary_resources
+res_id: 1663832, res_edugrade: B, discipline_id: 11824262
+res_edutype: Counter({'-1': 204, u'B': 34, u'C': 1}), total_num: 280
+each user use time: 2.17
+
+
+rec_source: Primary_resources
+res_id: 570149, res_edugrade: B, discipline_id: -1
+res_edutype: Counter({'-1': 241, u'B': 31, u'C': 1}), total_num: 297
+each user use time: 1.75
+
+
+rec_source: Primary_resources
+res_id: 1669967, res_edugrade: B, discipline_id: 11824268
+res_edutype: Counter({'-1': 188, u'B': 52, u'C': 1, u'D': 1}), total_num: 301
+each user use time: 2.09
+
+
+rec_source: Primary_resources
+res_id: 1629655, res_edugrade: B, discipline_id: 11824245
+res_edutype: Counter({'-1': 359, u'B': 59, u'C': 2, u'D': 1}), total_num: 480
+each user use time: 1.95
+
+
+rec_source: Primary_resources
+res_id: 1631102, res_edugrade: B, discipline_id: 11824262
+res_edutype: Counter({'-1': 209, u'B': 11, u'C': 1, u'D': 1}), total_num: 235
+each user use time: 2.0
+
+
+rec_source: Primary_resources
+res_id: 217323, res_edugrade: B, discipline_id: -1
+res_edutype: Counter({'-1': 107, u'B': 2, u'C': 1, u'D': 1}), total_num: 114
+each user use time: 1.75
+
+
+rec_source: Primary_resources
+res_id: 1665281, res_edugrade: B, discipline_id: 11824254
+res_edutype: Counter({'-1': 175, u'B': 7, u'D': 1}), total_num: 193
+each user use time: 2.25
+
+
+rec_source: Primary_resources
+res_id: 1742529, res_edugrade: B, discipline_id: 11824268
+res_edutype: Counter({'-1': 403, u'C': 1, u'B': 1}), total_num: 409
+each user use time: 3.0
+
+
+rec_source: Primary_resources
+res_id: 1682619, res_edugrade: B, discipline_id: 11824268
+res_edutype: Counter({'-1': 119, u'B': 4, u'D': 1}), total_num: 130
+each user use time: 2.2
+
+
+rec_source: Primary_resources
+res_id: 1628109, res_edugrade: B, discipline_id: 11824262
+res_edutype: Counter({'-1': 256, u'B': 8, u'C': 2}), total_num: 276
+each user use time: 2.0
+
+
+rec_source: Primary_resources
+res_id: 1683632, res_edugrade: B, discipline_id: 11824268
+res_edutype: Counter({'-1': 125, u'B': 6, u'H': 1, u'C': 1, u'D': 1}), total_num: 144
+each user use time: 2.11
+
+
+rec_source: Primary_resources
+res_id: 1688901, res_edugrade: B, discipline_id: 11824254
+res_edutype: Counter({'-1': 84, u'B': 10, u'C': 1}), total_num: 105
+each user use time: 1.91
+
+
+rec_source: Primary_resources
+res_id: 1696054, res_edugrade: B, discipline_id: 11824245
+res_edutype: Counter({'-1': 134, u'B': 13, 'H': 1, u'C': 1}), total_num: 151
+each user use time: 1.13
+
+
+rec_source: Primary_resources
+res_id: 1589238, res_edugrade: B, discipline_id: 11824254
+res_edutype: Counter({'-1': 117, u'B': 10, u'C': 1}), total_num: 138
+each user use time: 1.91
+
+
+rec_source: Primary_resources
+res_id: 1577290, res_edugrade: B, discipline_id: 11824254
+res_edutype: Counter({'-1': 110, u'B': 7, u'C': 1}), total_num: 126
+each user use time: 2.0
+
+
+rec_source: Primary_resources
+res_id: 793123, res_edugrade: B, discipline_id: 11824255
+res_edutype: Counter({'-1': 118, u'B': 9, u'D': 1}), total_num: 135
+each user use time: 1.7
+
+
+rec_source: Primary_resources
+res_id: 1642132, res_edugrade: B, discipline_id: 11824254
+res_edutype: Counter({'-1': 113, u'B': 4, u'C': 1, u'D': 1}), total_num: 120
+each user use time: 1.17
+
+
+rec_source: Primary_resources
+res_id: 1732150, res_edugrade: B, discipline_id: 11824254
+res_edutype: Counter({'-1': 92, u'B': 2, u'H': 1, u'C': 1}), total_num: 100
+each user use time: 2.0
+
+
+rec_source: Primary_resources
+res_id: 1649467, res_edugrade: C, discipline_id: 11824247
+res_edutype: Counter({'-1': 95, u'B': 6, u'C': 3}), total_num: 121
+each user use time: 2.89
+
+
+rec_source: Primary_resources
+res_id: 1682683, res_edugrade: B, discipline_id: 11824268
+res_edutype: Counter({'-1': 140, u'B': 6, u'C': 1}), total_num: 154
+each user use time: 2.0
+
+
+rec_source: Primary_resources
+res_id: 1687888, res_edugrade: B, discipline_id: 11824254
+res_edutype: Counter({'-1': 118, u'B': 4, u'C': 1}), total_num: 127
+each user use time: 1.8
+
+
+rec_source: Primary_resources
+res_id: 589514, res_edugrade: B, discipline_id: -1
+res_edutype: Counter({'-1': 175, u'B': 6, u'C': 1}), total_num: 190
+each user use time: 2.14
+
+
+B 122
+C 30
+11824255 28
+11824261 27
+-1 22
+A 20
+11824254 17
+11824245 16
+11824262 14
+D 12
+11824280 11
+11824268 9
+11824253 9
+11824246 7
+11824252 7
+Z 6
+11824260 5
+11824244 4
+11824247 4
+11824248 4
+11824249 4
+E 3
+11824258 1
+11824259 1
+11824291 1
+11824301 1
+11824308 1
+__main__ End !
+0:00:01.174297

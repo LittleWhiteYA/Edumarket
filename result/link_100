@@ -1,0 +1,2267 @@
+==========
+find_hotResources:
+filter_total_id_num: 294320
+total_id_num: 1179121
+==================
+find_userlinks:
+287156
+---------------
+{'res_list': Counter({u'B': 3, u'C': 1, u'D': 1}), 'user2_edutype': u'B', 'user1_id': 64, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 81530, 'user1_edutype': u''}
+5  B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 332, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'09', 'user2_id': 73695, 'user1_edutype': u'A'}
+5 A B
+---------------
+{'res_list': Counter({u'B': 4, u'A': 1}), 'user2_edutype': u'C', 'user1_id': 332, 'link_num': 5, 'user2_roletype': u'\u8077\u7a31\u9078\u64c7', 'user1_roletype': u'09', 'user2_id': 73697, 'user1_edutype': u'A'}
+5 A C
+---------------
+{'res_list': Counter({u'B': 4, u'D': 1}), 'user2_edutype': u'B', 'user1_id': 332, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'09', 'user2_id': 73909, 'user1_edutype': u'A'}
+5 A B
+---------------
+{'res_list': Counter({u'B': 4, u'A': 1}), 'user2_edutype': u'B', 'user1_id': 332, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'09', 'user2_id': 74631, 'user1_edutype': u'A'}
+5 A B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 73712, 'user1_edutype': u'D'}
+5 D B
+---------------
+{'res_list': Counter({u'B': 4, u'C': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 73782, 'user1_edutype': u'D'}
+5 D B
+---------------
+{'res_list': Counter({u'B': 3, u'A': 1, u'C': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 73787, 'user1_edutype': u'D'}
+5 D B
+---------------
+{'res_list': Counter({u'B': 4, u'Z': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 73821, 'user1_edutype': u'D'}
+5 D B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74014, 'user1_edutype': u'D'}
+5 D B
+---------------
+{'res_list': Counter({u'B': 4, u'A': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74024, 'user1_edutype': u'D'}
+5 D B
+---------------
+{'res_list': Counter({u'C': 3, u'B': 1, u'D': 1}), 'user2_edutype': u'C', 'user1_id': 13834, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74037, 'user1_edutype': u'D'}
+5 D C
+---------------
+{'res_list': Counter({u'B': 4, u'C': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74193, 'user1_edutype': u'D'}
+5 D B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74263, 'user1_edutype': u'D'}
+5 D B
+---------------
+{'res_list': Counter({u'B': 4, u'A': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74281, 'user1_edutype': u'D'}
+5 D B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74290, 'user1_edutype': u'D'}
+5 D B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74292, 'user1_edutype': u'D'}
+5 D B
+---------------
+{'res_list': Counter({u'B': 4, u'A': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74326, 'user1_edutype': u'D'}
+5 D B
+---------------
+{'res_list': Counter({u'B': 4, u'D': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74377, 'user1_edutype': u'D'}
+5 D B
+---------------
+{'res_list': Counter({u'B': 4, u'A': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74440, 'user1_edutype': u'D'}
+5 D B
+---------------
+{'res_list': Counter({u'B': 3, u'C': 1, u'E': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74490, 'user1_edutype': u'D'}
+5 D B
+---------------
+{'res_list': Counter({u'B': 4, u'A': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74538, 'user1_edutype': u'D'}
+5 D B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74672, 'user1_edutype': u'D'}
+5 D B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74785, 'user1_edutype': u'D'}
+5 D B
+---------------
+{'res_list': Counter({u'B': 4, u'C': 1}), 'user2_edutype': u'C', 'user1_id': 13834, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74820, 'user1_edutype': u'D'}
+5 D C
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'C', 'user1_id': 13834, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74943, 'user1_edutype': u'D'}
+5 D C
+---------------
+{'res_list': Counter({u'B': 4, u'C': 1}), 'user2_edutype': u'C', 'user1_id': 13834, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74973, 'user1_edutype': u'D'}
+5 D C
+---------------
+{'res_list': Counter({u'B': 4, u'C': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 75006, 'user1_edutype': u'D'}
+5 D B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 75043, 'user1_edutype': u'D'}
+5 D B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 75112, 'user1_edutype': u'D'}
+5 D B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 75142, 'user1_edutype': u'D'}
+5 D B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 80336, 'user1_edutype': u'D'}
+5 D B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 80341, 'user1_edutype': u'D'}
+5 D B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 80390, 'user1_edutype': u'D'}
+5 D B
+---------------
+{'res_list': Counter({u'B': 3, u'C': 1, u'D': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 80451, 'user1_edutype': u'D'}
+5 D B
+---------------
+{'res_list': Counter({u'B': 4, u'C': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 80556, 'user1_edutype': u'D'}
+5 D B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 80572, 'user1_edutype': u'D'}
+5 D B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 80979, 'user1_edutype': u'D'}
+5 D B
+---------------
+{'res_list': Counter({u'B': 3, u'Z': 2}), 'user2_edutype': u'Z', 'user1_id': 13834, 'link_num': 5, 'user2_roletype': u'12', 'user1_roletype': u'00', 'user2_id': 81061, 'user1_edutype': u'D'}
+5 D Z
+---------------
+{'res_list': Counter({u'B': 4, u'C': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 81239, 'user1_edutype': u'D'}
+5 D B
+---------------
+{'res_list': Counter({u'B': 4, u'C': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 81572, 'user1_edutype': u'D'}
+5 D B
+---------------
+{'res_list': Counter({u'B': 3, u'C': 2}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 81579, 'user1_edutype': u'D'}
+5 D B
+---------------
+{'res_list': Counter({u'B': 4, u'C': 1}), 'user2_edutype': u'Z', 'user1_id': 13834, 'link_num': 5, 'user2_roletype': u'04', 'user1_roletype': u'00', 'user2_id': 81687, 'user1_edutype': u'D'}
+5 D Z
+---------------
+{'res_list': Counter({u'B': 4, u'A': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 81703, 'user1_edutype': u'D'}
+5 D B
+---------------
+{'res_list': Counter({u'B': 4, u'A': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 81726, 'user1_edutype': u'D'}
+5 D B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 81943, 'user1_edutype': u'D'}
+5 D B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 82035, 'user1_edutype': u'D'}
+5 D B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 82120, 'user1_edutype': u'D'}
+5 D B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 82152, 'user1_edutype': u'D'}
+5 D B
+---------------
+{'res_list': Counter({u'B': 3, u'A': 1, u'C': 1}), 'user2_edutype': u'C', 'user1_id': 13834, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 82215, 'user1_edutype': u'D'}
+5 D C
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 82221, 'user1_edutype': u'D'}
+5 D B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 82222, 'user1_edutype': u'D'}
+5 D B
+---------------
+{'res_list': Counter({u'C': 3, u'B': 1, u'D': 1}), 'user2_edutype': u'C', 'user1_id': 13834, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 82915, 'user1_edutype': u'D'}
+5 D C
+---------------
+{'res_list': Counter({u'B': 3, u'C': 1, u'D': 1}), 'user2_edutype': u'C', 'user1_id': 13834, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 83411, 'user1_edutype': u'D'}
+5 D C
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 83790, 'user1_edutype': u'D'}
+5 D B
+---------------
+{'res_list': Counter({u'B': 3, u'C': 2}), 'user2_edutype': u'C', 'user1_id': 13834, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 84418, 'user1_edutype': u'D'}
+5 D C
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 84442, 'user1_edutype': u'D'}
+5 D B
+---------------
+{'res_list': Counter({u'B': 3, u'A': 1, u'C': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 84561, 'user1_edutype': u'D'}
+5 D B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 84575, 'user1_edutype': u'D'}
+5 D B
+---------------
+{'res_list': Counter({u'C': 2, u'B': 2, u'E': 1}), 'user2_edutype': u'C', 'user1_id': 13834, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 86149, 'user1_edutype': u'D'}
+5 D C
+---------------
+{'res_list': Counter({u'B': 4, u'A': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 5, 'user2_roletype': u'03', 'user1_roletype': u'00', 'user2_id': 86307, 'user1_edutype': u'D'}
+5 D B
+---------------
+{'res_list': Counter({u'B': 3, u'A': 1, u'Z': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 5, 'user2_roletype': u'03', 'user1_roletype': u'00', 'user2_id': 86308, 'user1_edutype': u'D'}
+5 D B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 86345, 'user1_edutype': u'D'}
+5 D B
+---------------
+{'res_list': Counter({u'B': 4, u'Z': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 86524, 'user1_edutype': u'D'}
+5 D B
+---------------
+{'res_list': Counter({u'B': 3, u'C': 2}), 'user2_edutype': u'C', 'user1_id': 13834, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 87116, 'user1_edutype': u'D'}
+5 D C
+---------------
+{'res_list': Counter({u'B': 4, u'Z': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 5, 'user2_roletype': u'', 'user1_roletype': u'00', 'user2_id': 88285, 'user1_edutype': u'D'}
+5 D B
+---------------
+{'res_list': Counter({u'B': 3, u'A': 2}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 5, 'user2_roletype': u'03', 'user1_roletype': u'00', 'user2_id': 88311, 'user1_edutype': u'D'}
+5 D B
+---------------
+{'res_list': Counter({u'B': 3, u'C': 1, u'E': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 88457, 'user1_edutype': u'D'}
+5 D B
+---------------
+{'res_list': Counter({u'B': 4, u'C': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 5, 'user2_roletype': u'03', 'user1_roletype': u'00', 'user2_id': 88955, 'user1_edutype': u'D'}
+5 D B
+---------------
+{'res_list': Counter({u'B': 3, u'E': 1, u'D': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 89200, 'user1_edutype': u'D'}
+5 D B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'C', 'user1_id': 13834, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 89233, 'user1_edutype': u'D'}
+5 D C
+---------------
+{'res_list': Counter({u'B': 4, u'C': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 89725, 'user1_edutype': u'D'}
+5 D B
+---------------
+{'res_list': Counter({u'B': 4, u'A': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 5, 'user2_roletype': u'03', 'user1_roletype': u'00', 'user2_id': 89927, 'user1_edutype': u'D'}
+5 D B
+---------------
+{'res_list': Counter({u'B': 2, u'D': 2, u'C': 1}), 'user2_edutype': u'C', 'user1_id': 13834, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90532, 'user1_edutype': u'D'}
+5 D C
+---------------
+{'res_list': Counter({u'C': 2, u'B': 2, u'Z': 1}), 'user2_edutype': u'C', 'user1_id': 13834, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 91062, 'user1_edutype': u'D'}
+5 D C
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'D', 'user1_id': 13834, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 91704, 'user1_edutype': u'D'}
+5 D D
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'', 'user1_id': 63697, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 64325, 'user1_edutype': u'B'}
+5 B 
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 63697, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 84582, 'user1_edutype': u'B'}
+5 B B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 63697, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 91310, 'user1_edutype': u'B'}
+5 B B
+---------------
+{'res_list': Counter({u'B': 4, u'A': 1}), 'user2_edutype': u'B', 'user1_id': 64322, 'link_num': 5, 'user2_roletype': u'02', 'user1_roletype': u'00', 'user2_id': 72507, 'user1_edutype': u'C'}
+5 C B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'C', 'user1_id': 64322, 'link_num': 5, 'user2_roletype': u'\u8077\u7a31\u9078\u64c7', 'user1_roletype': u'00', 'user2_id': 73697, 'user1_edutype': u'C'}
+5 C C
+---------------
+{'res_list': Counter({u'B': 3, u'A': 2}), 'user2_edutype': u'B', 'user1_id': 64322, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 73772, 'user1_edutype': u'C'}
+5 C B
+---------------
+{'res_list': Counter({u'B': 4, u'D': 1}), 'user2_edutype': u'B', 'user1_id': 64322, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 73909, 'user1_edutype': u'C'}
+5 C B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 64322, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 73916, 'user1_edutype': u'C'}
+5 C B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 64322, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 73935, 'user1_edutype': u'C'}
+5 C B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 64322, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74216, 'user1_edutype': u'C'}
+5 C B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 64322, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 75113, 'user1_edutype': u'C'}
+5 C B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 64322, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 80774, 'user1_edutype': u'C'}
+5 C B
+---------------
+{'res_list': Counter({u'B': 4, u'A': 1}), 'user2_edutype': u'B', 'user1_id': 64322, 'link_num': 5, 'user2_roletype': u'03', 'user1_roletype': u'00', 'user2_id': 86160, 'user1_edutype': u'C'}
+5 C B
+---------------
+{'res_list': Counter({u'B': 4, u'A': 1}), 'user2_edutype': u'B', 'user1_id': 64322, 'link_num': 5, 'user2_roletype': u'03', 'user1_roletype': u'00', 'user2_id': 86305, 'user1_edutype': u'C'}
+5 C B
+---------------
+{'res_list': Counter({u'B': 3, u'A': 2}), 'user2_edutype': u'B', 'user1_id': 64322, 'link_num': 5, 'user2_roletype': u'03', 'user1_roletype': u'00', 'user2_id': 88296, 'user1_edutype': u'C'}
+5 C B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 64325, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 91140, 'user1_edutype': u''}
+5  B
+---------------
+{'res_list': Counter({u'A': 3, u'B': 2}), 'user2_edutype': u'B', 'user1_id': 67059, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 73772, 'user1_edutype': u'B'}
+5 B B
+---------------
+{'res_list': Counter({u'B': 3, u'A': 1, u'C': 1}), 'user2_edutype': u'B', 'user1_id': 67059, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74066, 'user1_edutype': u'B'}
+5 B B
+---------------
+{'res_list': Counter({u'B': 3, u'C': 1, u'D': 1}), 'user2_edutype': u'C', 'user1_id': 67059, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74233, 'user1_edutype': u'B'}
+5 B C
+---------------
+{'res_list': Counter({u'B': 3, u'A': 2}), 'user2_edutype': u'B', 'user1_id': 67059, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74439, 'user1_edutype': u'B'}
+5 B B
+---------------
+{'res_list': Counter({u'B': 2, u'D': 2, u'C': 1}), 'user2_edutype': u'B', 'user1_id': 67059, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74527, 'user1_edutype': u'B'}
+5 B B
+---------------
+{'res_list': Counter({u'B': 3, u'C': 2}), 'user2_edutype': u'B', 'user1_id': 67059, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74563, 'user1_edutype': u'B'}
+5 B B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 67059, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74610, 'user1_edutype': u'B'}
+5 B B
+---------------
+{'res_list': Counter({u'B': 2, u'D': 2, u'A': 1}), 'user2_edutype': u'C', 'user1_id': 67059, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74701, 'user1_edutype': u'B'}
+5 B C
+---------------
+{'res_list': Counter({u'B': 3, u'A': 1, u'C': 1}), 'user2_edutype': u'C', 'user1_id': 67059, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 75157, 'user1_edutype': u'B'}
+5 B C
+---------------
+{'res_list': Counter({u'B': 3, u'A': 2}), 'user2_edutype': u'B', 'user1_id': 67059, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 85499, 'user1_edutype': u'B'}
+5 B B
+---------------
+{'res_list': Counter({u'A': 3, u'B': 2}), 'user2_edutype': u'B', 'user1_id': 67059, 'link_num': 5, 'user2_roletype': u'03', 'user1_roletype': u'00', 'user2_id': 88311, 'user1_edutype': u'B'}
+5 B B
+---------------
+{'res_list': Counter({u'B': 3, u'A': 2}), 'user2_edutype': u'B', 'user1_id': 67059, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90777, 'user1_edutype': u'B'}
+5 B B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 70278, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 84442, 'user1_edutype': u'B'}
+5 B B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 70278, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 86345, 'user1_edutype': u'B'}
+5 B B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 70278, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 87819, 'user1_edutype': u'B'}
+5 B B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 70278, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90058, 'user1_edutype': u'B'}
+5 B B
+---------------
+{'res_list': Counter({u'B': 3, u'A': 2}), 'user2_edutype': u'B', 'user1_id': 72507, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'02', 'user2_id': 74631, 'user1_edutype': u'B'}
+5 B B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 72507, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'02', 'user2_id': 75089, 'user1_edutype': u'B'}
+5 B B
+---------------
+{'res_list': Counter({u'B': 4, u'A': 1}), 'user2_edutype': u'C', 'user1_id': 73695, 'link_num': 5, 'user2_roletype': u'\u8077\u7a31\u9078\u64c7', 'user1_roletype': u'00', 'user2_id': 73697, 'user1_edutype': u'B'}
+5 B C
+---------------
+{'res_list': Counter({u'B': 3, u'A': 1, u'D': 1}), 'user2_edutype': u'C', 'user1_id': 73695, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 73966, 'user1_edutype': u'B'}
+5 B C
+---------------
+{'res_list': Counter({u'B': 4, u'A': 1}), 'user2_edutype': u'B', 'user1_id': 73697, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'\u8077\u7a31\u9078\u64c7', 'user2_id': 73861, 'user1_edutype': u'C'}
+5 C B
+---------------
+{'res_list': Counter({u'B': 4, u'A': 1}), 'user2_edutype': u'B', 'user1_id': 73861, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74066, 'user1_edutype': u'B'}
+5 B B
+---------------
+{'res_list': Counter({u'B': 4, u'A': 1}), 'user2_edutype': u'', 'user1_id': 73861, 'link_num': 5, 'user2_roletype': u'12', 'user1_roletype': u'00', 'user2_id': 74146, 'user1_edutype': u'B'}
+5 B 
+---------------
+{'res_list': Counter({u'B': 4, u'A': 1}), 'user2_edutype': u'B', 'user1_id': 73861, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74291, 'user1_edutype': u'B'}
+5 B B
+---------------
+{'res_list': Counter({u'B': 4, u'A': 1}), 'user2_edutype': u'B', 'user1_id': 73861, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 75089, 'user1_edutype': u'B'}
+5 B B
+---------------
+{'res_list': Counter({u'B': 4, u'A': 1}), 'user2_edutype': u'B', 'user1_id': 73861, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 85499, 'user1_edutype': u'B'}
+5 B B
+---------------
+{'res_list': Counter({u'A': 2, u'B': 2, u'C': 1}), 'user2_edutype': u'B', 'user1_id': 73921, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'04', 'user2_id': 73926, 'user1_edutype': u''}
+5  B
+---------------
+{'res_list': Counter({u'A': 3, u'B': 2}), 'user2_edutype': u'B', 'user1_id': 73921, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'04', 'user2_id': 74631, 'user1_edutype': u''}
+5  B
+---------------
+{'res_list': Counter({u'B': 4, u'C': 1}), 'user2_edutype': u'B', 'user1_id': 73921, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'04', 'user2_id': 74872, 'user1_edutype': u''}
+5  B
+---------------
+{'res_list': Counter({u'B': 3, u'A': 1, u'D': 1}), 'user2_edutype': u'B', 'user1_id': 73921, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'04', 'user2_id': 80232, 'user1_edutype': u''}
+5  B
+---------------
+{'res_list': Counter({u'B': 3, u'A': 1, u'C': 1}), 'user2_edutype': u'B', 'user1_id': 73926, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74066, 'user1_edutype': u'B'}
+5 B B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 73964, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 81924, 'user1_edutype': u'B'}
+5 B B
+---------------
+{'res_list': Counter({u'B': 4, u'A': 1}), 'user2_edutype': u'B', 'user1_id': 73966, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74033, 'user1_edutype': u'C'}
+5 C B
+---------------
+{'res_list': Counter({u'B': 3, u'A': 1, u'C': 1}), 'user2_edutype': u'B', 'user1_id': 73966, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74066, 'user1_edutype': u'C'}
+5 C B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 73966, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74216, 'user1_edutype': u'C'}
+5 C B
+---------------
+{'res_list': Counter({u'B': 3, u'C': 1, u'D': 1}), 'user2_edutype': u'C', 'user1_id': 73966, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74233, 'user1_edutype': u'C'}
+5 C C
+---------------
+{'res_list': Counter({u'B': 4, u'A': 1}), 'user2_edutype': u'B', 'user1_id': 73966, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74326, 'user1_edutype': u'C'}
+5 C B
+---------------
+{'res_list': Counter({u'B': 4, u'A': 1}), 'user2_edutype': u'B', 'user1_id': 73966, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74360, 'user1_edutype': u'C'}
+5 C B
+---------------
+{'res_list': Counter({u'B': 4, u'A': 1}), 'user2_edutype': u'B', 'user1_id': 73966, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74538, 'user1_edutype': u'C'}
+5 C B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 73966, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74557, 'user1_edutype': u'C'}
+5 C B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 73966, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74610, 'user1_edutype': u'C'}
+5 C B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 73966, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74649, 'user1_edutype': u'C'}
+5 C B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 73966, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74785, 'user1_edutype': u'C'}
+5 C B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 73966, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74855, 'user1_edutype': u'C'}
+5 C B
+---------------
+{'res_list': Counter({u'B': 4, u'C': 1}), 'user2_edutype': u'B', 'user1_id': 73966, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 75006, 'user1_edutype': u'C'}
+5 C B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 73966, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 75142, 'user1_edutype': u'C'}
+5 C B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 73966, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 75192, 'user1_edutype': u'C'}
+5 C B
+---------------
+{'res_list': Counter({u'B': 4, u'D': 1}), 'user2_edutype': u'B', 'user1_id': 73966, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 80203, 'user1_edutype': u'C'}
+5 C B
+---------------
+{'res_list': Counter({u'B': 4, u'D': 1}), 'user2_edutype': u'C', 'user1_id': 73966, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 80315, 'user1_edutype': u'C'}
+5 C C
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 73966, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 80340, 'user1_edutype': u'C'}
+5 C B
+---------------
+{'res_list': Counter({u'B': 4, u'C': 1}), 'user2_edutype': u'B', 'user1_id': 73966, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 80354, 'user1_edutype': u'C'}
+5 C B
+---------------
+{'res_list': Counter({u'D': 2, u'A': 1, u'C': 1, u'B': 1}), 'user2_edutype': u'F', 'user1_id': 73966, 'link_num': 5, 'user2_roletype': u'03', 'user1_roletype': u'00', 'user2_id': 80554, 'user1_edutype': u'C'}
+5 C F
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 73966, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 80757, 'user1_edutype': u'C'}
+5 C B
+---------------
+{'res_list': Counter({u'B': 3, u'C': 2}), 'user2_edutype': u'C', 'user1_id': 73966, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 80801, 'user1_edutype': u'C'}
+5 C C
+---------------
+{'res_list': Counter({u'B': 4, u'C': 1}), 'user2_edutype': u'B', 'user1_id': 73966, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 80809, 'user1_edutype': u'C'}
+5 C B
+---------------
+{'res_list': Counter({u'B': 4, u'C': 1}), 'user2_edutype': u'B', 'user1_id': 73966, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 81423, 'user1_edutype': u'C'}
+5 C B
+---------------
+{'res_list': Counter({u'B': 4, u'C': 1}), 'user2_edutype': u'B', 'user1_id': 73966, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 81572, 'user1_edutype': u'C'}
+5 C B
+---------------
+{'res_list': Counter({u'B': 3, u'C': 2}), 'user2_edutype': u'B', 'user1_id': 73966, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 81579, 'user1_edutype': u'C'}
+5 C B
+---------------
+{'res_list': Counter({u'B': 4, u'C': 1}), 'user2_edutype': u'Z', 'user1_id': 73966, 'link_num': 5, 'user2_roletype': u'04', 'user1_roletype': u'00', 'user2_id': 81687, 'user1_edutype': u'C'}
+5 C Z
+---------------
+{'res_list': Counter({u'B': 4, u'C': 1}), 'user2_edutype': u'C', 'user1_id': 73966, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 82064, 'user1_edutype': u'C'}
+5 C C
+---------------
+{'res_list': Counter({u'B': 3, u'A': 1, u'C': 1}), 'user2_edutype': u'C', 'user1_id': 73966, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 82374, 'user1_edutype': u'C'}
+5 C C
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'E', 'user1_id': 73966, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 83121, 'user1_edutype': u'C'}
+5 C E
+---------------
+{'res_list': Counter({u'B': 4, u'C': 1}), 'user2_edutype': u'B', 'user1_id': 73966, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 83125, 'user1_edutype': u'C'}
+5 C B
+---------------
+{'res_list': Counter({u'B': 4, u'D': 1}), 'user2_edutype': u'B', 'user1_id': 73966, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 83659, 'user1_edutype': u'C'}
+5 C B
+---------------
+{'res_list': Counter({u'B': 3, u'A': 1, u'D': 1}), 'user2_edutype': u'B', 'user1_id': 73966, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 85874, 'user1_edutype': u'C'}
+5 C B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 73966, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 85945, 'user1_edutype': u'C'}
+5 C B
+---------------
+{'res_list': Counter({u'C': 4, u'B': 1}), 'user2_edutype': u'C', 'user1_id': 73966, 'link_num': 5, 'user2_roletype': u'03', 'user1_roletype': u'00', 'user2_id': 85963, 'user1_edutype': u'C'}
+5 C C
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 73966, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 86524, 'user1_edutype': u'C'}
+5 C B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 73966, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 86588, 'user1_edutype': u'C'}
+5 C B
+---------------
+{'res_list': Counter({u'C': 5}), 'user2_edutype': u'C', 'user1_id': 73966, 'link_num': 5, 'user2_roletype': u'03', 'user1_roletype': u'00', 'user2_id': 87130, 'user1_edutype': u'C'}
+5 C C
+---------------
+{'res_list': Counter({u'A': 3, u'B': 2}), 'user2_edutype': u'B', 'user1_id': 73966, 'link_num': 5, 'user2_roletype': u'03', 'user1_roletype': u'00', 'user2_id': 88311, 'user1_edutype': u'C'}
+5 C B
+---------------
+{'res_list': Counter({u'B': 3, u'D': 2}), 'user2_edutype': u'B', 'user1_id': 73966, 'link_num': 5, 'user2_roletype': u'03', 'user1_roletype': u'00', 'user2_id': 88954, 'user1_edutype': u'C'}
+5 C B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 74061, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 85940, 'user1_edutype': u'B'}
+5 B B
+---------------
+{'res_list': Counter({u'B': 4, u'C': 1}), 'user2_edutype': u'B', 'user1_id': 74066, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74872, 'user1_edutype': u'B'}
+5 B B
+---------------
+{'res_list': Counter({u'B': 4, u'C': 1}), 'user2_edutype': u'C', 'user1_id': 74066, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 75157, 'user1_edutype': u'B'}
+5 B C
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 74146, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'12', 'user2_id': 82245, 'user1_edutype': u''}
+5  B
+---------------
+{'res_list': Counter({u'B': 4, u'A': 1}), 'user2_edutype': u'B', 'user1_id': 74281, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 81530, 'user1_edutype': u'B'}
+5 B B
+---------------
+{'res_list': Counter({u'C': 2, u'B': 2, u'Z': 1}), 'user2_edutype': u'B', 'user1_id': 74304, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 81530, 'user1_edutype': u'B'}
+5 B B
+---------------
+{'res_list': Counter({u'A': 4, u'B': 1}), 'user2_edutype': u'B', 'user1_id': 74436, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74631, 'user1_edutype': u'B'}
+5 B B
+---------------
+{'res_list': Counter({u'B': 2, u'D': 2, u'A': 1}), 'user2_edutype': u'C', 'user1_id': 74454, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74701, 'user1_edutype': u'B'}
+5 B C
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 74497, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 85940, 'user1_edutype': u'B'}
+5 B B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 74550, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'05', 'user2_id': 85751, 'user1_edutype': u'Z'}
+5 Z B
+---------------
+{'res_list': Counter({u'B': 4, u'C': 1}), 'user2_edutype': u'E', 'user1_id': 74631, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 75126, 'user1_edutype': u'B'}
+5 B E
+---------------
+{'res_list': Counter({u'B': 4, u'C': 1}), 'user2_edutype': u'B', 'user1_id': 74631, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 80314, 'user1_edutype': u'B'}
+5 B B
+---------------
+{'res_list': Counter({u'B': 4, u'A': 1}), 'user2_edutype': u'B', 'user1_id': 74631, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 85499, 'user1_edutype': u'B'}
+5 B B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 75082, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90380, 'user1_edutype': u'B'}
+5 B B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 75126, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 80232, 'user1_edutype': u'E'}
+5 E B
+---------------
+{'res_list': Counter({u'B': 4, u'C': 1}), 'user2_edutype': u'B', 'user1_id': 75126, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 80314, 'user1_edutype': u'E'}
+5 E B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 80232, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 80298, 'user1_edutype': u'B'}
+5 B B
+---------------
+{'res_list': Counter({u'B': 4, u'D': 1}), 'user2_edutype': u'B', 'user1_id': 80232, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 80299, 'user1_edutype': u'B'}
+5 B B
+---------------
+{'res_list': Counter({u'B': 4, u'D': 1}), 'user2_edutype': u'B', 'user1_id': 80232, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 80314, 'user1_edutype': u'B'}
+5 B B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 80303, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 84836, 'user1_edutype': u'B'}
+5 B B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 80303, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 85170, 'user1_edutype': u'B'}
+5 B B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 80303, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 86554, 'user1_edutype': u'B'}
+5 B B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 80303, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 86588, 'user1_edutype': u'B'}
+5 B B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 80303, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 87843, 'user1_edutype': u'B'}
+5 B B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 80513, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 81239, 'user1_edutype': u'C'}
+5 C B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 80541, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'12', 'user2_id': 85499, 'user1_edutype': u''}
+5  B
+---------------
+{'res_list': Counter({u'C': 3, u'B': 2}), 'user2_edutype': u'C', 'user1_id': 80797, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90300, 'user1_edutype': u'C'}
+5 C C
+---------------
+{'res_list': Counter({u'B': 4, u'C': 1}), 'user2_edutype': u'C', 'user1_id': 80797, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90463, 'user1_edutype': u'C'}
+5 C C
+---------------
+{'res_list': Counter({u'B': 4, u'C': 1}), 'user2_edutype': u'B', 'user1_id': 80805, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 89009, 'user1_edutype': u'B'}
+5 B B
+---------------
+{'res_list': Counter({u'B': 3, u'C': 1, u'D': 1}), 'user2_edutype': u'B', 'user1_id': 80931, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 84633, 'user1_edutype': u'B'}
+5 B B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 81135, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 86554, 'user1_edutype': u'B'}
+5 B B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 81423, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 88266, 'user1_edutype': u'B'}
+5 B B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'C', 'user1_id': 81530, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 82970, 'user1_edutype': u'B'}
+5 B C
+---------------
+{'res_list': Counter({u'B': 4, u'C': 1}), 'user2_edutype': u'B', 'user1_id': 81530, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 89725, 'user1_edutype': u'B'}
+5 B B
+---------------
+{'res_list': Counter({u'B': 4, u'Z': 1}), 'user2_edutype': u'B', 'user1_id': 81530, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90777, 'user1_edutype': u'B'}
+5 B B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 81530, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90923, 'user1_edutype': u'B'}
+5 B B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 81967, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 82049, 'user1_edutype': u'B'}
+5 B B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 81967, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 84633, 'user1_edutype': u'B'}
+5 B B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 81967, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 85170, 'user1_edutype': u'B'}
+5 B B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 82049, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 84633, 'user1_edutype': u'B'}
+5 B B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 82049, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 84836, 'user1_edutype': u'B'}
+5 B B
+---------------
+{'res_list': Counter({u'B': 4, u'C': 1}), 'user2_edutype': u'B', 'user1_id': 82573, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 82957, 'user1_edutype': u'B'}
+5 B B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 83113, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 87820, 'user1_edutype': u'B'}
+5 B B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 84302, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'04', 'user2_id': 87819, 'user1_edutype': u'C'}
+5 C B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 84302, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'04', 'user2_id': 87946, 'user1_edutype': u'C'}
+5 C B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 84302, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'04', 'user2_id': 91140, 'user1_edutype': u'C'}
+5 C B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 84582, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 86554, 'user1_edutype': u'B'}
+5 B B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 84596, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 84836, 'user1_edutype': u'B'}
+5 B B
+---------------
+{'res_list': Counter({u'C': 2, u'B': 2, u'D': 1}), 'user2_edutype': u'C', 'user1_id': 84630, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 85436, 'user1_edutype': u'B'}
+5 B C
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 84633, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 85894, 'user1_edutype': u'B'}
+5 B B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 84639, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 84836, 'user1_edutype': u'B'}
+5 B B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 84836, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 88684, 'user1_edutype': u'B'}
+5 B B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 86345, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 91724, 'user1_edutype': u'B'}
+5 B B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 86522, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 87843, 'user1_edutype': u'B'}
+5 B B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 86554, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 88684, 'user1_edutype': u'B'}
+5 B B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 86554, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90058, 'user1_edutype': u'B'}
+5 B B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 86554, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 91310, 'user1_edutype': u'B'}
+5 B B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 87351, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90058, 'user1_edutype': u'B'}
+5 B B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 87819, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 91140, 'user1_edutype': u'B'}
+5 B B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'B', 'user1_id': 87946, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 91362, 'user1_edutype': u'B'}
+5 B B
+---------------
+{'res_list': Counter({u'A': 4, u'B': 1}), 'user2_edutype': u'B', 'user1_id': 88311, 'link_num': 5, 'user2_roletype': u'03', 'user1_roletype': u'03', 'user2_id': 88319, 'user1_edutype': u'B'}
+5 B B
+---------------
+{'res_list': Counter({u'B': 5}), 'user2_edutype': u'C', 'user1_id': 88365, 'link_num': 5, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 91908, 'user1_edutype': u'B'}
+5 B C
+---------------
+{'res_list': Counter({u'B': 3, u'D': 2, u'A': 1}), 'user2_edutype': u'B', 'user1_id': 64, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 67059, 'user1_edutype': u''}
+6  B
+---------------
+{'res_list': Counter({u'B': 6}), 'user2_edutype': u'C', 'user1_id': 332, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'09', 'user2_id': 64322, 'user1_edutype': u'A'}
+6 A C
+---------------
+{'res_list': Counter({u'B': 6}), 'user2_edutype': u'C', 'user1_id': 332, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'09', 'user2_id': 73966, 'user1_edutype': u'A'}
+6 A C
+---------------
+{'res_list': Counter({u'B': 4, u'A': 1, u'D': 1}), 'user2_edutype': u'C', 'user1_id': 13834, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 64323, 'user1_edutype': u'D'}
+6 D C
+---------------
+{'res_list': Counter({u'B': 6}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 73891, 'user1_edutype': u'D'}
+6 D B
+---------------
+{'res_list': Counter({u'B': 5, u'A': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74031, 'user1_edutype': u'D'}
+6 D B
+---------------
+{'res_list': Counter({u'B': 6}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74201, 'user1_edutype': u'D'}
+6 D B
+---------------
+{'res_list': Counter({u'B': 4, u'C': 1, u'D': 1}), 'user2_edutype': u'C', 'user1_id': 13834, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74233, 'user1_edutype': u'D'}
+6 D C
+---------------
+{'res_list': Counter({u'B': 5, u'A': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74360, 'user1_edutype': u'D'}
+6 D B
+---------------
+{'res_list': Counter({u'A': 3, u'B': 3}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74436, 'user1_edutype': u'D'}
+6 D B
+---------------
+{'res_list': Counter({u'B': 6}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74497, 'user1_edutype': u'D'}
+6 D B
+---------------
+{'res_list': Counter({u'B': 5, u'A': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74645, 'user1_edutype': u'D'}
+6 D B
+---------------
+{'res_list': Counter({u'B': 6}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74649, 'user1_edutype': u'D'}
+6 D B
+---------------
+{'res_list': Counter({u'B': 4, u'C': 2}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74872, 'user1_edutype': u'D'}
+6 D B
+---------------
+{'res_list': Counter({u'B': 6}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74955, 'user1_edutype': u'D'}
+6 D B
+---------------
+{'res_list': Counter({u'B': 6}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 75087, 'user1_edutype': u'D'}
+6 D B
+---------------
+{'res_list': Counter({u'B': 6}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 75114, 'user1_edutype': u'D'}
+6 D B
+---------------
+{'res_list': Counter({u'B': 6}), 'user2_edutype': u'Z', 'user1_id': 13834, 'link_num': 6, 'user2_roletype': u'04', 'user1_roletype': u'00', 'user2_id': 75121, 'user1_edutype': u'D'}
+6 D Z
+---------------
+{'res_list': Counter({u'B': 5, u'D': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 80203, 'user1_edutype': u'D'}
+6 D B
+---------------
+{'res_list': Counter({u'B': 4, u'A': 1, u'C': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 80323, 'user1_edutype': u'D'}
+6 D B
+---------------
+{'res_list': Counter({u'B': 6}), 'user2_edutype': u'F', 'user1_id': 13834, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 80347, 'user1_edutype': u'D'}
+6 D F
+---------------
+{'res_list': Counter({u'B': 4, u'C': 2}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 80354, 'user1_edutype': u'D'}
+6 D B
+---------------
+{'res_list': Counter({u'B': 4, u'C': 2}), 'user2_edutype': u'C', 'user1_id': 13834, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 80514, 'user1_edutype': u'D'}
+6 D C
+---------------
+{'res_list': Counter({u'B': 6}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 80774, 'user1_edutype': u'D'}
+6 D B
+---------------
+{'res_list': Counter({u'B': 5, u'C': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 80805, 'user1_edutype': u'D'}
+6 D B
+---------------
+{'res_list': Counter({u'B': 5, u'C': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 81122, 'user1_edutype': u'D'}
+6 D B
+---------------
+{'res_list': Counter({u'B': 4, u'C': 2}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 81125, 'user1_edutype': u'D'}
+6 D B
+---------------
+{'res_list': Counter({u'B': 6}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 81342, 'user1_edutype': u'D'}
+6 D B
+---------------
+{'res_list': Counter({u'B': 4, u'C': 2}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 81574, 'user1_edutype': u'D'}
+6 D B
+---------------
+{'res_list': Counter({u'B': 4, u'C': 2}), 'user2_edutype': u'C', 'user1_id': 13834, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 82064, 'user1_edutype': u'D'}
+6 D C
+---------------
+{'res_list': Counter({u'B': 6}), 'user2_edutype': u'C', 'user1_id': 13834, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 82804, 'user1_edutype': u'D'}
+6 D C
+---------------
+{'res_list': Counter({u'B': 6}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 82950, 'user1_edutype': u'D'}
+6 D B
+---------------
+{'res_list': Counter({u'B': 6}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 83583, 'user1_edutype': u'D'}
+6 D B
+---------------
+{'res_list': Counter({u'B': 3, u'A': 2, u'C': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 84458, 'user1_edutype': u'D'}
+6 D B
+---------------
+{'res_list': Counter({u'B': 4, u'A': 1, u'C': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 84572, 'user1_edutype': u'D'}
+6 D B
+---------------
+{'res_list': Counter({u'B': 4, u'A': 1, u'C': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 84586, 'user1_edutype': u'D'}
+6 D B
+---------------
+{'res_list': Counter({u'B': 4, u'C': 1, u'E': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 84608, 'user1_edutype': u'D'}
+6 D B
+---------------
+{'res_list': Counter({u'B': 4, u'C': 1, u'D': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 84633, 'user1_edutype': u'D'}
+6 D B
+---------------
+{'res_list': Counter({u'B': 4, u'C': 2}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 84728, 'user1_edutype': u'D'}
+6 D B
+---------------
+{'res_list': Counter({u'C': 4, u'A': 1, u'B': 1}), 'user2_edutype': u'C', 'user1_id': 13834, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 84923, 'user1_edutype': u'D'}
+6 D C
+---------------
+{'res_list': Counter({u'C': 4, u'B': 1, u'D': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 85191, 'user1_edutype': u'D'}
+6 D B
+---------------
+{'res_list': Counter({u'B': 6}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 86180, 'user1_edutype': u'D'}
+6 D B
+---------------
+{'res_list': Counter({u'B': 4, u'C': 2}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 86453, 'user1_edutype': u'D'}
+6 D B
+---------------
+{'res_list': Counter({u'B': 6}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 86588, 'user1_edutype': u'D'}
+6 D B
+---------------
+{'res_list': Counter({u'B': 4, u'A': 1, u'D': 1}), 'user2_edutype': u'C', 'user1_id': 13834, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 87988, 'user1_edutype': u'D'}
+6 D C
+---------------
+{'res_list': Counter({u'B': 5, u'C': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 89210, 'user1_edutype': u'D'}
+6 D B
+---------------
+{'res_list': Counter({u'B': 4, u'C': 1, u'Z': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 6, 'user2_roletype': u'03', 'user1_roletype': u'00', 'user2_id': 89931, 'user1_edutype': u'D'}
+6 D B
+---------------
+{'res_list': Counter({u'B': 5, u'C': 1}), 'user2_edutype': u'C', 'user1_id': 13834, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90611, 'user1_edutype': u'D'}
+6 D C
+---------------
+{'res_list': Counter({u'B': 6}), 'user2_edutype': u'C', 'user1_id': 55921, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'', 'user2_id': 64322, 'user1_edutype': u''}
+6  C
+---------------
+{'res_list': Counter({u'B': 4, u'C': 1, u'D': 1}), 'user2_edutype': u'B', 'user1_id': 55921, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'', 'user2_id': 67059, 'user1_edutype': u''}
+6  B
+---------------
+{'res_list': Counter({u'B': 6}), 'user2_edutype': u'B', 'user1_id': 64322, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74201, 'user1_edutype': u'C'}
+6 C B
+---------------
+{'res_list': Counter({u'B': 6}), 'user2_edutype': u'B', 'user1_id': 64322, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 80232, 'user1_edutype': u'C'}
+6 C B
+---------------
+{'res_list': Counter({u'B': 6}), 'user2_edutype': u'B', 'user1_id': 64325, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 84582, 'user1_edutype': u''}
+6  B
+---------------
+{'res_list': Counter({u'B': 6}), 'user2_edutype': u'B', 'user1_id': 64325, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 86554, 'user1_edutype': u''}
+6  B
+---------------
+{'res_list': Counter({u'B': 4, u'A': 1, u'D': 1}), 'user2_edutype': u'B', 'user1_id': 67059, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 73695, 'user1_edutype': u'B'}
+6 B B
+---------------
+{'res_list': Counter({u'A': 3, u'B': 3}), 'user2_edutype': u'B', 'user1_id': 67059, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 73861, 'user1_edutype': u'B'}
+6 B B
+---------------
+{'res_list': Counter({u'B': 5, u'C': 1}), 'user2_edutype': u'E', 'user1_id': 67059, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 75126, 'user1_edutype': u'B'}
+6 B E
+---------------
+{'res_list': Counter({u'A': 2, u'B': 2, u'C': 1, u'D': 1}), 'user2_edutype': u'C', 'user1_id': 67059, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 80311, 'user1_edutype': u'B'}
+6 B C
+---------------
+{'res_list': Counter({u'A': 3, u'B': 3}), 'user2_edutype': u'B', 'user1_id': 67059, 'link_num': 6, 'user2_roletype': u'03', 'user1_roletype': u'00', 'user2_id': 88296, 'user1_edutype': u'B'}
+6 B B
+---------------
+{'res_list': Counter({u'B': 6}), 'user2_edutype': u'B', 'user1_id': 70278, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 86554, 'user1_edutype': u'B'}
+6 B B
+---------------
+{'res_list': Counter({u'B': 3, u'A': 2, u'D': 1}), 'user2_edutype': u'C', 'user1_id': 72507, 'link_num': 6, 'user2_roletype': u'\u8077\u7a31\u9078\u64c7', 'user1_roletype': u'02', 'user2_id': 73697, 'user1_edutype': u'B'}
+6 B C
+---------------
+{'res_list': Counter({u'B': 6}), 'user2_edutype': u'B', 'user1_id': 73772, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 75089, 'user1_edutype': u'B'}
+6 B B
+---------------
+{'res_list': Counter({u'B': 4, u'A': 2}), 'user2_edutype': u'C', 'user1_id': 73861, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 73966, 'user1_edutype': u'B'}
+6 B C
+---------------
+{'res_list': Counter({u'B': 4, u'D': 2}), 'user2_edutype': u'B', 'user1_id': 73909, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74247, 'user1_edutype': u'B'}
+6 B B
+---------------
+{'res_list': Counter({u'B': 4, u'A': 1, u'C': 1}), 'user2_edutype': u'B', 'user1_id': 73921, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'04', 'user2_id': 74066, 'user1_edutype': u''}
+6  B
+---------------
+{'res_list': Counter({u'B': 6}), 'user2_edutype': u'B', 'user1_id': 73964, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 80232, 'user1_edutype': u'B'}
+6 B B
+---------------
+{'res_list': Counter({u'B': 5, u'D': 1}), 'user2_edutype': u'B', 'user1_id': 73966, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74247, 'user1_edutype': u'C'}
+6 C B
+---------------
+{'res_list': Counter({u'A': 4, u'B': 2}), 'user2_edutype': u'B', 'user1_id': 73966, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74436, 'user1_edutype': u'C'}
+6 C B
+---------------
+{'res_list': Counter({u'B': 5, u'A': 1}), 'user2_edutype': u'B', 'user1_id': 73966, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74440, 'user1_edutype': u'C'}
+6 C B
+---------------
+{'res_list': Counter({u'B': 6}), 'user2_edutype': u'B', 'user1_id': 73966, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74613, 'user1_edutype': u'C'}
+6 C B
+---------------
+{'res_list': Counter({u'B': 4, u'C': 2}), 'user2_edutype': u'B', 'user1_id': 73966, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74872, 'user1_edutype': u'C'}
+6 C B
+---------------
+{'res_list': Counter({u'B': 6}), 'user2_edutype': u'B', 'user1_id': 73966, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74955, 'user1_edutype': u'C'}
+6 C B
+---------------
+{'res_list': Counter({u'B': 5, u'C': 1}), 'user2_edutype': u'C', 'user1_id': 73966, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 75157, 'user1_edutype': u'C'}
+6 C C
+---------------
+{'res_list': Counter({u'C': 2, u'B': 2, u'A': 1, u'D': 1}), 'user2_edutype': u'C', 'user1_id': 73966, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 80311, 'user1_edutype': u'C'}
+6 C C
+---------------
+{'res_list': Counter({u'B': 5, u'C': 1}), 'user2_edutype': u'B', 'user1_id': 73966, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 81122, 'user1_edutype': u'C'}
+6 C B
+---------------
+{'res_list': Counter({u'B': 4, u'C': 2}), 'user2_edutype': u'B', 'user1_id': 73966, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 81125, 'user1_edutype': u'C'}
+6 C B
+---------------
+{'res_list': Counter({u'B': 5, u'C': 1}), 'user2_edutype': u'B', 'user1_id': 73966, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 81239, 'user1_edutype': u'C'}
+6 C B
+---------------
+{'res_list': Counter({u'C': 3, u'B': 3}), 'user2_edutype': u'B', 'user1_id': 73966, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 81573, 'user1_edutype': u'C'}
+6 C B
+---------------
+{'res_list': Counter({u'B': 4, u'C': 2}), 'user2_edutype': u'B', 'user1_id': 73966, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 81574, 'user1_edutype': u'C'}
+6 C B
+---------------
+{'res_list': Counter({u'B': 5, u'A': 1}), 'user2_edutype': u'B', 'user1_id': 73966, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 81726, 'user1_edutype': u'C'}
+6 C B
+---------------
+{'res_list': Counter({u'B': 4, u'A': 1, u'C': 1}), 'user2_edutype': u'B', 'user1_id': 73966, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 81919, 'user1_edutype': u'C'}
+6 C B
+---------------
+{'res_list': Counter({u'B': 6}), 'user2_edutype': u'B', 'user1_id': 73966, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 82310, 'user1_edutype': u'C'}
+6 C B
+---------------
+{'res_list': Counter({u'B': 6}), 'user2_edutype': u'B', 'user1_id': 73966, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 85936, 'user1_edutype': u'C'}
+6 C B
+---------------
+{'res_list': Counter({u'B': 5, u'C': 1}), 'user2_edutype': u'B', 'user1_id': 73966, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 86230, 'user1_edutype': u'C'}
+6 C B
+---------------
+{'res_list': Counter({u'B': 6}), 'user2_edutype': u'B', 'user1_id': 73966, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 88266, 'user1_edutype': u'C'}
+6 C B
+---------------
+{'res_list': Counter({u'B': 6}), 'user2_edutype': u'B', 'user1_id': 74497, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 83113, 'user1_edutype': u'B'}
+6 B B
+---------------
+{'res_list': Counter({u'B': 6}), 'user2_edutype': u'B', 'user1_id': 74550, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'05', 'user2_id': 86051, 'user1_edutype': u'Z'}
+6 Z B
+---------------
+{'res_list': Counter({u'B': 6}), 'user2_edutype': u'B', 'user1_id': 80232, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 80556, 'user1_edutype': u'B'}
+6 B B
+---------------
+{'res_list': Counter({u'B': 4, u'C': 2}), 'user2_edutype': u'C', 'user1_id': 80797, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90475, 'user1_edutype': u'C'}
+6 C C
+---------------
+{'res_list': Counter({u'B': 6}), 'user2_edutype': u'B', 'user1_id': 81423, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 81530, 'user1_edutype': u'B'}
+6 B B
+---------------
+{'res_list': Counter({u'B': 6}), 'user2_edutype': u'B', 'user1_id': 81530, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90198, 'user1_edutype': u'B'}
+6 B B
+---------------
+{'res_list': Counter({u'B': 4, u'E': 1, u'D': 1}), 'user2_edutype': u'B', 'user1_id': 83113, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 83125, 'user1_edutype': u'B'}
+6 B B
+---------------
+{'res_list': Counter({u'B': 6}), 'user2_edutype': u'B', 'user1_id': 83201, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 86554, 'user1_edutype': u'B'}
+6 B B
+---------------
+{'res_list': Counter({u'B': 6}), 'user2_edutype': u'B', 'user1_id': 83201, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 88365, 'user1_edutype': u'B'}
+6 B B
+---------------
+{'res_list': Counter({u'B': 6}), 'user2_edutype': u'B', 'user1_id': 84582, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 91140, 'user1_edutype': u'B'}
+6 B B
+---------------
+{'res_list': Counter({u'B': 4, u'C': 2}), 'user2_edutype': u'C', 'user1_id': 85131, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90300, 'user1_edutype': u'C'}
+6 C C
+---------------
+{'res_list': Counter({u'B': 6}), 'user2_edutype': u'B', 'user1_id': 85894, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 85940, 'user1_edutype': u'B'}
+6 B B
+---------------
+{'res_list': Counter({u'A': 3, u'B': 3}), 'user2_edutype': u'B', 'user1_id': 86157, 'link_num': 6, 'user2_roletype': u'03', 'user1_roletype': u'03', 'user2_id': 88296, 'user1_edutype': u'B'}
+6 B B
+---------------
+{'res_list': Counter({u'B': 4, u'C': 2}), 'user2_edutype': u'C', 'user1_id': 86253, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 87116, 'user1_edutype': u'B'}
+6 B C
+---------------
+{'res_list': Counter({u'B': 6}), 'user2_edutype': u'B', 'user1_id': 86588, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 88117, 'user1_edutype': u'B'}
+6 B B
+---------------
+{'res_list': Counter({u'A': 3, u'B': 3}), 'user2_edutype': u'B', 'user1_id': 87005, 'link_num': 6, 'user2_roletype': u'03', 'user1_roletype': u'03', 'user2_id': 88311, 'user1_edutype': u'B'}
+6 B B
+---------------
+{'res_list': Counter({u'B': 5, u'C': 1}), 'user2_edutype': u'C', 'user1_id': 90300, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90463, 'user1_edutype': u'C'}
+6 C C
+---------------
+{'res_list': Counter({u'B': 6}), 'user2_edutype': u'C', 'user1_id': 90463, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90475, 'user1_edutype': u'C'}
+6 C C
+---------------
+{'res_list': Counter({u'B': 6}), 'user2_edutype': u'B', 'user1_id': 91140, 'link_num': 6, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 91362, 'user1_edutype': u'B'}
+6 B B
+---------------
+{'res_list': Counter({u'B': 5, u'A': 1, u'D': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 73695, 'user1_edutype': u'D'}
+7 D B
+---------------
+{'res_list': Counter({u'B': 5, u'D': 2}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 73917, 'user1_edutype': u'D'}
+7 D B
+---------------
+{'res_list': Counter({u'A': 3, u'B': 3, u'C': 1}), 'user2_edutype': u'', 'user1_id': 13834, 'link_num': 7, 'user2_roletype': u'04', 'user1_roletype': u'00', 'user2_id': 73921, 'user1_edutype': u'D'}
+7 D 
+---------------
+{'res_list': Counter({u'B': 5, u'A': 1, u'C': 1}), 'user2_edutype': u'Z', 'user1_id': 13834, 'link_num': 7, 'user2_roletype': u'12', 'user1_roletype': u'00', 'user2_id': 74043, 'user1_edutype': u'D'}
+7 D Z
+---------------
+{'res_list': Counter({u'B': 4, u'C': 1, u'Z': 1, u'D': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74053, 'user1_edutype': u'D'}
+7 D B
+---------------
+{'res_list': Counter({u'B': 6, u'A': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74248, 'user1_edutype': u'D'}
+7 D B
+---------------
+{'res_list': Counter({u'B': 4, u'A': 1, u'C': 1, u'D': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74454, 'user1_edutype': u'D'}
+7 D B
+---------------
+{'res_list': Counter({u'B': 7}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74610, 'user1_edutype': u'D'}
+7 D B
+---------------
+{'res_list': Counter({u'B': 7}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74800, 'user1_edutype': u'D'}
+7 D B
+---------------
+{'res_list': Counter({u'B': 7}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 75192, 'user1_edutype': u'D'}
+7 D B
+---------------
+{'res_list': Counter({u'B': 4, u'A': 1, u'C': 1, u'Z': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 80222, 'user1_edutype': u'D'}
+7 D B
+---------------
+{'res_list': Counter({u'B': 6, u'A': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 80303, 'user1_edutype': u'D'}
+7 D B
+---------------
+{'res_list': Counter({u'A': 2, u'C': 2, u'B': 2, u'D': 1}), 'user2_edutype': u'C', 'user1_id': 13834, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 80311, 'user1_edutype': u'D'}
+7 D C
+---------------
+{'res_list': Counter({u'B': 6, u'C': 1}), 'user2_edutype': u'C', 'user1_id': 13834, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 80513, 'user1_edutype': u'D'}
+7 D C
+---------------
+{'res_list': Counter({u'B': 5, u'C': 2}), 'user2_edutype': u'C', 'user1_id': 13834, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 80801, 'user1_edutype': u'D'}
+7 D C
+---------------
+{'res_list': Counter({u'C': 3, u'B': 3, u'D': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 80931, 'user1_edutype': u'D'}
+7 D B
+---------------
+{'res_list': Counter({u'B': 4, u'C': 3}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 81573, 'user1_edutype': u'D'}
+7 D B
+---------------
+{'res_list': Counter({u'C': 3, u'B': 3, u'A': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 81577, 'user1_edutype': u'D'}
+7 D B
+---------------
+{'res_list': Counter({u'B': 6, u'C': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 81919, 'user1_edutype': u'D'}
+7 D B
+---------------
+{'res_list': Counter({u'B': 7}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 82310, 'user1_edutype': u'D'}
+7 D B
+---------------
+{'res_list': Counter({u'B': 7}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 82317, 'user1_edutype': u'D'}
+7 D B
+---------------
+{'res_list': Counter({u'B': 5, u'A': 1, u'C': 1}), 'user2_edutype': u'C', 'user1_id': 13834, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 82374, 'user1_edutype': u'D'}
+7 D C
+---------------
+{'res_list': Counter({u'B': 6, u'D': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 83115, 'user1_edutype': u'D'}
+7 D B
+---------------
+{'res_list': Counter({u'B': 6, u'Z': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 83897, 'user1_edutype': u'D'}
+7 D B
+---------------
+{'res_list': Counter({u'B': 6, u'C': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 84836, 'user1_edutype': u'D'}
+7 D B
+---------------
+{'res_list': Counter({u'B': 6, u'A': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 85050, 'user1_edutype': u'D'}
+7 D B
+---------------
+{'res_list': Counter({u'B': 6, u'C': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 7, 'user2_roletype': u'03', 'user1_roletype': u'00', 'user2_id': 89936, 'user1_edutype': u'D'}
+7 D B
+---------------
+{'res_list': Counter({u'B': 7}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90198, 'user1_edutype': u'D'}
+7 D B
+---------------
+{'res_list': Counter({u'B': 7}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 91498, 'user1_edutype': u'D'}
+7 D B
+---------------
+{'res_list': Counter({u'B': 7}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 91724, 'user1_edutype': u'D'}
+7 D B
+---------------
+{'res_list': Counter({u'B': 5, u'D': 2}), 'user2_edutype': u'B', 'user1_id': 64322, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 73917, 'user1_edutype': u'C'}
+7 C B
+---------------
+{'res_list': Counter({u'B': 7}), 'user2_edutype': u'B', 'user1_id': 64325, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 91310, 'user1_edutype': u''}
+7  B
+---------------
+{'res_list': Counter({u'B': 5, u'D': 2}), 'user2_edutype': u'B', 'user1_id': 67059, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 73917, 'user1_edutype': u'B'}
+7 B B
+---------------
+{'res_list': Counter({u'A': 4, u'B': 3}), 'user2_edutype': u'B', 'user1_id': 67059, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74436, 'user1_edutype': u'B'}
+7 B B
+---------------
+{'res_list': Counter({u'B': 3, u'D': 2, u'A': 1, u'C': 1}), 'user2_edutype': u'B', 'user1_id': 67059, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74454, 'user1_edutype': u'B'}
+7 B B
+---------------
+{'res_list': Counter({u'B': 5, u'A': 2}), 'user2_edutype': u'B', 'user1_id': 67059, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 75089, 'user1_edutype': u'B'}
+7 B B
+---------------
+{'res_list': Counter({u'B': 5, u'A': 1, u'D': 1}), 'user2_edutype': u'B', 'user1_id': 73909, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 73926, 'user1_edutype': u'B'}
+7 B B
+---------------
+{'res_list': Counter({u'B': 5, u'D': 2}), 'user2_edutype': u'B', 'user1_id': 73909, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 81530, 'user1_edutype': u'B'}
+7 B B
+---------------
+{'res_list': Counter({u'B': 7}), 'user2_edutype': u'C', 'user1_id': 73964, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 73966, 'user1_edutype': u'B'}
+7 B C
+---------------
+{'res_list': Counter({u'B': 6, u'A': 1}), 'user2_edutype': u'B', 'user1_id': 73966, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74031, 'user1_edutype': u'C'}
+7 C B
+---------------
+{'res_list': Counter({u'B': 7}), 'user2_edutype': u'B', 'user1_id': 73966, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74201, 'user1_edutype': u'C'}
+7 C B
+---------------
+{'res_list': Counter({u'B': 6, u'A': 1}), 'user2_edutype': u'B', 'user1_id': 73966, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74248, 'user1_edutype': u'C'}
+7 C B
+---------------
+{'res_list': Counter({u'B': 6, u'D': 1}), 'user2_edutype': u'B', 'user1_id': 73966, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74349, 'user1_edutype': u'C'}
+7 C B
+---------------
+{'res_list': Counter({u'B': 4, u'A': 1, u'C': 1, u'D': 1}), 'user2_edutype': u'B', 'user1_id': 73966, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74454, 'user1_edutype': u'C'}
+7 C B
+---------------
+{'res_list': Counter({u'B': 4, u'D': 2, u'C': 1}), 'user2_edutype': u'B', 'user1_id': 73966, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74527, 'user1_edutype': u'C'}
+7 C B
+---------------
+{'res_list': Counter({u'B': 6, u'C': 1}), 'user2_edutype': u'C', 'user1_id': 73966, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 80513, 'user1_edutype': u'C'}
+7 C C
+---------------
+{'res_list': Counter({u'C': 3, u'B': 3, u'A': 1}), 'user2_edutype': u'B', 'user1_id': 73966, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 81577, 'user1_edutype': u'C'}
+7 C B
+---------------
+{'res_list': Counter({u'B': 6, u'A': 1}), 'user2_edutype': u'B', 'user1_id': 73966, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 83897, 'user1_edutype': u'C'}
+7 C B
+---------------
+{'res_list': Counter({u'C': 3, u'B': 3, u'A': 1}), 'user2_edutype': u'C', 'user1_id': 73966, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 84923, 'user1_edutype': u'C'}
+7 C C
+---------------
+{'res_list': Counter({u'B': 5, u'A': 2}), 'user2_edutype': u'B', 'user1_id': 73966, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90777, 'user1_edutype': u'C'}
+7 C B
+---------------
+{'res_list': Counter({u'B': 7}), 'user2_edutype': u'B', 'user1_id': 73966, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 91498, 'user1_edutype': u'C'}
+7 C B
+---------------
+{'res_list': Counter({u'B': 5, u'C': 1, u'D': 1}), 'user2_edutype': u'B', 'user1_id': 74146, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'12', 'user2_id': 81530, 'user1_edutype': u''}
+7  B
+---------------
+{'res_list': Counter({u'B': 7}), 'user2_edutype': u'B', 'user1_id': 74550, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'05', 'user2_id': 80303, 'user1_edutype': u'Z'}
+7 Z B
+---------------
+{'res_list': Counter({u'B': 7}), 'user2_edutype': u'B', 'user1_id': 74550, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'05', 'user2_id': 82812, 'user1_edutype': u'Z'}
+7 Z B
+---------------
+{'res_list': Counter({u'B': 7}), 'user2_edutype': u'B', 'user1_id': 74550, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'05', 'user2_id': 85894, 'user1_edutype': u'Z'}
+7 Z B
+---------------
+{'res_list': Counter({u'B': 5, u'C': 1, u'D': 1}), 'user2_edutype': u'B', 'user1_id': 74563, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 81530, 'user1_edutype': u'B'}
+7 B B
+---------------
+{'res_list': Counter({u'B': 4, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 80514, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 80797, 'user1_edutype': u'C'}
+7 C C
+---------------
+{'res_list': Counter({u'B': 5, u'C': 2}), 'user2_edutype': u'C', 'user1_id': 80514, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 85131, 'user1_edutype': u'C'}
+7 C C
+---------------
+{'res_list': Counter({u'B': 6, u'C': 1}), 'user2_edutype': u'C', 'user1_id': 80514, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90463, 'user1_edutype': u'C'}
+7 C C
+---------------
+{'res_list': Counter({u'B': 4, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 80797, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 85129, 'user1_edutype': u'C'}
+7 C C
+---------------
+{'res_list': Counter({u'B': 4, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 80797, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 85137, 'user1_edutype': u'C'}
+7 C C
+---------------
+{'res_list': Counter({u'B': 4, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 80797, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90296, 'user1_edutype': u'C'}
+7 C C
+---------------
+{'res_list': Counter({u'B': 4, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 80797, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90297, 'user1_edutype': u'C'}
+7 C C
+---------------
+{'res_list': Counter({u'B': 4, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 80797, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90307, 'user1_edutype': u'C'}
+7 C C
+---------------
+{'res_list': Counter({u'B': 4, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 80797, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90309, 'user1_edutype': u'C'}
+7 C C
+---------------
+{'res_list': Counter({u'B': 4, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 80797, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90310, 'user1_edutype': u'C'}
+7 C C
+---------------
+{'res_list': Counter({u'B': 4, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 80797, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90312, 'user1_edutype': u'C'}
+7 C C
+---------------
+{'res_list': Counter({u'B': 4, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 80797, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90313, 'user1_edutype': u'C'}
+7 C C
+---------------
+{'res_list': Counter({u'B': 4, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 80797, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90466, 'user1_edutype': u'C'}
+7 C C
+---------------
+{'res_list': Counter({u'B': 4, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 80797, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90483, 'user1_edutype': u'C'}
+7 C C
+---------------
+{'res_list': Counter({u'B': 4, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 80797, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90484, 'user1_edutype': u'C'}
+7 C C
+---------------
+{'res_list': Counter({u'B': 4, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 80797, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90489, 'user1_edutype': u'C'}
+7 C C
+---------------
+{'res_list': Counter({u'B': 4, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 80797, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90492, 'user1_edutype': u'C'}
+7 C C
+---------------
+{'res_list': Counter({u'B': 4, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 80797, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90500, 'user1_edutype': u'C'}
+7 C C
+---------------
+{'res_list': Counter({u'B': 4, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 80797, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90501, 'user1_edutype': u'C'}
+7 C C
+---------------
+{'res_list': Counter({u'B': 7}), 'user2_edutype': u'B', 'user1_id': 81967, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 88684, 'user1_edutype': u'B'}
+7 B B
+---------------
+{'res_list': Counter({u'B': 7}), 'user2_edutype': u'B', 'user1_id': 82804, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 85499, 'user1_edutype': u'C'}
+7 C B
+---------------
+{'res_list': Counter({u'B': 5, u'C': 2}), 'user2_edutype': u'C', 'user1_id': 83397, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 85131, 'user1_edutype': u'C'}
+7 C C
+---------------
+{'res_list': Counter({u'B': 7}), 'user2_edutype': u'B', 'user1_id': 84442, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90659, 'user1_edutype': u'B'}
+7 B B
+---------------
+{'res_list': Counter({u'B': 7}), 'user2_edutype': u'B', 'user1_id': 84582, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 91310, 'user1_edutype': u'B'}
+7 B B
+---------------
+{'res_list': Counter({u'B': 7}), 'user2_edutype': u'B', 'user1_id': 84836, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 85940, 'user1_edutype': u'B'}
+7 B B
+---------------
+{'res_list': Counter({u'B': 5, u'C': 2}), 'user2_edutype': u'C', 'user1_id': 85129, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 85131, 'user1_edutype': u'C'}
+7 C C
+---------------
+{'res_list': Counter({u'B': 6, u'C': 1}), 'user2_edutype': u'C', 'user1_id': 85129, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90463, 'user1_edutype': u'C'}
+7 C C
+---------------
+{'res_list': Counter({u'B': 5, u'C': 2}), 'user2_edutype': u'C', 'user1_id': 85131, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 85137, 'user1_edutype': u'C'}
+7 C C
+---------------
+{'res_list': Counter({u'B': 5, u'C': 2}), 'user2_edutype': u'C', 'user1_id': 85131, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90296, 'user1_edutype': u'C'}
+7 C C
+---------------
+{'res_list': Counter({u'B': 5, u'C': 2}), 'user2_edutype': u'C', 'user1_id': 85131, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90297, 'user1_edutype': u'C'}
+7 C C
+---------------
+{'res_list': Counter({u'B': 5, u'C': 2}), 'user2_edutype': u'C', 'user1_id': 85131, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90307, 'user1_edutype': u'C'}
+7 C C
+---------------
+{'res_list': Counter({u'B': 5, u'C': 2}), 'user2_edutype': u'C', 'user1_id': 85131, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90309, 'user1_edutype': u'C'}
+7 C C
+---------------
+{'res_list': Counter({u'B': 5, u'C': 2}), 'user2_edutype': u'C', 'user1_id': 85131, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90310, 'user1_edutype': u'C'}
+7 C C
+---------------
+{'res_list': Counter({u'B': 5, u'C': 2}), 'user2_edutype': u'C', 'user1_id': 85131, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90312, 'user1_edutype': u'C'}
+7 C C
+---------------
+{'res_list': Counter({u'B': 5, u'C': 2}), 'user2_edutype': u'C', 'user1_id': 85131, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90313, 'user1_edutype': u'C'}
+7 C C
+---------------
+{'res_list': Counter({u'B': 5, u'C': 2}), 'user2_edutype': u'C', 'user1_id': 85131, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90466, 'user1_edutype': u'C'}
+7 C C
+---------------
+{'res_list': Counter({u'B': 5, u'C': 2}), 'user2_edutype': u'C', 'user1_id': 85131, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90475, 'user1_edutype': u'C'}
+7 C C
+---------------
+{'res_list': Counter({u'B': 5, u'C': 2}), 'user2_edutype': u'C', 'user1_id': 85131, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90483, 'user1_edutype': u'C'}
+7 C C
+---------------
+{'res_list': Counter({u'B': 5, u'C': 2}), 'user2_edutype': u'C', 'user1_id': 85131, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90484, 'user1_edutype': u'C'}
+7 C C
+---------------
+{'res_list': Counter({u'B': 5, u'C': 2}), 'user2_edutype': u'C', 'user1_id': 85131, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90489, 'user1_edutype': u'C'}
+7 C C
+---------------
+{'res_list': Counter({u'B': 5, u'C': 2}), 'user2_edutype': u'C', 'user1_id': 85131, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90492, 'user1_edutype': u'C'}
+7 C C
+---------------
+{'res_list': Counter({u'B': 5, u'C': 2}), 'user2_edutype': u'C', 'user1_id': 85131, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90500, 'user1_edutype': u'C'}
+7 C C
+---------------
+{'res_list': Counter({u'B': 5, u'C': 2}), 'user2_edutype': u'C', 'user1_id': 85131, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90501, 'user1_edutype': u'C'}
+7 C C
+---------------
+{'res_list': Counter({u'B': 7}), 'user2_edutype': u'B', 'user1_id': 85630, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 91140, 'user1_edutype': u'B'}
+7 B B
+---------------
+{'res_list': Counter({u'B': 7}), 'user2_edutype': u'B', 'user1_id': 86554, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 88365, 'user1_edutype': u'B'}
+7 B B
+---------------
+{'res_list': Counter({u'B': 7}), 'user2_edutype': u'B', 'user1_id': 87819, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 87946, 'user1_edutype': u'B'}
+7 B B
+---------------
+{'res_list': Counter({u'B': 6, u'C': 1}), 'user2_edutype': u'C', 'user1_id': 90296, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90463, 'user1_edutype': u'C'}
+7 C C
+---------------
+{'res_list': Counter({u'B': 5, u'C': 2}), 'user2_edutype': u'C', 'user1_id': 90300, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90475, 'user1_edutype': u'C'}
+7 C C
+---------------
+{'res_list': Counter({u'B': 6, u'C': 1}), 'user2_edutype': u'C', 'user1_id': 90307, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90463, 'user1_edutype': u'C'}
+7 C C
+---------------
+{'res_list': Counter({u'B': 6, u'C': 1}), 'user2_edutype': u'C', 'user1_id': 90313, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90463, 'user1_edutype': u'C'}
+7 C C
+---------------
+{'res_list': Counter({u'B': 6, u'C': 1}), 'user2_edutype': u'C', 'user1_id': 90463, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90466, 'user1_edutype': u'C'}
+7 C C
+---------------
+{'res_list': Counter({u'B': 6, u'C': 1}), 'user2_edutype': u'C', 'user1_id': 90463, 'link_num': 7, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90484, 'user1_edutype': u'C'}
+7 C C
+---------------
+{'res_list': Counter({u'B': 6, u'A': 1, u'D': 1}), 'user2_edutype': u'B', 'user1_id': 332, 'link_num': 8, 'user2_roletype': u'00', 'user1_roletype': u'09', 'user2_id': 67059, 'user1_edutype': u'A'}
+8 A B
+---------------
+{'res_list': Counter({u'B': 6, u'A': 1, u'C': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 8, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74066, 'user1_edutype': u'D'}
+8 D B
+---------------
+{'res_list': Counter({u'B': 6, u'A': 1, u'D': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 8, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74247, 'user1_edutype': u'D'}
+8 D B
+---------------
+{'res_list': Counter({u'B': 7, u'D': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 8, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74349, 'user1_edutype': u'D'}
+8 D B
+---------------
+{'res_list': Counter({u'B': 5, u'D': 2, u'C': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 8, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74527, 'user1_edutype': u'D'}
+8 D B
+---------------
+{'res_list': Counter({u'B': 7, u'A': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 8, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 75082, 'user1_edutype': u'D'}
+8 D B
+---------------
+{'res_list': Counter({u'B': 7, u'C': 1}), 'user2_edutype': u'C', 'user1_id': 13834, 'link_num': 8, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 75157, 'user1_edutype': u'D'}
+8 D C
+---------------
+{'res_list': Counter({u'B': 4, u'D': 2, u'A': 1, u'C': 1}), 'user2_edutype': u'F', 'user1_id': 13834, 'link_num': 8, 'user2_roletype': u'03', 'user1_roletype': u'00', 'user2_id': 80554, 'user1_edutype': u'D'}
+8 D F
+---------------
+{'res_list': Counter({u'B': 8}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 8, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 81967, 'user1_edutype': u'D'}
+8 D B
+---------------
+{'res_list': Counter({u'B': 5, u'C': 3}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 8, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 84681, 'user1_edutype': u'D'}
+8 D B
+---------------
+{'res_list': Counter({u'B': 7, u'Z': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 8, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 85940, 'user1_edutype': u'D'}
+8 D B
+---------------
+{'res_list': Counter({u'B': 8}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 8, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 86051, 'user1_edutype': u'D'}
+8 D B
+---------------
+{'res_list': Counter({u'B': 4, u'C': 3, u'D': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 8, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 89625, 'user1_edutype': u'D'}
+8 D B
+---------------
+{'res_list': Counter({u'B': 6, u'A': 1, u'D': 1}), 'user2_edutype': u'B', 'user1_id': 64322, 'link_num': 8, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 73926, 'user1_edutype': u'C'}
+8 C B
+---------------
+{'res_list': Counter({u'B': 8}), 'user2_edutype': u'C', 'user1_id': 64322, 'link_num': 8, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 75157, 'user1_edutype': u'C'}
+8 C C
+---------------
+{'res_list': Counter({u'A': 4, u'B': 2, u'C': 1, u'D': 1}), 'user2_edutype': u'', 'user1_id': 67059, 'link_num': 8, 'user2_roletype': u'04', 'user1_roletype': u'00', 'user2_id': 73921, 'user1_edutype': u'B'}
+8 B 
+---------------
+{'res_list': Counter({u'B': 4, u'A': 2, u'D': 2}), 'user2_edutype': u'B', 'user1_id': 67059, 'link_num': 8, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 80232, 'user1_edutype': u'B'}
+8 B B
+---------------
+{'res_list': Counter({u'B': 6, u'C': 1, u'D': 1}), 'user2_edutype': u'B', 'user1_id': 67059, 'link_num': 8, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 80314, 'user1_edutype': u'B'}
+8 B B
+---------------
+{'res_list': Counter({u'B': 5, u'D': 3}), 'user2_edutype': u'C', 'user1_id': 73917, 'link_num': 8, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 73966, 'user1_edutype': u'B'}
+8 B C
+---------------
+{'res_list': Counter({u'B': 4, u'A': 3, u'C': 1}), 'user2_edutype': u'C', 'user1_id': 73921, 'link_num': 8, 'user2_roletype': u'00', 'user1_roletype': u'04', 'user2_id': 73966, 'user1_edutype': u''}
+8  C
+---------------
+{'res_list': Counter({u'B': 8}), 'user2_edutype': u'B', 'user1_id': 73966, 'link_num': 8, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 75089, 'user1_edutype': u'C'}
+8 C B
+---------------
+{'res_list': Counter({u'B': 7, u'D': 1}), 'user2_edutype': u'B', 'user1_id': 73966, 'link_num': 8, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 75102, 'user1_edutype': u'C'}
+8 C B
+---------------
+{'res_list': Counter({u'B': 7, u'C': 1}), 'user2_edutype': u'E', 'user1_id': 73966, 'link_num': 8, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 75126, 'user1_edutype': u'C'}
+8 C E
+---------------
+{'res_list': Counter({u'B': 7, u'A': 1}), 'user2_edutype': u'F', 'user1_id': 73966, 'link_num': 8, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 80699, 'user1_edutype': u'C'}
+8 C F
+---------------
+{'res_list': Counter({u'B': 6, u'C': 1, u'D': 1}), 'user2_edutype': u'B', 'user1_id': 73966, 'link_num': 8, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 91724, 'user1_edutype': u'C'}
+8 C B
+---------------
+{'res_list': Counter({u'B': 8}), 'user2_edutype': u'B', 'user1_id': 74550, 'link_num': 8, 'user2_roletype': u'00', 'user1_roletype': u'05', 'user2_id': 84836, 'user1_edutype': u'Z'}
+8 Z B
+---------------
+{'res_list': Counter({u'B': 6, u'A': 2}), 'user2_edutype': u'B', 'user1_id': 74631, 'link_num': 8, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 75089, 'user1_edutype': u'B'}
+8 B B
+---------------
+{'res_list': Counter({u'B': 8}), 'user2_edutype': u'B', 'user1_id': 80303, 'link_num': 8, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 82812, 'user1_edutype': u'B'}
+8 B B
+---------------
+{'res_list': Counter({u'B': 5, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 80514, 'link_num': 8, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90300, 'user1_edutype': u'C'}
+8 C C
+---------------
+{'res_list': Counter({u'B': 5, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 80797, 'link_num': 8, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 83397, 'user1_edutype': u'C'}
+8 C C
+---------------
+{'res_list': Counter({u'B': 7, u'A': 1}), 'user2_edutype': u'B', 'user1_id': 81530, 'link_num': 8, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 85499, 'user1_edutype': u'B'}
+8 B B
+---------------
+{'res_list': Counter({u'B': 8}), 'user2_edutype': u'B', 'user1_id': 81530, 'link_num': 8, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 88266, 'user1_edutype': u'B'}
+8 B B
+---------------
+{'res_list': Counter({u'B': 8}), 'user2_edutype': u'B', 'user1_id': 84442, 'link_num': 8, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90058, 'user1_edutype': u'B'}
+8 B B
+---------------
+{'res_list': Counter({u'B': 5, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 85129, 'link_num': 8, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90300, 'user1_edutype': u'C'}
+8 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 1}), 'user2_edutype': u'C', 'user1_id': 85137, 'link_num': 8, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90463, 'user1_edutype': u'C'}
+8 C C
+---------------
+{'res_list': Counter({u'B': 8}), 'user2_edutype': u'B', 'user1_id': 87946, 'link_num': 8, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 91310, 'user1_edutype': u'B'}
+8 B B
+---------------
+{'res_list': Counter({u'B': 5, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90296, 'link_num': 8, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90300, 'user1_edutype': u'C'}
+8 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 1}), 'user2_edutype': u'C', 'user1_id': 90297, 'link_num': 8, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90463, 'user1_edutype': u'C'}
+8 C C
+---------------
+{'res_list': Counter({u'B': 5, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90300, 'link_num': 8, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90307, 'user1_edutype': u'C'}
+8 C C
+---------------
+{'res_list': Counter({u'B': 5, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90300, 'link_num': 8, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90313, 'user1_edutype': u'C'}
+8 C C
+---------------
+{'res_list': Counter({u'B': 5, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90300, 'link_num': 8, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90466, 'user1_edutype': u'C'}
+8 C C
+---------------
+{'res_list': Counter({u'B': 5, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90300, 'link_num': 8, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90484, 'user1_edutype': u'C'}
+8 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 1}), 'user2_edutype': u'C', 'user1_id': 90309, 'link_num': 8, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90463, 'user1_edutype': u'C'}
+8 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 1}), 'user2_edutype': u'C', 'user1_id': 90310, 'link_num': 8, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90463, 'user1_edutype': u'C'}
+8 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 1}), 'user2_edutype': u'C', 'user1_id': 90312, 'link_num': 8, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90463, 'user1_edutype': u'C'}
+8 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 1}), 'user2_edutype': u'C', 'user1_id': 90463, 'link_num': 8, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90483, 'user1_edutype': u'C'}
+8 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 1}), 'user2_edutype': u'C', 'user1_id': 90463, 'link_num': 8, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90489, 'user1_edutype': u'C'}
+8 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 1}), 'user2_edutype': u'C', 'user1_id': 90463, 'link_num': 8, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90492, 'user1_edutype': u'C'}
+8 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 1}), 'user2_edutype': u'C', 'user1_id': 90463, 'link_num': 8, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90500, 'user1_edutype': u'C'}
+8 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 1}), 'user2_edutype': u'C', 'user1_id': 90463, 'link_num': 8, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90501, 'user1_edutype': u'C'}
+8 C C
+---------------
+{'res_list': Counter({u'B': 5, u'D': 2, u'C': 1, u'E': 1}), 'user2_edutype': u'D', 'user1_id': 64, 'link_num': 9, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 13834, 'user1_edutype': u''}
+9  D
+---------------
+{'res_list': Counter({u'B': 5, u'D': 4}), 'user2_edutype': u'C', 'user1_id': 64, 'link_num': 9, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 73966, 'user1_edutype': u''}
+9  C
+---------------
+{'res_list': Counter({u'B': 9}), 'user2_edutype': u'D', 'user1_id': 332, 'link_num': 9, 'user2_roletype': u'00', 'user1_roletype': u'09', 'user2_id': 13834, 'user1_edutype': u'A'}
+9 A D
+---------------
+{'res_list': Counter({u'B': 4, u'C': 2, u'A': 1, u'E': 1, u'Z': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 9, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74304, 'user1_edutype': u'D'}
+9 D B
+---------------
+{'res_list': Counter({u'B': 8, u'C': 1}), 'user2_edutype': u'E', 'user1_id': 13834, 'link_num': 9, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 75126, 'user1_edutype': u'D'}
+9 D E
+---------------
+{'res_list': Counter({u'B': 9}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 9, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 80298, 'user1_edutype': u'D'}
+9 D B
+---------------
+{'res_list': Counter({u'B': 8, u'D': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 9, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 80418, 'user1_edutype': u'D'}
+9 D B
+---------------
+{'res_list': Counter({u'B': 8, u'C': 1}), 'user2_edutype': u'F', 'user1_id': 13834, 'link_num': 9, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 80699, 'user1_edutype': u'D'}
+9 D F
+---------------
+{'res_list': Counter({u'B': 7, u'A': 1, u'C': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 9, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 81423, 'user1_edutype': u'D'}
+9 D B
+---------------
+{'res_list': Counter({u'B': 9}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 9, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 82812, 'user1_edutype': u'D'}
+9 D B
+---------------
+{'res_list': Counter({u'B': 6, u'C': 2, u'D': 1}), 'user2_edutype': u'E', 'user1_id': 13834, 'link_num': 9, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 83121, 'user1_edutype': u'D'}
+9 D E
+---------------
+{'res_list': Counter({u'B': 5, u'C': 4}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 9, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 84630, 'user1_edutype': u'D'}
+9 D B
+---------------
+{'res_list': Counter({u'B': 9}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 9, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 88266, 'user1_edutype': u'D'}
+9 D B
+---------------
+{'res_list': Counter({u'B': 6, u'D': 2, u'C': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 9, 'user2_roletype': u'03', 'user1_roletype': u'00', 'user2_id': 88954, 'user1_edutype': u'D'}
+9 D B
+---------------
+{'res_list': Counter({u'B': 5, u'C': 2, u'A': 1, u'E': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 9, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 89009, 'user1_edutype': u'D'}
+9 D B
+---------------
+{'res_list': Counter({u'B': 8, u'A': 1}), 'user2_edutype': u'B', 'user1_id': 64322, 'link_num': 9, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 73861, 'user1_edutype': u'C'}
+9 C B
+---------------
+{'res_list': Counter({u'B': 8, u'A': 1}), 'user2_edutype': u'B', 'user1_id': 64322, 'link_num': 9, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 81530, 'user1_edutype': u'C'}
+9 C B
+---------------
+{'res_list': Counter({u'B': 7, u'A': 2}), 'user2_edutype': u'B', 'user1_id': 67059, 'link_num': 9, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 81530, 'user1_edutype': u'B'}
+9 B B
+---------------
+{'res_list': Counter({u'B': 7, u'A': 1, u'D': 1}), 'user2_edutype': u'C', 'user1_id': 73697, 'link_num': 9, 'user2_roletype': u'00', 'user1_roletype': u'\u8077\u7a31\u9078\u64c7', 'user2_id': 73966, 'user1_edutype': u'C'}
+9 C C
+---------------
+{'res_list': Counter({u'B': 5, u'C': 3, u'D': 1}), 'user2_edutype': u'B', 'user1_id': 73966, 'link_num': 9, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74563, 'user1_edutype': u'C'}
+9 C B
+---------------
+{'res_list': Counter({u'B': 7, u'C': 1, u'D': 1}), 'user2_edutype': u'B', 'user1_id': 73966, 'link_num': 9, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 80314, 'user1_edutype': u'C'}
+9 C B
+---------------
+{'res_list': Counter({u'B': 7, u'C': 2}), 'user2_edutype': u'C', 'user1_id': 80514, 'link_num': 9, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90475, 'user1_edutype': u'C'}
+9 C C
+---------------
+{'res_list': Counter({u'B': 6, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 83397, 'link_num': 9, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90300, 'user1_edutype': u'C'}
+9 C C
+---------------
+{'res_list': Counter({u'B': 8, u'C': 1}), 'user2_edutype': u'C', 'user1_id': 83397, 'link_num': 9, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90463, 'user1_edutype': u'C'}
+9 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 2}), 'user2_edutype': u'C', 'user1_id': 83397, 'link_num': 9, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90475, 'user1_edutype': u'C'}
+9 C C
+---------------
+{'res_list': Counter({u'B': 9}), 'user2_edutype': u'B', 'user1_id': 84836, 'link_num': 9, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 85894, 'user1_edutype': u'B'}
+9 B B
+---------------
+{'res_list': Counter({u'B': 7, u'C': 2}), 'user2_edutype': u'C', 'user1_id': 85129, 'link_num': 9, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90475, 'user1_edutype': u'C'}
+9 C C
+---------------
+{'res_list': Counter({u'B': 6, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 85137, 'link_num': 9, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90300, 'user1_edutype': u'C'}
+9 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 2}), 'user2_edutype': u'C', 'user1_id': 85137, 'link_num': 9, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90475, 'user1_edutype': u'C'}
+9 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 2}), 'user2_edutype': u'C', 'user1_id': 90296, 'link_num': 9, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90475, 'user1_edutype': u'C'}
+9 C C
+---------------
+{'res_list': Counter({u'B': 6, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90297, 'link_num': 9, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90300, 'user1_edutype': u'C'}
+9 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 2}), 'user2_edutype': u'C', 'user1_id': 90297, 'link_num': 9, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90475, 'user1_edutype': u'C'}
+9 C C
+---------------
+{'res_list': Counter({u'B': 6, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90300, 'link_num': 9, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90309, 'user1_edutype': u'C'}
+9 C C
+---------------
+{'res_list': Counter({u'B': 6, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90300, 'link_num': 9, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90310, 'user1_edutype': u'C'}
+9 C C
+---------------
+{'res_list': Counter({u'B': 6, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90300, 'link_num': 9, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90312, 'user1_edutype': u'C'}
+9 C C
+---------------
+{'res_list': Counter({u'B': 6, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90300, 'link_num': 9, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90483, 'user1_edutype': u'C'}
+9 C C
+---------------
+{'res_list': Counter({u'B': 6, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90300, 'link_num': 9, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90489, 'user1_edutype': u'C'}
+9 C C
+---------------
+{'res_list': Counter({u'B': 6, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90300, 'link_num': 9, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90492, 'user1_edutype': u'C'}
+9 C C
+---------------
+{'res_list': Counter({u'B': 6, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90300, 'link_num': 9, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90500, 'user1_edutype': u'C'}
+9 C C
+---------------
+{'res_list': Counter({u'B': 6, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90300, 'link_num': 9, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90501, 'user1_edutype': u'C'}
+9 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 2}), 'user2_edutype': u'C', 'user1_id': 90307, 'link_num': 9, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90475, 'user1_edutype': u'C'}
+9 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 2}), 'user2_edutype': u'C', 'user1_id': 90309, 'link_num': 9, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90475, 'user1_edutype': u'C'}
+9 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 2}), 'user2_edutype': u'C', 'user1_id': 90310, 'link_num': 9, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90475, 'user1_edutype': u'C'}
+9 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 2}), 'user2_edutype': u'C', 'user1_id': 90312, 'link_num': 9, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90475, 'user1_edutype': u'C'}
+9 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 2}), 'user2_edutype': u'C', 'user1_id': 90313, 'link_num': 9, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90475, 'user1_edutype': u'C'}
+9 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 2}), 'user2_edutype': u'C', 'user1_id': 90466, 'link_num': 9, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90475, 'user1_edutype': u'C'}
+9 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 2}), 'user2_edutype': u'C', 'user1_id': 90475, 'link_num': 9, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90483, 'user1_edutype': u'C'}
+9 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 2}), 'user2_edutype': u'C', 'user1_id': 90475, 'link_num': 9, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90484, 'user1_edutype': u'C'}
+9 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 2}), 'user2_edutype': u'C', 'user1_id': 90475, 'link_num': 9, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90489, 'user1_edutype': u'C'}
+9 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 2}), 'user2_edutype': u'C', 'user1_id': 90475, 'link_num': 9, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90492, 'user1_edutype': u'C'}
+9 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 2}), 'user2_edutype': u'C', 'user1_id': 90475, 'link_num': 9, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90500, 'user1_edutype': u'C'}
+9 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 2}), 'user2_edutype': u'C', 'user1_id': 90475, 'link_num': 9, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90501, 'user1_edutype': u'C'}
+9 C C
+---------------
+{'res_list': Counter({u'B': 8, u'A': 2}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 10, 'user2_roletype': u'02', 'user1_roletype': u'00', 'user2_id': 72507, 'user1_edutype': u'D'}
+10 D B
+---------------
+{'res_list': Counter({u'B': 8, u'A': 2}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 73861, 'user1_edutype': u'D'}
+10 D B
+---------------
+{'res_list': Counter({u'B': 8, u'A': 2}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 73935, 'user1_edutype': u'D'}
+10 D B
+---------------
+{'res_list': Counter({u'B': 10}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 73964, 'user1_edutype': u'D'}
+10 D B
+---------------
+{'res_list': Counter({u'B': 9, u'D': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74855, 'user1_edutype': u'D'}
+10 D B
+---------------
+{'res_list': Counter({u'B': 8, u'C': 1, u'D': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 75024, 'user1_edutype': u'D'}
+10 D B
+---------------
+{'res_list': Counter({u'B': 8, u'C': 1, u'D': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 80314, 'user1_edutype': u'D'}
+10 D B
+---------------
+{'res_list': Counter({u'B': 10}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 85945, 'user1_edutype': u'D'}
+10 D B
+---------------
+{'res_list': Counter({u'B': 7, u'A': 2, u'Z': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90777, 'user1_edutype': u'D'}
+10 D B
+---------------
+{'res_list': Counter({u'C': 4, u'B': 3, u'D': 2, u'A': 1}), 'user2_edutype': u'H', 'user1_id': 13834, 'link_num': 10, 'user2_roletype': u'05', 'user1_roletype': u'00', 'user2_id': 91366, 'user1_edutype': u'D'}
+10 D H
+---------------
+{'res_list': Counter({u'B': 8, u'C': 1, u'D': 1}), 'user2_edutype': u'C', 'user1_id': 55921, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'', 'user2_id': 73966, 'user1_edutype': u''}
+10  C
+---------------
+{'res_list': Counter({u'B': 10}), 'user2_edutype': u'B', 'user1_id': 64322, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 73964, 'user1_edutype': u'C'}
+10 C B
+---------------
+{'res_list': Counter({u'B': 6, u'A': 3, u'D': 1}), 'user2_edutype': u'B', 'user1_id': 67059, 'link_num': 10, 'user2_roletype': u'02', 'user1_roletype': u'00', 'user2_id': 72507, 'user1_edutype': u'B'}
+10 B B
+---------------
+{'res_list': Counter({u'B': 6, u'A': 3, u'D': 1}), 'user2_edutype': u'C', 'user1_id': 67059, 'link_num': 10, 'user2_roletype': u'\u8077\u7a31\u9078\u64c7', 'user1_roletype': u'00', 'user2_id': 73697, 'user1_edutype': u'B'}
+10 B C
+---------------
+{'res_list': Counter({u'B': 6, u'A': 2, u'C': 1, u'D': 1}), 'user2_edutype': u'B', 'user1_id': 67059, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 73926, 'user1_edutype': u'B'}
+10 B B
+---------------
+{'res_list': Counter({u'B': 7, u'A': 3}), 'user2_edutype': u'C', 'user1_id': 73772, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 73966, 'user1_edutype': u'B'}
+10 B C
+---------------
+{'res_list': Counter({u'B': 9, u'D': 1}), 'user2_edutype': u'B', 'user1_id': 73966, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 75024, 'user1_edutype': u'C'}
+10 C B
+---------------
+{'res_list': Counter({u'B': 8, u'A': 1, u'D': 1}), 'user2_edutype': u'B', 'user1_id': 73966, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 80232, 'user1_edutype': u'C'}
+10 C B
+---------------
+{'res_list': Counter({u'B': 8, u'A': 2}), 'user2_edutype': u'B', 'user1_id': 73966, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 85499, 'user1_edutype': u'C'}
+10 C B
+---------------
+{'res_list': Counter({u'B': 10}), 'user2_edutype': u'B', 'user1_id': 74550, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'05', 'user2_id': 81967, 'user1_edutype': u'Z'}
+10 Z B
+---------------
+{'res_list': Counter({u'B': 10}), 'user2_edutype': u'B', 'user1_id': 80303, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 81967, 'user1_edutype': u'B'}
+10 B B
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 80514, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 83397, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 80514, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 85129, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 80514, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 85137, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 80514, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90296, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 80514, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90297, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 80514, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90307, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 80514, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90309, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 80514, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90310, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 80514, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90312, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 80514, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90313, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 80514, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90466, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 80514, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90483, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 80514, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90484, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 80514, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90489, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 80514, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90492, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 80514, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90500, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 80514, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90501, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 10}), 'user2_edutype': u'B', 'user1_id': 81967, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 85894, 'user1_edutype': u'B'}
+10 B B
+---------------
+{'res_list': Counter({u'B': 10}), 'user2_edutype': u'B', 'user1_id': 81967, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 85940, 'user1_edutype': u'B'}
+10 B B
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 83397, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 85129, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 83397, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90296, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 83397, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90307, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 83397, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90313, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 83397, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90466, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 83397, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90484, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 85129, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 85137, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 85129, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90296, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 85129, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90297, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 85129, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90307, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 85129, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90309, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 85129, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90310, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 85129, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90312, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 85129, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90313, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 85129, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90466, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 85129, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90483, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 85129, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90484, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 85129, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90489, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 85129, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90492, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 85129, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90500, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 85129, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90501, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 85137, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90296, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 85137, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90307, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 85137, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90313, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 85137, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90466, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 85137, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90484, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 10}), 'user2_edutype': u'B', 'user1_id': 87946, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 91140, 'user1_edutype': u'B'}
+10 B B
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90296, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90297, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90296, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90307, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90296, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90309, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90296, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90310, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90296, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90312, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90296, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90313, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90296, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90466, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90296, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90483, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90296, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90484, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90296, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90489, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90296, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90492, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90296, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90500, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90296, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90501, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90297, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90307, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90297, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90313, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90297, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90466, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90297, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90484, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90307, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90309, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90307, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90310, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90307, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90312, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90307, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90313, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90307, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90466, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90307, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90483, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90307, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90484, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90307, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90489, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90307, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90492, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90307, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90500, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90307, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90501, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90309, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90313, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90309, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90466, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90309, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90484, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90310, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90313, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90310, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90466, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90310, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90484, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90312, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90313, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90312, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90466, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90312, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90484, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90313, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90466, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90313, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90483, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90313, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90484, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90313, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90489, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90313, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90492, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90313, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90500, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90313, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90501, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90466, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90483, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90466, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90484, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90466, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90489, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90466, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90492, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90466, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90500, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90466, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90501, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90483, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90484, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90484, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90489, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90484, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90492, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90484, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90500, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90484, 'link_num': 10, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90501, 'user1_edutype': u'C'}
+10 C C
+---------------
+{'res_list': Counter({u'B': 7, u'C': 2, u'E': 1, u'D': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 11, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 83113, 'user1_edutype': u'D'}
+11 D B
+---------------
+{'res_list': Counter({u'B': 9, u'E': 1, u'D': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 11, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 83125, 'user1_edutype': u'D'}
+11 D B
+---------------
+{'res_list': Counter({u'B': 9, u'A': 1, u'D': 1}), 'user2_edutype': u'B', 'user1_id': 67059, 'link_num': 11, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 73909, 'user1_edutype': u'B'}
+11 B B
+---------------
+{'res_list': Counter({u'B': 9, u'A': 1, u'D': 1}), 'user2_edutype': u'C', 'user1_id': 72507, 'link_num': 11, 'user2_roletype': u'00', 'user1_roletype': u'02', 'user2_id': 73966, 'user1_edutype': u'B'}
+11 B C
+---------------
+{'res_list': Counter({u'B': 8, u'A': 1, u'C': 1, u'D': 1}), 'user2_edutype': u'', 'user1_id': 73966, 'link_num': 11, 'user2_roletype': u'12', 'user1_roletype': u'00', 'user2_id': 74146, 'user1_edutype': u'C'}
+11 C 
+---------------
+{'res_list': Counter({u'B': 8, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 83397, 'link_num': 11, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 85137, 'user1_edutype': u'C'}
+11 C C
+---------------
+{'res_list': Counter({u'B': 8, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 83397, 'link_num': 11, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90297, 'user1_edutype': u'C'}
+11 C C
+---------------
+{'res_list': Counter({u'B': 8, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 83397, 'link_num': 11, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90309, 'user1_edutype': u'C'}
+11 C C
+---------------
+{'res_list': Counter({u'B': 8, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 83397, 'link_num': 11, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90310, 'user1_edutype': u'C'}
+11 C C
+---------------
+{'res_list': Counter({u'B': 8, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 83397, 'link_num': 11, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90312, 'user1_edutype': u'C'}
+11 C C
+---------------
+{'res_list': Counter({u'B': 8, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 83397, 'link_num': 11, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90483, 'user1_edutype': u'C'}
+11 C C
+---------------
+{'res_list': Counter({u'B': 8, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 83397, 'link_num': 11, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90489, 'user1_edutype': u'C'}
+11 C C
+---------------
+{'res_list': Counter({u'B': 8, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 83397, 'link_num': 11, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90492, 'user1_edutype': u'C'}
+11 C C
+---------------
+{'res_list': Counter({u'B': 8, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 83397, 'link_num': 11, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90500, 'user1_edutype': u'C'}
+11 C C
+---------------
+{'res_list': Counter({u'B': 8, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 83397, 'link_num': 11, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90501, 'user1_edutype': u'C'}
+11 C C
+---------------
+{'res_list': Counter({u'B': 8, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 85137, 'link_num': 11, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90297, 'user1_edutype': u'C'}
+11 C C
+---------------
+{'res_list': Counter({u'B': 8, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 85137, 'link_num': 11, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90309, 'user1_edutype': u'C'}
+11 C C
+---------------
+{'res_list': Counter({u'B': 8, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 85137, 'link_num': 11, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90310, 'user1_edutype': u'C'}
+11 C C
+---------------
+{'res_list': Counter({u'B': 8, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 85137, 'link_num': 11, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90312, 'user1_edutype': u'C'}
+11 C C
+---------------
+{'res_list': Counter({u'B': 8, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 85137, 'link_num': 11, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90483, 'user1_edutype': u'C'}
+11 C C
+---------------
+{'res_list': Counter({u'B': 8, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 85137, 'link_num': 11, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90489, 'user1_edutype': u'C'}
+11 C C
+---------------
+{'res_list': Counter({u'B': 8, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 85137, 'link_num': 11, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90492, 'user1_edutype': u'C'}
+11 C C
+---------------
+{'res_list': Counter({u'B': 8, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 85137, 'link_num': 11, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90500, 'user1_edutype': u'C'}
+11 C C
+---------------
+{'res_list': Counter({u'B': 8, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 85137, 'link_num': 11, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90501, 'user1_edutype': u'C'}
+11 C C
+---------------
+{'res_list': Counter({u'B': 8, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90297, 'link_num': 11, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90309, 'user1_edutype': u'C'}
+11 C C
+---------------
+{'res_list': Counter({u'B': 8, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90297, 'link_num': 11, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90310, 'user1_edutype': u'C'}
+11 C C
+---------------
+{'res_list': Counter({u'B': 8, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90297, 'link_num': 11, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90312, 'user1_edutype': u'C'}
+11 C C
+---------------
+{'res_list': Counter({u'B': 8, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90297, 'link_num': 11, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90483, 'user1_edutype': u'C'}
+11 C C
+---------------
+{'res_list': Counter({u'B': 8, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90297, 'link_num': 11, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90489, 'user1_edutype': u'C'}
+11 C C
+---------------
+{'res_list': Counter({u'B': 8, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90297, 'link_num': 11, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90492, 'user1_edutype': u'C'}
+11 C C
+---------------
+{'res_list': Counter({u'B': 8, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90297, 'link_num': 11, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90500, 'user1_edutype': u'C'}
+11 C C
+---------------
+{'res_list': Counter({u'B': 8, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90297, 'link_num': 11, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90501, 'user1_edutype': u'C'}
+11 C C
+---------------
+{'res_list': Counter({u'B': 8, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90309, 'link_num': 11, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90310, 'user1_edutype': u'C'}
+11 C C
+---------------
+{'res_list': Counter({u'B': 8, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90309, 'link_num': 11, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90312, 'user1_edutype': u'C'}
+11 C C
+---------------
+{'res_list': Counter({u'B': 8, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90309, 'link_num': 11, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90483, 'user1_edutype': u'C'}
+11 C C
+---------------
+{'res_list': Counter({u'B': 8, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90309, 'link_num': 11, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90489, 'user1_edutype': u'C'}
+11 C C
+---------------
+{'res_list': Counter({u'B': 8, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90309, 'link_num': 11, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90492, 'user1_edutype': u'C'}
+11 C C
+---------------
+{'res_list': Counter({u'B': 8, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90309, 'link_num': 11, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90500, 'user1_edutype': u'C'}
+11 C C
+---------------
+{'res_list': Counter({u'B': 8, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90309, 'link_num': 11, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90501, 'user1_edutype': u'C'}
+11 C C
+---------------
+{'res_list': Counter({u'B': 8, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90310, 'link_num': 11, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90312, 'user1_edutype': u'C'}
+11 C C
+---------------
+{'res_list': Counter({u'B': 8, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90310, 'link_num': 11, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90483, 'user1_edutype': u'C'}
+11 C C
+---------------
+{'res_list': Counter({u'B': 8, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90310, 'link_num': 11, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90489, 'user1_edutype': u'C'}
+11 C C
+---------------
+{'res_list': Counter({u'B': 8, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90310, 'link_num': 11, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90492, 'user1_edutype': u'C'}
+11 C C
+---------------
+{'res_list': Counter({u'B': 8, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90310, 'link_num': 11, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90500, 'user1_edutype': u'C'}
+11 C C
+---------------
+{'res_list': Counter({u'B': 8, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90310, 'link_num': 11, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90501, 'user1_edutype': u'C'}
+11 C C
+---------------
+{'res_list': Counter({u'B': 8, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90312, 'link_num': 11, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90483, 'user1_edutype': u'C'}
+11 C C
+---------------
+{'res_list': Counter({u'B': 8, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90312, 'link_num': 11, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90489, 'user1_edutype': u'C'}
+11 C C
+---------------
+{'res_list': Counter({u'B': 8, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90312, 'link_num': 11, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90492, 'user1_edutype': u'C'}
+11 C C
+---------------
+{'res_list': Counter({u'B': 8, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90312, 'link_num': 11, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90500, 'user1_edutype': u'C'}
+11 C C
+---------------
+{'res_list': Counter({u'B': 8, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90312, 'link_num': 11, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90501, 'user1_edutype': u'C'}
+11 C C
+---------------
+{'res_list': Counter({u'B': 8, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90483, 'link_num': 11, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90489, 'user1_edutype': u'C'}
+11 C C
+---------------
+{'res_list': Counter({u'B': 8, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90483, 'link_num': 11, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90492, 'user1_edutype': u'C'}
+11 C C
+---------------
+{'res_list': Counter({u'B': 8, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90483, 'link_num': 11, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90500, 'user1_edutype': u'C'}
+11 C C
+---------------
+{'res_list': Counter({u'B': 8, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90483, 'link_num': 11, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90501, 'user1_edutype': u'C'}
+11 C C
+---------------
+{'res_list': Counter({u'B': 8, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90489, 'link_num': 11, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90492, 'user1_edutype': u'C'}
+11 C C
+---------------
+{'res_list': Counter({u'B': 8, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90489, 'link_num': 11, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90500, 'user1_edutype': u'C'}
+11 C C
+---------------
+{'res_list': Counter({u'B': 8, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90489, 'link_num': 11, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90501, 'user1_edutype': u'C'}
+11 C C
+---------------
+{'res_list': Counter({u'B': 8, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90492, 'link_num': 11, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90500, 'user1_edutype': u'C'}
+11 C C
+---------------
+{'res_list': Counter({u'B': 8, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90492, 'link_num': 11, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90501, 'user1_edutype': u'C'}
+11 C C
+---------------
+{'res_list': Counter({u'B': 8, u'C': 3}), 'user2_edutype': u'C', 'user1_id': 90500, 'link_num': 11, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 90501, 'user1_edutype': u'C'}
+11 C C
+---------------
+{'res_list': Counter({u'B': 11}), 'user2_edutype': u'B', 'user1_id': 91140, 'link_num': 11, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 91310, 'user1_edutype': u'B'}
+11 B B
+---------------
+{'res_list': Counter({u'B': 12}), 'user2_edutype': u'Z', 'user1_id': 13834, 'link_num': 12, 'user2_roletype': u'05', 'user1_roletype': u'00', 'user2_id': 74550, 'user1_edutype': u'D'}
+12 D Z
+---------------
+{'res_list': Counter({u'B': 9, u'A': 2, u'D': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 12, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 80232, 'user1_edutype': u'D'}
+12 D B
+---------------
+{'res_list': Counter({u'B': 12}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 12, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 82049, 'user1_edutype': u'D'}
+12 D B
+---------------
+{'res_list': Counter({u'B': 12}), 'user2_edutype': u'B', 'user1_id': 81967, 'link_num': 12, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 82812, 'user1_edutype': u'B'}
+12 B B
+---------------
+{'res_list': Counter({u'B': 12}), 'user2_edutype': u'B', 'user1_id': 85940, 'link_num': 12, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 86051, 'user1_edutype': u'B'}
+12 B B
+---------------
+{'res_list': Counter({u'B': 11, u'A': 2}), 'user2_edutype': u'C', 'user1_id': 13834, 'link_num': 13, 'user2_roletype': u'\u8077\u7a31\u9078\u64c7', 'user1_roletype': u'00', 'user2_id': 73697, 'user1_edutype': u'D'}
+13 D C
+---------------
+{'res_list': Counter({u'B': 13}), 'user2_edutype': u'B', 'user1_id': 81967, 'link_num': 13, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 84836, 'user1_edutype': u'B'}
+13 B B
+---------------
+{'res_list': Counter({u'B': 11, u'D': 2, u'C': 1}), 'user2_edutype': u'', 'user1_id': 13834, 'link_num': 14, 'user2_roletype': u'', 'user1_roletype': u'00', 'user2_id': 55921, 'user1_edutype': u'D'}
+14 D 
+---------------
+{'res_list': Counter({u'B': 11, u'A': 3}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 14, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 73772, 'user1_edutype': u'D'}
+14 D B
+---------------
+{'res_list': Counter({u'B': 9, u'C': 4, u'D': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 14, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74563, 'user1_edutype': u'D'}
+14 D B
+---------------
+{'res_list': Counter({u'B': 11, u'D': 2, u'A': 1}), 'user2_edutype': u'C', 'user1_id': 73909, 'link_num': 14, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 73966, 'user1_edutype': u'B'}
+14 B C
+---------------
+{'res_list': Counter({u'B': 14}), 'user2_edutype': u'B', 'user1_id': 74550, 'link_num': 14, 'user2_roletype': u'00', 'user1_roletype': u'05', 'user2_id': 85940, 'user1_edutype': u'Z'}
+14 Z B
+---------------
+{'res_list': Counter({u'B': 10, u'C': 3, u'A': 1, u'D': 1}), 'user2_edutype': u'', 'user1_id': 13834, 'link_num': 15, 'user2_roletype': u'12', 'user1_roletype': u'00', 'user2_id': 74146, 'user1_edutype': u'D'}
+15 D 
+---------------
+{'res_list': Counter({u'B': 13, u'A': 1, u'C': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 15, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 75089, 'user1_edutype': u'D'}
+15 D B
+---------------
+{'res_list': Counter({u'B': 12, u'A': 2, u'Z': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 15, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 85499, 'user1_edutype': u'D'}
+15 D B
+---------------
+{'res_list': Counter({u'A': 9, u'B': 5, u'C': 1}), 'user2_edutype': u'B', 'user1_id': 67059, 'link_num': 15, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74631, 'user1_edutype': u'B'}
+15 B B
+---------------
+{'res_list': Counter({u'B': 10, u'A': 2, u'D': 2, u'C': 1}), 'user2_edutype': u'C', 'user1_id': 73926, 'link_num': 15, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 73966, 'user1_edutype': u'B'}
+15 B C
+---------------
+{'res_list': Counter({u'B': 12, u'A': 2, u'D': 2}), 'user2_edutype': u'B', 'user1_id': 64322, 'link_num': 16, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 67059, 'user1_edutype': u'C'}
+16 C B
+---------------
+{'res_list': Counter({u'B': 11, u'A': 5, u'C': 1}), 'user2_edutype': u'B', 'user1_id': 73966, 'link_num': 17, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74631, 'user1_edutype': u'C'}
+17 C B
+---------------
+{'res_list': Counter({u'B': 16, u'A': 2}), 'user2_edutype': u'B', 'user1_id': 64322, 'link_num': 18, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 85499, 'user1_edutype': u'C'}
+18 C B
+---------------
+{'res_list': Counter({u'B': 14, u'A': 2, u'C': 1, u'E': 1, u'D': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 19, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 73926, 'user1_edutype': u'D'}
+19 D B
+---------------
+{'res_list': Counter({u'B': 13, u'A': 5, u'C': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 19, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 74631, 'user1_edutype': u'D'}
+19 D B
+---------------
+{'res_list': Counter({u'B': 18, u'D': 3, u'A': 1}), 'user2_edutype': u'B', 'user1_id': 73966, 'link_num': 22, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 81530, 'user1_edutype': u'C'}
+22 C B
+---------------
+{'res_list': Counter({u'B': 19, u'D': 2, u'A': 1, u'C': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 23, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 73909, 'user1_edutype': u'D'}
+23 D B
+---------------
+{'res_list': Counter({u'B': 20, u'D': 3, u'A': 2}), 'user2_edutype': u'C', 'user1_id': 64322, 'link_num': 25, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 73966, 'user1_edutype': u'C'}
+25 C C
+---------------
+{'res_list': Counter({u'B': 24, u'A': 2, u'D': 2}), 'user2_edutype': u'C', 'user1_id': 13834, 'link_num': 28, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 64322, 'user1_edutype': u'D'}
+28 D C
+---------------
+{'res_list': Counter({u'B': 25, u'A': 7, u'D': 3, u'C': 2}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 37, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 67059, 'user1_edutype': u'D'}
+37 D B
+---------------
+{'res_list': Counter({u'B': 29, u'D': 4, u'C': 3, u'Z': 2, u'A': 1, u'E': 1}), 'user2_edutype': u'B', 'user1_id': 13834, 'link_num': 40, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 81530, 'user1_edutype': u'D'}
+40 D B
+---------------
+{'res_list': Counter({u'B': 26, u'A': 8, u'D': 4, u'C': 2}), 'user2_edutype': u'C', 'user1_id': 67059, 'link_num': 40, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 73966, 'user1_edutype': u'B'}
+40 B C
+---------------
+{'res_list': Counter({u'B': 74, u'C': 10, u'D': 7, u'A': 6, u'E': 1}), 'user2_edutype': u'C', 'user1_id': 13834, 'link_num': 98, 'user2_roletype': u'00', 'user1_roletype': u'00', 'user2_id': 73966, 'user1_edutype': u'D'}
+98 D C
+0:05:08.005099
