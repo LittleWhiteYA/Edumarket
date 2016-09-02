@@ -6,7 +6,7 @@ import sys
 sys.path.append('lib')
 from get_info import getResourceInfo, get_res_to_discipline
 
-def find_loyal_members(db):
+def find_loyal_members(db, user_click_res_num, user_click_within_days):
 
 	#----------inner function----------	
 	def get_user_to_res(collect_join, user_click_res_num, user_click_within_days):
@@ -20,6 +20,9 @@ def find_loyal_members(db):
 
 			Returns:
 				No return value.
+
+			The result example is at ../result/top_user_res200_days300 which sets user_click_res_num = 200, \
+			user_click_within_days = 300 (days).
 		"""
 		print "user clicks resources number: {}".format(user_click_res_num)
 		print "Find the log within days: {}".format(user_click_within_days)
@@ -29,7 +32,7 @@ def find_loyal_members(db):
 		res_gener.next()
 		res_to_dis = get_res_to_discipline(db)
 		
-		res_to_keys = read_keywords(keyword_weight = 1)
+		res_to_keys = read_keywords(keyword_weight=1)
 
 		for user in collect_join.find():
 
@@ -75,13 +78,13 @@ def find_loyal_members(db):
 		return user_to_res_list
 
 	#----------outer function----------	
-	join_collectname = "JOIN_UserToRes"
+	join_collectname = "join_user_to_res"
 	#db[join_collectname].drop()
 
 	# check collection exists or not, if not than call join_user_and_res_MR to create a collection.
 	from join_MR import join_user_and_res_MR
 	if join_collectname in db.collection_names() or join_user_and_res_MR(db, join_collectname):
-		get_user_to_res(db[join_collectname], user_click_res_num = 1000, user_click_within_days = 365)
+		get_user_to_res(db[join_collectname], user_click_res_num, user_click_within_days)
 		pass
 
 
@@ -127,7 +130,7 @@ db = client['edumarket_tmp']
 if __name__ == "__main__":
 	start = datetime.now()
 
-	find_loyal_members(db)
+	find_loyal_members(db, user_click_res_num=1000, user_click_within_days=365)
 
 	print "{} End !".format(__name__)
 	print datetime.now()-start

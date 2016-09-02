@@ -1,6 +1,6 @@
 from collections import defaultdict
 
-def getMemberInfo(db, member_collectname="memberInfo"):
+def getMemberInfo(db, member_collectname="memberinfo"):
 	"""
 		This function is a generator.
 		First, get a list of sorted user id and then return a list of member information according \
@@ -36,7 +36,7 @@ def getMemberInfo(db, member_collectname="memberInfo"):
 
 		sorted_user_list = yield member_list
 
-def getResourceInfo(db, res_collectname="Resources_type"):
+def getResourceInfo(db, res_collectname="resources_type"):
 	"""
 		This function is a generator.
 		First, get a list of sorted resource id and then return a list of resource information according \
@@ -87,7 +87,7 @@ def get_res_to_discipline(db, domain_collectname="domain"):
 	return res_to_discipline
 
 
-def get_obj_to_res(db, upload_collectname='Resources_objfile'):
+def get_obj_to_res(db, upload_collectname='resources_objfile'):
 	"""
 		This function maps objectfile id to resource id.
 
@@ -110,7 +110,7 @@ def get_obj_to_res(db, upload_collectname='Resources_objfile'):
 	return obj_to_res
 
 
-def get_all_res(db, res_collectname = 'Resources_type'):
+def get_all_res(db, res_collectname='resources_type'):
 	"""
 		This function gets all resource informations and split by resource's edugrade.
 

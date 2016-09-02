@@ -13,9 +13,9 @@ def join_res_and_user_MR(db, join_collectname):
 		Returns:
 			True: if join succeed.
 	"""
-	up_collectname = 'Resources_objfile'
-	log_collectname = 'Search_log'	
-	resInfo_collectname = 'Resources_type'
+	up_collectname = 'resources_objfile'
+	log_collectname = 'search_log'	
+	resInfo_collectname = 'resources_type'
 	collect_up = db[up_collectname]
 	collect_log = db[log_collectname]
 	collect_resinfo = db[resInfo_collectname]
@@ -26,15 +26,15 @@ def join_res_and_user_MR(db, join_collectname):
 	for up in collect_up.find(query, fields):
 		up_dict[str(up["objectfile_id"])] = str(up["resources_id"])
 
-	cookie_to_user = _map_cookie_to_user_id(db)
+	cookie_to_user = _mapper_cookie_to_user_id(db)
 	
 	# uploader mapper
-	up_map = Code(""" function(){
+	up_mapper = Code(""" function(){
 		emit(this.resources_id.toString(), {'upload': this.member_id});
 	} """)
 
 	# downloader
-	down_map = Code(""" function(){
+	down_mapper = Code(""" function(){
 		res_id = obj_to_res[this.main_col];
 		user_id = this.user_id;
 		if(user_id == -1 && this.cookie_iden in cookie_to_user)
@@ -43,7 +43,7 @@ def join_res_and_user_MR(db, join_collectname):
 	} """)
 
 	# user clicks link
-	link_map = Code(""" function(){
+	link_mapper = Code(""" function(){
 		res_id = obj_to_res[this.main_col];
 		user_id = this.user_id;
 		if(user_id == -1 && this.cookie_iden in cookie_to_user)
@@ -52,7 +52,7 @@ def join_res_and_user_MR(db, join_collectname):
 	} """)
 
 	# user clicks resource
-	click_res_map = Code(""" function(){
+	click_res_mapper = Code(""" function(){
 		res_id = this.main_col;
 		user_id = this.user_id;
 		if(user_id == -1 && this.cookie_iden in cookie_to_user)
@@ -61,7 +61,7 @@ def join_res_and_user_MR(db, join_collectname):
 	} """)
 
 	# resource informations
-	resInfo_map = Code(""" function(){
+	resInfo_mapper = Code(""" function(){
 		res_id = this.id.toString();
 		emit(res_id, {'edugrade': this.edugrade, 'formtype': this.formtype});
 	} """)
@@ -110,15 +110,21 @@ def join_res_and_user_MR(db, join_collectname):
 	link_query = {"class_code": { "$in": ["L", "M_L"] } }
 	click_res_query = {"class_code": { "$in": ["R", "M_R"] } }
 
-	collect_resinfo.map_reduce(resInfo_map, reducer, out={ "reduce": join_collectname}, query={})
-	collect_up.map_reduce(up_map, reducer, out={ "reduce": join_collectname}, query=up_query)
-	collect_log.map_reduce(down_map, reducer, out={ "reduce": join_collectname}, \
+	# get all resources profile like edugrade, formtype and join to the collection
+	collect_resinfo.map_reduce(resInfo_mapper, reducer, out={ "reduce": join_collectname}, query={})
+	# get each resource's uploader id and join
+	collect_up.map_reduce(up_mapper, reducer, out={ "reduce": join_collectname}, query=up_query)
+	
+	# get all log users (dowload, click resource, click link) id and join
+	# down_mapper and link_mapper has to change "main_col" which is objectfile id to resource id
+	collect_log.map_reduce(down_mapper, reducer, out={ "reduce": join_collectname}, \
 						scope={"obj_to_res": up_dict, "cookie_to_user": cookie_to_user}, query=down_query)
-	collect_log.map_reduce(link_map, reducer, out={ "reduce": join_collectname}, \
+	collect_log.map_reduce(link_mapper, reducer, out={ "reduce": join_collectname}, \
 						scope={"obj_to_res": up_dict, "cookie_to_user": cookie_to_user}, query=link_query)
-	collect_log.map_reduce(click_res_map, reducer, out={ "reduce": join_collectname}, \
+	collect_log.map_reduce(click_res_mapper, reducer, out={ "reduce": join_collectname}, \
 						scope={"cookie_to_user": cookie_to_user}, query=click_res_query)
 
+	# remove some useless data 
 	collect_join = db[join_collectname]
 	remove_query = { "$or": [{"value.upload": {"$exists": False}}, {"value.upload": -1} ] }	
 	collect_join.remove(remove_query)
@@ -130,6 +136,7 @@ def join_res_and_user_MR(db, join_collectname):
 					] }	
 	collect_join.remove(remove_query)
 	
+
 	for each in collect_join.find():
 		print each
 
@@ -149,21 +156,23 @@ def join_user_and_res_MR(db, join_collectname):
 			True: if join succeed.
 	"""
 
-	log_collectname = 'Search_log'
-	res_obj_collectname = 'Resources_objfile'
+	log_collectname = 'search_log'
+	res_obj_collectname = 'resources_objfile'
 	collect_log = db[log_collectname]
 	collect_obj = db[res_obj_collectname]
 	
 	obj_to_res = {}
 	fields = {"objectfile_id": 1, "resources_id": 1}
 	query = {"resources_id": {"$ne": -1} }
+
+	# just like get_obj_to_res function in get_info.py
 	for obj in collect_obj.find(query, fields):
 		obj_to_res[str(obj['objectfile_id']) ] = obj['resources_id']
 
-	cookie_to_user = _map_cookie_to_user_id(db)
+	cookie_to_user = _mapper_cookie_to_user_id(db)
 	
 
-	user_map = Code(""" function(){
+	user_mapper = Code(""" function(){
 		user_id = this.user_id;
 		if(user_id == -1 && this.cookie_iden in cookie_to_user)
 			user_id = cookie_to_user[this.cookie_iden];
@@ -181,7 +190,7 @@ def join_user_and_res_MR(db, join_collectname):
 		}
 	} """ )
 
-	user_reduce = Code(""" function(key, values){
+	user_reducer = Code(""" function(key, values){
 		var res = {
 			'res_and_since': []
 		};
@@ -195,17 +204,18 @@ def join_user_and_res_MR(db, join_collectname):
 		return res;
 	} """ )
 
+	#MongoDB query
 	query = {"class_code": {"$in":["R", "M_R", "L", "M_L", "F", "M_F"] } }
-	collect_log.map_reduce(user_map, user_reduce, out={ "reduce": join_collectname}, \
+	collect_log.map_reduce(user_mapper, user_reducer, out={ "reduce": join_collectname}, \
 						scope={"cookie_to_user": cookie_to_user, "obj_to_res": obj_to_res}, query=query)
 	
 	return True
 
 
 
-def _map_cookie_to_user_id(db, log_collectname = 'Search_log'):
+def _mapper_cookie_to_user_id(db, log_collectname='search_log'):
 	"""
-		This function checks a guest may be a user by looking for the same cookie.
+		This function checks a guest may be a user by the same cookie.
 
 		Args:
 			log_collectname (str): collection which contains user log.
@@ -223,6 +233,7 @@ def _map_cookie_to_user_id(db, log_collectname = 'Search_log'):
 				} }
 			])
 	
+	# let the same cookle together to find guest may be a user
 	user_list = sorted(list(result), key = lambda cookie: (cookie["_id"]["cookie_iden"], cookie["_id"]["user_id"]) )
 	cookie_to_user = {}
 	for idx, user in enumerate(user_list):

@@ -48,10 +48,9 @@
 <em class="property">class </em><code class="descclassname">recommend_res.</code><code class="descname">recommendSystem</code><span class="sig-paren">(</span><em>db</em><span class="sig-paren">)</span><a class="headerlink" href="#recommend_res.recommendSystem" title="Permalink to this definition">¶</a></dt>
 <dd><dl class="method">
 <dt id="recommend_res.recommendSystem._recommendSystem__log_split_by_time">
-<code class="descname">_recommendSystem__log_split_by_time</code><span class="sig-paren">(</span><em>res_collectname</em>, <em>log_collectname='Search_log'</em><span class="sig-paren">)</span><a class="headerlink" href="#recommend_res.recommendSystem._recommendSystem__log_split_by_time" title="Permalink to this definition">¶</a></dt>
-<dd><p>This function split user log by time.
-See all users using situation each two weeks and
-print the results.</p>
+<code class="descname">_recommendSystem__log_split_by_time</code><span class="sig-paren">(</span><em>res_collectname</em>, <em>log_collectname='search_log'</em><span class="sig-paren">)</span><a class="headerlink" href="#recommend_res.recommendSystem._recommendSystem__log_split_by_time" title="Permalink to this definition">¶</a></dt>
+<dd><p>This function split user log by time (default is half month).
+See all users using situation each two dateblocks.</p>
 <dl class="docutils">
 <dt>Args:</dt>
 <dd>res_collectname (str): records of recommend resources&#8217; collection name.
@@ -59,23 +58,22 @@ log_collectname (str): search_log collection name.</dd>
 <dt>Returns:</dt>
 <dd>No return value.</dd>
 </dl>
-<p>The result example is at ../result/recommend_0810.</p>
 </dd></dl>
 
 <dl class="method">
 <dt id="recommend_res.recommendSystem._recommendSystem__print_data">
 <code class="descname">_recommendSystem__print_data</code><span class="sig-paren">(</span><em>res_collectname</em>, <em>rec_res_list</em>, <em>dateCount</em>, <em>res_to_date</em><span class="sig-paren">)</span><a class="headerlink" href="#recommend_res.recommendSystem._recommendSystem__print_data" title="Permalink to this definition">¶</a></dt>
-<dd><p>This function prints the result each two weeks and calculate the changing percent                       in first and second two weeks.
-This function also prints the result.</p>
+<dd><p>This function used to calculate the changing percent in first and second dateblock                      and print the result each dateblock.</p>
 <dl class="docutils">
 <dt>Args:</dt>
 <dd>res_collectname (str): collection name which stores recommended data information.
 rec_res_list (list): recommended resources list from source collections(res_collectname).
-dateCount (dict): count users using time each two weeks from all recommended collections.
-res_to_date (defaultdict(dict)): the resource which in rec_res_list and                                                                                                  split users used time each two weeks.</dd>
+dateCount (dict): count users using time each dateblock from all recommended collections.
+res_to_date (defaultdict(dict)): the resource which in rec_res_list and                                                                                                  split users using time each dateblock.</dd>
 <dt>Returns:</dt>
 <dd>No return value.</dd>
 </dl>
+<p>The result example is at ../result/recommend_0902 which sets dateblock is half month.</p>
 </dd></dl>
 
 <dl class="method">
@@ -95,7 +93,7 @@ hot_res_list (list): popular resources list.</dd>
 <dt id="recommend_res.recommendSystem.find_good_res">
 <code class="descname">find_good_res</code><span class="sig-paren">(</span><em>recommend_res</em>, <em>hot_res_list</em><span class="sig-paren">)</span><a class="headerlink" href="#recommend_res.recommendSystem.find_good_res" title="Permalink to this definition">¶</a></dt>
 <dd><p>This function uses recommend resources from records of recommend resources and                  hot resources list from analysizing users&#8217; log to do cross-analysis.
-This will find out which resource is users&#8217; favourites and also a good resources                        which recommended by our team.
+This will find out which resource is accepted by users  and also a good resources                       which recommended by our team.
 This function also prints the results.</p>
 <dl class="docutils">
 <dt>Args:</dt>
@@ -104,7 +102,7 @@ hot_res_list (list): the hot resource list according to users&#8217; log.</dd>
 <dt>Returns:</dt>
 <dd>No return value.</dd>
 </dl>
-<p>The results example is at ../result/find_good_res_100 which sets click_num = 100.</p>
+<p>The result example is at ../result/find_good_res_100 which sets res_clicked_num = 100.</p>
 </dd></dl>
 
 <dl class="method">
@@ -123,7 +121,7 @@ hot_res_list (list): the hot resource list according to users&#8217; log.</dd>
 
 <span class="target" id="module-user_SocialNetwork"></span><dl class="class">
 <dt id="user_SocialNetwork.user_SocialNetwork">
-<em class="property">class </em><code class="descclassname">user_SocialNetwork.</code><code class="descname">user_SocialNetwork</code><span class="sig-paren">(</span><em>db</em>, <em>join_collname='JOIN_ResToUser'</em><span class="sig-paren">)</span><a class="headerlink" href="#user_SocialNetwork.user_SocialNetwork" title="Permalink to this definition">¶</a></dt>
+<em class="property">class </em><code class="descclassname">user_SocialNetwork.</code><code class="descname">user_SocialNetwork</code><span class="sig-paren">(</span><em>db</em>, <em>join_collname='join_res_to_user'</em><span class="sig-paren">)</span><a class="headerlink" href="#user_SocialNetwork.user_SocialNetwork" title="Permalink to this definition">¶</a></dt>
 <dd><dl class="method">
 <dt id="user_SocialNetwork.user_SocialNetwork.count_userEdu_to_resEdu">
 <code class="descname">count_userEdu_to_resEdu</code><span class="sig-paren">(</span><em>hot_res_list</em><span class="sig-paren">)</span><a class="headerlink" href="#user_SocialNetwork.user_SocialNetwork.count_userEdu_to_resEdu" title="Permalink to this definition">¶</a></dt>
@@ -163,7 +161,7 @@ finds all member who used uploader&#8217;s resources and prints the results.</p>
 <dt>Returns:</dt>
 <dd>No return value.</dd>
 </dl>
-<p>the result example is at ../result/upID_FLR.</p>
+<p>the result example is at ../result/uploader_and_user.</p>
 </dd></dl>
 
 <dl class="method">
@@ -175,7 +173,7 @@ This function also prints the results.</p>
 <dl class="docutils">
 <dt>Args:</dt>
 <dd>hot_res_list (list): this list contains all hot resources&#8217; informations.
-link_number (int): this link number decides how many time                                                                       does resources was clicked by both users could define as a link.</dd>
+link_number (int): this link number filters time which resources was clicked                                                                    by both users below link number.</dd>
 <dt>Returns:</dt>
 <dd>No return value.</dd>
 </dl>
@@ -198,7 +196,7 @@ link_number (int): this link number decides how many time                       
 
 <span class="target" id="module-find_loyal_member"></span><dl class="function">
 <dt id="find_loyal_member.find_loyal_members">
-<code class="descclassname">find_loyal_member.</code><code class="descname">find_loyal_members</code><span class="sig-paren">(</span><em>db</em><span class="sig-paren">)</span><a class="headerlink" href="#find_loyal_member.find_loyal_members" title="Permalink to this definition">¶</a></dt>
+<code class="descclassname">find_loyal_member.</code><code class="descname">find_loyal_members</code><span class="sig-paren">(</span><em>db</em>, <em>user_click_res_num</em>, <em>user_click_within_days</em><span class="sig-paren">)</span><a class="headerlink" href="#find_loyal_member.find_loyal_members" title="Permalink to this definition">¶</a></dt>
 <dd></dd></dl>
 
 <dl class="function">
@@ -244,7 +242,7 @@ join_collectname (str): expected joined collection name</dd>
 
 <span class="target" id="module-get_info"></span><dl class="function">
 <dt id="get_info.getMemberInfo">
-<code class="descclassname">get_info.</code><code class="descname">getMemberInfo</code><span class="sig-paren">(</span><em>db</em>, <em>member_collectname='memberInfo'</em><span class="sig-paren">)</span><a class="headerlink" href="#get_info.getMemberInfo" title="Permalink to this definition">¶</a></dt>
+<code class="descclassname">get_info.</code><code class="descname">getMemberInfo</code><span class="sig-paren">(</span><em>db</em>, <em>member_collectname='memberinfo'</em><span class="sig-paren">)</span><a class="headerlink" href="#get_info.getMemberInfo" title="Permalink to this definition">¶</a></dt>
 <dd><p>This function is a generator.
 First, get a list of sorted user id and then return a list of member information according              the list of user id.</p>
 <dl class="docutils">
@@ -257,7 +255,7 @@ First, get a list of sorted user id and then return a list of member information
 
 <dl class="function">
 <dt id="get_info.getResourceInfo">
-<code class="descclassname">get_info.</code><code class="descname">getResourceInfo</code><span class="sig-paren">(</span><em>db</em>, <em>res_collectname='Resources_type'</em><span class="sig-paren">)</span><a class="headerlink" href="#get_info.getResourceInfo" title="Permalink to this definition">¶</a></dt>
+<code class="descclassname">get_info.</code><code class="descname">getResourceInfo</code><span class="sig-paren">(</span><em>db</em>, <em>res_collectname='resources_type'</em><span class="sig-paren">)</span><a class="headerlink" href="#get_info.getResourceInfo" title="Permalink to this definition">¶</a></dt>
 <dd><p>This function is a generator.
 First, get a list of sorted resource id and then return a list of resource information according                the list of resource id.</p>
 <dl class="docutils">
@@ -270,7 +268,7 @@ First, get a list of sorted resource id and then return a list of resource infor
 
 <dl class="function">
 <dt id="get_info.get_all_res">
-<code class="descclassname">get_info.</code><code class="descname">get_all_res</code><span class="sig-paren">(</span><em>db</em>, <em>res_collectname='Resources_type'</em><span class="sig-paren">)</span><a class="headerlink" href="#get_info.get_all_res" title="Permalink to this definition">¶</a></dt>
+<code class="descclassname">get_info.</code><code class="descname">get_all_res</code><span class="sig-paren">(</span><em>db</em>, <em>res_collectname='resources_type'</em><span class="sig-paren">)</span><a class="headerlink" href="#get_info.get_all_res" title="Permalink to this definition">¶</a></dt>
 <dd><p>This function gets all resource informations and split by resource&#8217;s edugrade.</p>
 <dl class="docutils">
 <dt>Args:</dt>
@@ -282,7 +280,7 @@ First, get a list of sorted resource id and then return a list of resource infor
 
 <dl class="function">
 <dt id="get_info.get_obj_to_res">
-<code class="descclassname">get_info.</code><code class="descname">get_obj_to_res</code><span class="sig-paren">(</span><em>db</em>, <em>upload_collectname='Resources_objfile'</em><span class="sig-paren">)</span><a class="headerlink" href="#get_info.get_obj_to_res" title="Permalink to this definition">¶</a></dt>
+<code class="descclassname">get_info.</code><code class="descname">get_obj_to_res</code><span class="sig-paren">(</span><em>db</em>, <em>upload_collectname='resources_objfile'</em><span class="sig-paren">)</span><a class="headerlink" href="#get_info.get_obj_to_res" title="Permalink to this definition">¶</a></dt>
 <dd><p>This function maps objectfile id to resource id.</p>
 <dl class="docutils">
 <dt>Args:</dt>

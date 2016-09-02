@@ -9,11 +9,10 @@ class recommendSystem:
 		self.db = db
 		self.RecommendResources = []
 
-	def __log_split_by_time(self, res_collectname, log_collectname='Search_log'):
+	def __log_split_by_time(self, res_collectname, log_collectname='search_log'):
 		"""
-			This function split user log by time.
-			See all users using situation each two weeks and
-			print the results.
+			This function split user log by time (default is half month).
+			See all users using situation each two dateblocks.
 			
 			Args:
 				res_collectname (str): records of recommend resources' collection name.
@@ -21,8 +20,6 @@ class recommendSystem:
 
 			Returns:
 				No return value.
-
-			The result example is at ../result/recommend_0810.
 		
 		"""
 		
@@ -31,6 +28,7 @@ class recommendSystem:
 		rec_res_list = list(self.db[res_collectname].find())
 		res_sets = set()
 
+		# add resource id in a set than can be more efficiency to search a resource in a recommend set or not.
 		for r in rec_res_list:
 			if r['resource_id'] not in res_sets:
 				r['resource_id'] = int(r['resource_id'])
@@ -42,6 +40,7 @@ class recommendSystem:
 		DateCount = {}
 		res_to_date = {}
 
+		# MongoDB query
 		query = {"class_code": {"$in":["R", "M_R", "L", "M_L", "F", "M_F"] } }	
 		log_datas = collect_log.find(query).sort([("main_col",1), ("since",1)])
 
@@ -61,13 +60,22 @@ class recommendSystem:
 		
 
 			if res_id in res_sets:
-				if data["since"].day <= 15:	# split time by two weeks
+				### one month
+				"""
+				date_block = datetime(data["since"].year, data["since"].month, 1)
+				"""
+				### half month
+				if data["since"].day <= 15:	# split time by two dateblocks
 					date_block = datetime(data["since"].year, data["since"].month, 1)
 				elif data["since"].day <= 31:	
 					date_block = datetime(data["since"].year, data["since"].month, 16)
+
+				# count each dateblock total using number
 				DateCount.setdefault(date_block, 0)
 				DateCount[date_block] += 1		
 				
+				# each resource has its user using time's dateblock
+				# add data to the resource's dateblock which according to data using time
 				if res_id not in res_to_date:
 					res_to_date[res_id] = defaultdict(list)
 				for res_each in rec_res_list:
@@ -79,19 +87,20 @@ class recommendSystem:
 
 	def __print_data(self, res_collectname, rec_res_list, dateCount, res_to_date):
 		"""
-			This function prints the result each two weeks and calculate the changing percent \
-			in first and second two weeks.
-			This function also prints the result.
+			This function used to calculate the changing percent in first and second dateblock \
+			and print the result each dateblock.
 
 			Args:
 				res_collectname (str): collection name which stores recommended data information.
 				rec_res_list (list): recommended resources list from source collections(res_collectname).
-				dateCount (dict): count users using time each two weeks from all recommended collections.
+				dateCount (dict): count users using time each dateblock from all recommended collections.
 				res_to_date (defaultdict(dict)): the resource which in rec_res_list and \
-												 split users used time each two weeks.
+												 split users using time each dateblock.
 		
 			Returns:
 				No return value.
+
+			The result example is at ../result/recommend_0902 which sets dateblock is half month.
 
 		"""
 		print res_collectname
@@ -114,36 +123,46 @@ class recommendSystem:
 			
 			prev_num = None
 			prev_total_num = None
-			prev_week = None
+			prev_dateblock = None
 			res_to_date[res_id] = OrderedDict(sorted(res_to_date[res_id].items()))
-			for week,value in res_to_date[res_id].iteritems():
-				if prev_week is None or (week-prev_week).days > 16:
+			for dateblock,value in res_to_date[res_id].iteritems():
+				if prev_dateblock is None or (dateblock-prev_dateblock).days > 16:
 					prev_num = len(value)
-					prev_total_num = dateCount[week]
-					prev_week = week
+					prev_total_num = dateCount[dateblock]
+					prev_dateblock = dateblock
 
 
 				data_num = len(value)
 				percent = round(float(data_num-prev_num)/prev_num*100, 2)
-				total_num = dateCount[week]
+				total_num = dateCount[dateblock]
 				total_per = round(float(total_num-prev_total_num)/prev_total_num*100, 2)
-				#print "Week: {}, numbers / total: {} / {}, num / total percent: {}% / {}%" \ 
-				#												.format(week, data_num, total_num, \
+				#print "dateblock: {}, numbers / total: {} / {}, num / total percent: {}% / {}%" \
+				#												.format(dateblock, data_num, total_num, \
 				#												"+"+str(percent) if percent > 0 else str(percent), \
 				#												"+"+str(total_per) if total_per > 0 else str(total_per))
-				
-				if (week-startDate).days <= 15:
-					recommend_resource['FirstWeek_Change'] = round(percent/100, 4)
-					recommend_resource['FirstWeek_TotalChange'] = round(total_per/100, 4)
-				elif (week-startDate).days <= 31:
-					recommend_resource['SecWeek_Change'] = round(percent/100, 4)
-					recommend_resource['SecWeek_TotalChange'] = round(total_per/100, 4)
+			
+				### one month
+				"""	
+				if (dateblock-startDate).days <= 31:
+					recommend_resource['Firstdateblock_Change'] = round(percent/100, 4)
+					recommend_resource['Firstdateblock_TotalChange'] = round(total_per/100, 4)
+				elif (dateblock-startDate).days <= 62:
+					recommend_resource['Secdateblock_Change'] = round(percent/100, 4)
+					recommend_resource['Secdateblock_TotalChange'] = round(total_per/100, 4)
+				"""
+				### half month	
+				if (dateblock-startDate).days <= 15:
+					recommend_resource['Firstdateblock_Change'] = round(percent/100, 4)
+					recommend_resource['Firstdateblock_TotalChange'] = round(total_per/100, 4)
+				elif (dateblock-startDate).days <= 31:
+					recommend_resource['Secdateblock_Change'] = round(percent/100, 4)
+					recommend_resource['Secdateblock_TotalChange'] = round(total_per/100, 4)
 
 				
 
 				prev_num = data_num
 				prev_total_num = total_num
-				prev_week = week
+				prev_dateblock = dateblock
 			#print recommend_resource
 			self.RecommendResources.append(recommend_resource)
 			#print "==============="
@@ -151,7 +170,7 @@ class recommendSystem:
 
 
 		'''
-		# print the users number each two weeks
+		# print the users number each dateblock
 		prev_date_num = None
 		for date, num in OrderedDict(sorted(dateCount.items())).items():
 			if prev_date_num is None: prev_date_num = num
@@ -166,7 +185,7 @@ class recommendSystem:
 		"""
 			This function uses recommend resources from records of recommend resources and \
 			hot resources list from analysizing users' log to do cross-analysis.
-			This will find out which resource is users' favourites and also a good resources \
+			This will find out which resource is accepted by users  and also a good resources \
 			which recommended by our team.
 			This function also prints the results.
 
@@ -177,33 +196,42 @@ class recommendSystem:
 			Returns:
 				No return value.
 
-			The results example is at ../result/find_good_res_100 which sets click_num = 100.
+			The result example is at ../result/find_good_res_100 which sets res_clicked_num = 100.
 		"""
 
 		print "==========\nfunction find_good_res:"
-		count = {}
+		good_res_list = []
+		edu_and_dis_count = {}
 		for rec_res in recommend_res:
 			for hot_res in hot_res_list:
+				# the resource which accepted by users and edumarket teams
 				if str(rec_res['res_id']) == hot_res['resource_id']:
-					import pprint
-					pp = pprint.PrettyPrinter(indent = 4, depth = 1)
-					pp.pprint(hot_res)
 
+					# get the number using by user not guest and count each user back time
 					user_num = sum(hot_res['user_edutype'].values()) - hot_res['user_edutype']['-1']
 					if user_num != 0:
 						user_back_time = round(float(hot_res['total_num'] - hot_res['user_edutype']['-1']) / user_num, 2)
-						print "each user use time: {}".format(user_back_time)
-					print '\n'
+						hot_res['user_back_time'] = user_back_time
+					
+					good_res_list.append(hot_res)
 
-					count.setdefault(hot_res['res_edugrade'], 0)
-					count[hot_res['res_edugrade']] += 1
-					count.setdefault(hot_res['res_discipline_id'], 0)
-					count[hot_res['res_discipline_id']] += 1
+					# count the edutypes and displine types from good_res_list
+					edu_and_dis_count.setdefault(hot_res['res_edugrade'], 0)
+					edu_and_dis_count[hot_res['res_edugrade']] += 1
+					edu_and_dis_count.setdefault(hot_res['res_discipline_id'], 0)
+					edu_and_dis_count[hot_res['res_discipline_id']] += 1
 					break
 
+		for res in good_res_list:
+			import pprint
+			pp = pprint.PrettyPrinter(indent = 4, depth = 1)
+			pp.pprint(res)
+
 		from operator import itemgetter
-		for i,v in sorted(count.items(), key=itemgetter(1), reverse=True):
+		for i,v in sorted(edu_and_dis_count.items(), key=itemgetter(1), reverse=True):
 			print i,v
+	
+		return good_res_list
 
 
 
@@ -227,7 +255,7 @@ class recommendSystem:
 		local_idx = 0
 		index = 0
 		for res in rec_res[index:]:
-			if res['source'] == coll:
+			if res['source'] == collect:
 				for hot_res in hot_res_list:
 					if str(res['res_id']) == hot_res['resource_id']:
 						print hot_res['resource_id']
@@ -235,7 +263,7 @@ class recommendSystem:
 						local_use_num[local_idx] += hot_res['total_num']
 						break
 				local_idx += 1
-				# 9 is especially for Home_WebEduResources
+				# 9 is especially for Home_WebEduResources and is different from APP or Ebook
 				if local_idx % 9 == 0:
 					break
 
@@ -257,7 +285,7 @@ class recommendSystem:
 		"""
 		import cPickle as pickle
 		try:
-			with open('tmp/rec_res.pic', 'rb') as fp:
+			with open('tmp/rec_res.pkl', 'rb') as fp:
 				self.RecommendResources = pickle.load(fp)
 		except IOError:	
 			resource_sets = {'Home_EduAPP', 'Home_EduEbook', 'Home_WebEduResources', 'Junior_resources', \
@@ -268,7 +296,7 @@ class recommendSystem:
 					print '---------------------'
 					#break
 
-			with open('tmp/rec_res.pic', 'wb') as fp:
+			with open('tmp/rec_res.pkl', 'wb') as fp:
 				pickle.dump(self.RecommendResources, fp)
 
 		return self.RecommendResources

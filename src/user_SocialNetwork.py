@@ -9,7 +9,7 @@ from get_info import getMemberInfo, getResourceInfo, get_res_to_discipline, get_
 
 
 class user_SocialNetwork:
-	def __init__(self, db, join_collname="JOIN_ResToUser"):
+	def __init__(self, db, join_collname="join_res_to_user"):
 		self.db = db
 		self.join_collname = join_collname
 		self.coll_join = db[join_collname]
@@ -26,7 +26,7 @@ class user_SocialNetwork:
 			Returns:
 				No return value.
 		
-			the result example is at ../result/upID_FLR.
+			the result example is at ../result/uploader_and_user.
 
 		"""
 		
@@ -56,13 +56,14 @@ class user_SocialNetwork:
 		mem_gener = getMemberInfo(self.db)
 		mem_gener.next()
 		for uploader, user_and_time in res_to_user.items():
-			print uploader, user_and_time
+			print "Uploader id: {}".format(uploader)
+			print "user id and number: {}".format(user_and_time)
 
 			edutype_list = []
 			memberInfo_list = mem_gener.send(user_and_time.keys())
 
 			for member in memberInfo_list:
-				print member
+				#print member
 				if member == -1:
 					edutype_list.extend("-1" for i in range(user_and_time[member]))
 				elif member == "H" or member["edutype"] == "":
@@ -165,8 +166,8 @@ class user_SocialNetwork:
 
 			Args:
 				hot_res_list (list): this list contains all hot resources' informations.
-				link_number (int): this link number decides how many time \
-									does resources was clicked by both users could define as a link.
+				link_number (int): this link number filters time which resources was clicked \
+									by both users below link number.
 
 			Returns:
 				No return value.
@@ -175,6 +176,8 @@ class user_SocialNetwork:
 		"""
 
 		print "==================\nfunction find_userlinks:"
+		print "link_number: {}".format(link_number)
+		print "=================="
 		user_links = []
 		for res in hot_res_list:
 			res_id = res['resource_id']
@@ -215,7 +218,7 @@ class user_SocialNetwork:
 			
 			value_list = list(value_gener)
 			size = len(value_list)	#the link number between two users
-			if size >= link_num:
+			if size >= link_number:
 				hot_res_list = [value['res_id'] for value in value_list]
 				
 				ResInfo_list = res_gener.send(hot_res_list)
@@ -228,14 +231,12 @@ class user_SocialNetwork:
 				user_links2.append(user_link)
 		
 
-		user_links2.sort(key = lambda link: link['link_num'])
+		user_links2.sort(key = lambda link: link['link_num'], reverse=True)
 		for link in user_links2:
 			print "---------------"
-			print link
-			try:
-				print link['link_num'], link['user1_edutype'], link['user2_edutype']
-			except Exception:
-				pass
+			import pprint
+			pp = pprint.PrettyPrinter(indent=4)
+			pp.pprint(link)
 
 
 	def count_userEdu_to_resEdu(self, hot_res_list):
@@ -288,28 +289,28 @@ class user_SocialNetwork:
 		if self.join_collname in self.db.collection_names() or join_res_and_user_MR(self.db, self.join_collname):
 
 			import cPickle as pickle
-			print "Click_num: {}".format(res_clicked_num)
+			print "Resources Clicked num: {}".format(res_clicked_num)
 			try:
-				with open('tmp/hot_res_list_'+str(res_clicked_num)+'.pic', 'rb') as fp:
+				with open('tmp/hot_res_list_'+str(res_clicked_num)+'.pkl', 'rb') as fp:
 					hot_res_list = pickle.load(fp)
 			except IOError:
 				hot_res_list = self.find_hot_resources(res_clicked_num)
-				with open('tmp/hot_res_list_'+str(res_clicked_num)+'.pic', 'wb') as fp:
+				with open('tmp/hot_res_list_'+str(res_clicked_num)+'.pkl', 'wb') as fp:
 					pickle.dump(hot_res_list, fp)
 		
 		return hot_res_list
 
 	# I use this function to run each results.
 	def __call__(self, res_clicked_num):
-		self.find_member_network()
 		hot_res_list = self.get_hot_res_list(res_clicked_num)
+		#self.find_member_network()
 		if hot_res_list != None:	
-			self.find_userlinks(hot_res_list)
-			self.count_userEdu_to_resEdu(hot_res_list)
+			self.find_userlinks(hot_res_list, link_number=5)
+			#self.count_userEdu_to_resEdu(hot_res_list)
 			pass
 
 		'''
-		# get all resources from collection "Resources_type"
+		# get all resources from collection "resources_type"
 		all_res = get_all_res(db)
 		for edu, dis in sorted(all_res.iteritems()):
 			print "res_edu: {}".format(edu)
@@ -325,7 +326,7 @@ if __name__ == "__main__":
 	start = datetime.now()
 		
 	user_network = user_SocialNetwork(db)
-	user_network(res_clicked_num = 500)
+	user_network(res_clicked_num=100)
 
 	print datetime.now() - start
 
